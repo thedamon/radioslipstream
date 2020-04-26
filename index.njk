@@ -4,11 +4,19 @@ eleventyNavigation:
   key: Home
   order: 1
 ---
+<div class="intro">
+  <p>The records of a fiercely loved (by the DJ) indie university radio thing.</p>
+  <p>I've always loved finding music and standing songs up in delicate rows.</p>
+  <p>Radio Slipstream broadcast in various timeslots on 93.3 — CFMU — McMaster's campus station from 2004-2007, then continued as increasingly sporadic self-released episodes/mixes. One day I just might do another.</p>
+</div>
 
-<h1>Latest 3 Posts</h1>
+<h2>Latest 3 Posts</h2>
 
 {% set postslist = collections.posts | head(-3) %}
+{% include "postsinline.njk" %}
+
+{% set postslist = collections.posts | head(-25) %}
 {% set postslistCounter = collections.posts | length %}
 {% include "postslist.njk" %}
 
-<p>More posts can be found in <a href="{{ '/posts/' | url }}">the archive</a>.</p>
+<p><a href="{{ '/posts/' | url }}">Full archive</a>.</p>
