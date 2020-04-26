@@ -29,12 +29,12 @@ body {
 h1 {
   font-size: 3em;
   font-weight: 900;
-  text-shadow: 1px 1px 5px rgba(194, 236, 228, 1);
+  text-shadow: 1px 1px 5px rgba(194, 236, 228, 0.5);
 }
 
 iframe {
   padding: 24px;
-  background: rgba(0, 0, 0, 0.1);
+  background: rgba(255, 255, 255, 0.2);
 }
 
 .post-item {
@@ -44,6 +44,8 @@ iframe {
 }
 .post-item::before {
   content: "";
+  /* z-index: -1; */
+  pointer-events: none;
   position: absolute;
   top: 24px;
   bottom: 24px;
@@ -56,12 +58,35 @@ iframe {
   border-bottom: 1px dashed rgba(255, 255, 255, 0.4);
 }
 
+.post-item-header {
+  display: flex;
+  align-items: baseline;
+}
+
 .post-item-title {
   font-family: "Courier New", Courier, monospace;
   font-weight: 200;
 }
 .post-item-title a {
   text-decoration: none;
+}
+
+ul {
+  padding: 0;
+  list-style: none;
+}
+
+ul:last-child {
+  margin-bottom: 0;
+}
+
+ul li {
+  margin: 0.5em 0;
+  letter-spacing: 0.1em;
+}
+
+ul li:hover {
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.4);
 }
 
 p:last-child {
@@ -90,14 +115,7 @@ main {
 main :first-child {
   margin-top: 0;
 }
-header {
-  border-bottom: 1px dashed var(--lightgray);
-}
-header:after {
-  content: "";
-  display: table;
-  clear: both;
-}
+
 table {
   margin: 1em 0;
 }
@@ -165,22 +183,52 @@ pre {
 }
 
 /* Header */
+header {
+  padding: 1rem 2rem;
+  display: flex;
+  align-items: baseline;
+  border-bottom: 1px dashed rgba(255, 255, 255, 0.4);
+  background-color: rgba(255, 255, 255, 0.2);
+  margin-bottom: 24px;
+}
+
 .home {
-  padding: 0 1rem;
-  float: left;
-  margin: 1rem 0; /* 16px /16 */
-  font-size: 1em; /* 16px /16 */
+  margin: 0; /* 16px /16 */
+  font-size: 2em; /* 16px /16 */
+  font-family: "Courier New", Courier, monospace;
+  font-weight: 100;
 }
 .home :link:not(:hover) {
   text-decoration: none;
+}
+
+.sss {
+  /* prettier-ignore */
+  text-shadow: 
+    -3.0em 0 6px rgba(0, 0, 0, 0.2),
+    -2.5em 0 5px rgba(0, 0, 0, 0.2),
+    -2.0em 0 4px rgba(0, 0, 0, 0.2),
+    -1.5em 0 3px rgba(0, 0, 0, 0.25),
+    -1.0em 0 2px rgba(0, 0, 0, 0.3), 
+    -0.5em 0 1px rgba(0, 0, 0, 0.35),
+    0 0 2px rgba(0, 0, 0, 0.5);
+}
+
+.ss {
+  text-shadow: 0 0 2px rgba(0, 0, 0, 0.5);
+}
+
+.home:hover .ss,
+.home:hover .sss {
+  text-shadow: none;
 }
 
 /* Nav */
 .nav {
   padding: 0;
   list-style: none;
-  float: left;
-  margin-left: 1em;
+  margin: 0;
+  margin-left: 2em;
 }
 .nav-item {
   display: inline-block;
@@ -192,6 +240,11 @@ pre {
 .nav-item-active {
   font-weight: 700;
   text-decoration: underline;
+}
+
+.intro {
+  font-style: italic;
+  margin-bottom: 2em;
 }
 
 /* Posts list */
