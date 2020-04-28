@@ -5,7 +5,7 @@ date: 2014-08-22T17:43:48-05:00
 author: damon
 layout: post
 guid: http://www.radioslipstream.com/?p=472
-permalink: /playlists/2014/08/the-retro-electro-loophole/
+mixcloud: the-retro-electro-loop-hole
 enclosure:
   - |
     http://www.radioslipstream.com/radio/slipstream-142.mp3
@@ -16,15 +16,11 @@ categories:
   - PLAYLISTS
 ---
 
-<iframe width="100%" height="400" src="https://www.mixcloud.com/widget/iframe/?light=1&feed=%2Fradioslipstream%2Fthe-retro-electro-loop-hole%2F" frameborder="0" ></iframe>
+_The intersection of disco, electro and hip hop in the early 80s._
 
-_  
-The intersection of disco, electro and hip hop in the early 80s.</p> 
+_Themes of technology, space, and to dance dance dance._
 
-Themes of technology, space, and to dance dance dance.
-
-Inspired by [Patrick the Bunny](http://www.mixcloud.com/PatrickTheBunny/)&#8216;s DJ set from Retro Electro Sideshow from London’s 2014 Nuit Blanche which I helped curate.  
-</em>
+_Inspired by [Patrick the Bunny](http://www.mixcloud.com/PatrickTheBunny/)‘s DJ set from Retro Electro Sideshow from London’s 2014 Nuit Blanche which I helped curate._
 
   * Grace Jones – Slave to the Rhythm 
   * Mantronix – Bassline 

@@ -10,7 +10,7 @@ permalink: /mixes/2008/03/mix-cd-edits-vol-1/
 categories:
   - MIXES
 ---
-This week, instead of giving you a brand new episode, I’m presenting some altered versions of the last 4 episodes&#8230; versions that have no narration and have been condensed to fit in less than 80 minutes- perfect for burning onto a CD to listen to in the car, or in the den, or wherever it is you might still use CDs. Also included are [cue files](http://en.wikipedia.org/wiki/Cue_sheet_%28computing%29) so you can easily put the mp3 file on a CD for yourself in the comfort of your own computer! (The short version of how a cue sheet works, is that if you have the right cd burning program you can open the cue file, and if the mp3 is in the same directory, it can burn a CD with all the track breaks in the same spot.)
+This week, instead of giving you a brand new episode, I’m presenting some altered versions of the last 4 episodes… versions that have no narration and have been condensed to fit in less than 80 minutes- perfect for burning onto a CD to listen to in the car, or in the den, or wherever it is you might still use CDs. Also included are [cue files](http://en.wikipedia.org/wiki/Cue_sheet_%28computing%29) so you can easily put the mp3 file on a CD for yourself in the comfort of your own computer! (The short version of how a cue sheet works, is that if you have the right cd burning program you can open the cue file, and if the mp3 is in the same directory, it can burn a CD with all the track breaks in the same spot.)
 
 Perhaps this is a lame excuse for not having a show ready.. but in my defense I’ve been working full time for the first time in a while and all my musically fiddly energy went into knocking out these little mix cds to have with me in the car.. so I thought why not let other peoples in on the fun.
 
@@ -22,7 +22,7 @@ _all sweet beats, all the time_
 [mp3](/radio/mixes/sweetnessofthebeatness.mp3) | [cue](/radio/mixes/sweetnessofthebeatness.cue)
 
 1. Prosumer and Murat Tepeli – Serenity  
-2. Plej – Lay Of The Land)  
+2. Plej – Lay Of The Land
 3. Thomas Brinkmann – Meadow  
 4. PM Dawn – Set Adrift (Tittsworth Neutron Dance Remix)  
 5. M.I.A. – World Town  

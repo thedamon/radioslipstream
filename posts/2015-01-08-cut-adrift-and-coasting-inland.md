@@ -5,7 +5,7 @@ date: 2015-01-08T19:52:45-05:00
 author: damon
 layout: post
 guid: http://www.radioslipstream.com/?p=474
-permalink: /playlists/2015/01/cut-adrift-and-coasting-inland/
+mixcloud: cut-adrift-and-coasting-inland
 enclosure:
   - |
     http://www.radioslipstream.com/radio/slipstream-143.mp3
@@ -16,15 +16,11 @@ categories:
   - PLAYLISTS
 ---
 
-<iframe width="100%" height="400" src="https://www.mixcloud.com/widget/iframe/?light=1&feed=%2Fradioslipstream%2Fcut-adrift-and-coasting-inland%2F" frameborder="0" ></iframe>
-
 Episode #143.
 
-_  
-Instruments (mostly synthesized), melodies and beats that will cut you deep and serve your heart on a platter for the amusement of your friends.</p> 
+Instruments (mostly synthesized), melodies and beats that will cut you deep and serve your heart on a platter for the amusement of your friends.
 
 Trippy and a bit weird at the beginning, giving way to some comforting and soulful, heartbreaking stuff further inland.  
-</em>
 
   * Machinedrum – Eyesdontlie
   * Arca – Thievery

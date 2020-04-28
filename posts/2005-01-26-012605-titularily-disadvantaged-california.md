@@ -11,7 +11,7 @@ categories:
 ---
 (<a href=“/radio/slipstream012605.mp3">MP3</a>)
 
-**6 am**</font> 
+**6 am** 
 
 The Flaming Lips / Seven Nation Army / Live on BBC Radio 1 (2004)  
 Way Out West / Domination / Way Out West (1997)  
@@ -20,11 +20,11 @@ I Monster / Who is She? / Neveroddoreven (2004)
 R&ouml;yksopp / Remind Me / Melody A.M. (2001)  
 Air / J’Ai Dormi Sous L’Eau / Premieres Symptomes (1998)  
 David Bowie / Life on Mars? / Hunky Dory (1971)  
-&#8230;And You Will Know Us By The Trail of Dead / Caterwaul / Worlds Apart (2005)  
+…And You Will Know Us By The Trail of Dead / Caterwaul / Worlds Apart (2005)  
 PJ Harvey / Long Snake Moan / To Bring You My Love (1995)  
 UNKLE / Nursery Rhyme / Psyence Fiction (1998)
 
-**7 am – Songs of California**</font>
+**7 am – Songs of California**
 
 Gipsy Kings / Hotel California / Rubaiyat: Elektra’s 40th Anniversary (1990)  
 2 Pac / California Love (Original Version) / CDS (1996)  
@@ -42,7 +42,7 @@ Josh Ritter / California / Hello Starling (2004)
 Billy Bragg and Wilco / California Stars / Mermaid Avenue (1998)  
 The Decemberists / California One / Youth and Beauty Brigade / Castaways and Cutouts (2002)
 
-**8 am**</font> 
+**8 am** 
 
 Radiohead / Lull / Karma Police CDS (1998)  
 Stars / Ageless Beauty / Set Yourself on Fire (2004)  

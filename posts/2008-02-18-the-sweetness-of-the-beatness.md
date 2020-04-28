@@ -21,7 +21,7 @@ categories:
 
 _This one: much less with the jibber jabber as it’s a 2 hour nonstop electronic dancing music experience! House, techno, breaks, some hip hop and pop, and a whole lot of goodness. Watch in astonishment as the songs flow together like orange juice and grape juice swirling in a river of fruity bliss!! Marvel at the sweetness of the beatness!!! OH! DEAR! GOD! YES! </p> 
 
-That said, if you’re one of those people who can’t stand &#8216;electronic’ music, you might want to wait a couple weeks.
+That said, if you’re one of those people who can’t stand ‘electronic’ music, you might want to wait a couple weeks.
 
 Phil’s torrent of songs is [here](http://www.mininova.org/tor/1099864) (his 2006 one gave me the idea to do [my own](http://www.radioslipstream.com/features/lists/2008/01/my-top-101-songs-from-2007/)), and I’d also like to mention that this episode includes the 1000th (and 1001st!) unique artist to be featured on Radio Slipstream.</em>
 
@@ -39,7 +39,7 @@ Hercules & Love Affair / Blind / Hercules & Love Affair (2008)
 Portable / Albatros / Powers Of Ten (2007)  
 Georges Vert / Electric Bird / Milky Disco (2007)  
 Zoo Brazil / Face / Face (2007)  
-Stephan Bodzin / Kerosene / Liebe Ist &#8230; (2007)  
+Stephan Bodzin / Kerosene / Liebe Ist … (2007)  
 Gebr. Teichmann / Whateverman / The Number Of The Beat (2007)  
 Mu / Out Of Breach / Out Of Breach (Manchester’s Revenge) (2005)  
 Jackson And His Computer Band / Utopia / Smash (2005)  

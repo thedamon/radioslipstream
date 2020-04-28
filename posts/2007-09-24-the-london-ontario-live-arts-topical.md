@@ -53,37 +53,5 @@ _Interview with Constantines singer Bryan Webb_
 
 Old Man Luedecke / Roustabout / Hinterland (2006)
 
-&nbsp;
 
-Read on for an assortment of videos and pictures that i managed to grab while I was hanging around&#8230;  
-<!--more-->
-
-&nbsp;
-
-The photos were taken with my Canon S3 IS&#8230; and it’s really the first time I’ve taken concert photos with a decent camera, so there was a bit of a learning curve. I wish I’d remembered about changing the ISO setting a bit earlier in the night.
-
-&nbsp;
-
-<embed type="application/x-shockwave-flash" src="http://picasaweb.google.com/s/c/bin/slideshow.swf" width="600" height="400" flashvars="host=picasaweb.google.com&#038;captions=1&#038;RGB=0x000000&#038;feed=http%3A%2F%2Fpicasaweb.google.com%2Fdata%2Ffeed%2Fapi%2Fuser%2Fdamuma%2Falbumid%2F5140990237365046977%3Fkind%3Dphoto%26alt%3Drss" pluginspage="http://www.macromedia.com/go/getflashplayer">
-</embed>
-
-And some brief video clips! more are available throughout youtube with some clever searching.
-
-&nbsp;
-
-**Akron/Family:**  
-
-
-&nbsp;
-
-**Grizzly Bear:**  
-
-
-&nbsp;
-
-**Meligrove Band:**  
-
-
-&nbsp;
-
-**Final Fantasy:**
+[Photos from the show](https://photos.app.goo.gl/ftPqynjiDg66VPPt8)

@@ -15,7 +15,7 @@ originally aired 2-4am February 28, 2006 on CFMU
 
 **2 am**  
 Okkervil River / So Come Back, I Am Waiting / Black Sheep Boy (2005)  
-British Sea Power / Apologies to Insect Life / The Decline of&#8230; (2003)  
+British Sea Power / Apologies to Insect Life / The Decline of… (2003)  
 The Constantines / Insectivora / Shine a Light (2003)  
 Primal Scream / Insect Royalty / Xtrmntr (2000)  
 Blur / Badhead / Parklife (1994)  

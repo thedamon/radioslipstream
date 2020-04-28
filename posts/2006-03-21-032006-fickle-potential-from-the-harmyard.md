@@ -33,7 +33,7 @@ Of Montreal / Wraith Pinned to the Mist and Other Games / The Sunlandic Twins (2
 Rapture / I Need Your Love / Echoes (2003)  
 A.C. Newman / Miracle Drug / The Slow Wonder (2004)  
 The Dresden Dolls / Backstabber / Yes, Virginia (2006, Apr 18)  
-Sia / Breathe Me (Mylo Remix) / Breathe Me (12&#8243;) (2004)  
+Sia / Breathe Me (Mylo Remix) / Breathe Me (12″) (2004)  
 Leftfield / 21st Century Poem / Leftism (1995)  
 The Arcade Fire / Neighborhood #1 (Tunnels) / Funeral (2004)  
 Nick Cave and the Bad Seeds / People Ain’t No Good / Boatman’s Call (1997)

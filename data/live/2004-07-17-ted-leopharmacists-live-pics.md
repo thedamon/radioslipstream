@@ -9,7 +9,7 @@ permalink: /features/live-reviews/2004/07/ted-leopharmacists-live-pics/
 categories:
   - concerts
 ---
-<font size="+2"><a href="http://www.tedleo.com">Ted Leo/Pharmacists</a> wsg <a href="http://www.reputationmusic.com/">The Reputation</a></font> <font size="+1">Live at Call The Office in London – July 17th, 2004 – <a href="journal.html#071804">Review</a></font>
+<a href="http://www.tedleo.com">Ted Leo/Pharmacists</a> wsg <a href="http://www.reputationmusic.com/">The Reputation</a> Live at Call The Office in London – July 17th, 2004 – <a href="journal.html#071804">Review</a>
 
 **The Reputation**
 

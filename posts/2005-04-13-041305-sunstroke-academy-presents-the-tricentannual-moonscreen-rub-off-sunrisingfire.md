@@ -11,7 +11,7 @@ categories:
 ---
 ([terrible quality MP3](/radio/slipstream041305.mp3))
 
-**6 am – In honour of the rising sun**</font> 
+**6 am – In honour of the rising sun** 
 
 Jerry Lee Lewis / Great Balls of Fire / Fire (2003)  
 Twine /Kalea Morning / Twine (2003)  
@@ -23,9 +23,9 @@ Pulp / Sunrise / We Love Life (2002)
 Brian Eno / Silver Morning / Apollo: Atmospheres & Soundtracks (1983)  
 Slowdive / Good Day Sunshine / Souvlaki (1993)  
 Orbital / One Perfect Sunrise / Blue Album (2004)  
-The Polyphonic Spree / Light & Day – Reach for the Sun / The Beginning Stages Of&#8230; (2002)
+The Polyphonic Spree / Light & Day – Reach for the Sun / The Beginning Stages Of… (2002)
 
-**7 am – The Arsonist’s Songbook**</font> 
+**7 am – The Arsonist’s Songbook** 
 
 The Prodigy / Fire (Sunrise Version) / Experience (1992)  
 Electric Six / Danger, High Voltage! / Fire (2003)  
@@ -40,7 +40,7 @@ Latyrx / Aim for the Flickering Flame / The Album (1997)
 Ada / Cool My Fire (I’m Burning) / Blondie (2004)  
 U2 / The Unforgettable Fire / The Unforgettable Fire (1984)
 
-**8 am**</font> 
+**8 am** 
 
 Roisin Murphy / Dear Diary / Ruby Ble/Sequins 2 (2005)  
 Busdriver / Unemployed Black Astronaut / Fear Of A Black Tangent (2005)  

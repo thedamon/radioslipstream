@@ -26,12 +26,12 @@ Fugazi / Argument / The Argument (2001)
 At the Drive In / One Armed Scissor / Relationship of Command (2000)  
 And You Will Know Us By The Trail of Dead / How Near How Far / Source Tags and Codes (2002)
 
-Frog Eyes / &#8220;Stockades&#8221; / Tears of the Valedictorian (2007)  
+Frog Eyes / “Stockades” / Tears of the Valedictorian (2007)  
 Wolf Parade / Dinner Bells / Apologies To The Queen Mary (2005)  
 Swan Lake / All Fires / Beast Moans (2006)  
 Sunset Rubdown / The Taming of the Hands That Came Back To Life / Random Spirit Lover (2007)
 
-British Sea Power / Men Together Today / The Decline of&#8230; (2003)  
+British Sea Power / Men Together Today / The Decline of… (2003)  
 !!! / Me and Giuliani Down by the School Yard (A True Story) / Louden Up Now (2004)  
 Noze / Love Affair / How To Dance (2006)
 

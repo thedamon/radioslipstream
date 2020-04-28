@@ -9,15 +9,15 @@ permalink: /features/live-reviews/2004/10/arcade-fire-live-pics/
 categories:
   - concerts
 ---
-<font size="+2"><a href="http://www.arcadefire.com/">The Arcade Fire</a> wsg <a href="http://www.hestonrifle.com/">Heston Rifle</a>, Belle Orchestre</font> <font size="+1">Live at The Underground in Hamilton – October 02, 2004</font>
+<a href="http://www.arcadefire.com/">The Arcade Fire</a> wsg <a href="http://www.hestonrifle.com/">Heston Rifle</a>, Belle Orchestre Live at The Underground in Hamilton – October 02, 2004
 
 my camera became a bit of a community commodity this time, so only most, and not all, of the pictures were taken by my own hands
 
-<font size="+1"><strong>Heston Rifle</strong></font>
+<strong>Heston Rifle</strong>
 
 [<img src="/pics/arcadefire/01.jpg" width="150" height="200" alt="Rick White" border="0" />](/pics/arcadefire/large/01.jpg)[<img src="/pics/arcadefire/02.jpg" width="150" height="200" alt="Rick White" border="0" />](/pics/arcadefire/large/02.jpg)[<img src="/pics/arcadefire/03.jpg" width="150" height="200" alt="Rick White" border="0" />](/pics/arcadefire/large/03.jpg)[<img src="/pics/arcadefire/05.jpg" width="150" height="200" alt="The arcadefire" border="0" />](/pics/arcadefire/large/05.jpg)[<img src="/pics/arcadefire/07.jpg" width="150" height="200" alt="The arcadefire" border="0" />](/pics/arcadefire/large/07.jpg)[<img src="/pics/arcadefire/08.jpg" width="150" height="200" alt="The arcadefire" border="0" />](/pics/arcadefire/large/08.jpg)[<img src="/pics/arcadefire/09.jpg" width="150" height="200" alt="The arcadefire" border="0" />](/pics/arcadefire/large/09.jpg)[<img src="/pics/arcadefire/11.jpg" width="150" height="200" alt="The arcadefire" border="0" />](/pics/arcadefire/large/11.jpg)
 
-<font size="+1"><strong>Belle Orchestre</strong></font>
+<strong>Belle Orchestre</strong>
 
 [<img src="/pics/arcadefire/12.jpg" width="150" height="200" alt="The arcadefire" border="0" />](/pics/arcadefire/large/12.jpg)[<img src="/pics/arcadefire/13.jpg" width="150" height="200" alt="The arcadefire" border="0" />](/pics/arcadefire/large/13.jpg)[<img src="/pics/arcadefire/14.jpg" width="150" height="200" alt="The arcadefire" border="0" />](/pics/arcadefire/large/14.jpg)[<img src="/pics/arcadefire/15.jpg" width="150" height="200" alt="The arcadefire" border="0" />](/pics/arcadefire/large/15.jpg)[<img src="/pics/arcadefire/16.jpg" width="150" height="200" alt="The arcadefire" border="0" />](/pics/arcadefire/large/16.jpg)[<img src="/pics/arcadefire/17.jpg" width="150" height="200" alt="The arcadefire" border="0" />](/pics/arcadefire/large/17.jpg)[<img src="/pics/arcadefire/18.jpg" width="150" height="200" alt="The arcadefire" border="0" />](/pics/arcadefire/large/18.jpg)[<img src="/pics/arcadefire/19.jpg" width="150" height="200" alt="The arcadefire" border="0" />](/pics/arcadefire/large/19.jpg)[<img src="/pics/arcadefire/20.jpg" width="150" height="200" alt="The arcadefire" border="0" />](/pics/arcadefire/large/20.jpg)[<img src="/pics/arcadefire/21.jpg" width="150" height="200" alt="The arcadefire" border="0" />](/pics/arcadefire/large/21.jpg)[<img src="/pics/arcadefire/22.jpg" width="150" height="200" alt="The arcadefire" border="0" />](/pics/arcadefire/large/22.jpg)[<img src="/pics/arcadefire/23.jpg" width="150" height="200" alt="The arcadefire" border="0" />](/pics/arcadefire/large/23.jpg)[<img src="/pics/arcadefire/24.jpg" width="150" height="200" alt="The arcadefire" border="0" />](/pics/arcadefire/large/24.jpg)[<img src="/pics/arcadefire/25.jpg" width="150" height="200" alt="The arcadefire" border="0" />](/pics/arcadefire/large/25.jpg)[<img src="/pics/arcadefire/26.jpg" width="150" height="200" alt="The arcadefire" border="0" />](/pics/arcadefire/large/26.jpg)
 

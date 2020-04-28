@@ -69,6 +69,21 @@ module.exports = function (eleventyConfig) {
     ghostMode: false,
   });
 
+  // add in some pagination?
+  eleventyConfig.addCollection("posts", function (collection) {
+    const coll = collection.getFilteredByTag("posts");
+
+    for (let i = 0; i < coll.length; i++) {
+      const prevPost = coll[i - 1];
+      const nextPost = coll[i + 1];
+
+      coll[i].data["prevPost"] = prevPost;
+      coll[i].data["nextPost"] = nextPost;
+    }
+
+    return coll;
+  });
+
   return {
     templateFormats: ["md", "njk", "html", "liquid"],
 

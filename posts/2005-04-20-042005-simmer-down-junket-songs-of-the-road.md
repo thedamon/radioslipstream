@@ -17,7 +17,7 @@ categories:
 ---
 ([MP3](/radio/slipstream042005.mp3))
 
-<strong>6 am</strong></font>
+<strong>6 am</strong>
 
 Spoon / Something to Look Forward To / Kill The Moonlight (2002)  
 Merkury Burn / I Should Care / Rumours of Our Death (2001)  
@@ -30,7 +30,7 @@ Outkast / SpottieOttieDopaliscious / Aquemini (1998)
 Massive Attack / Protection / Protection (1994)  
 The Decemberists / On the Bus Mall / Picaresque (2005)
 
-<strong>7 am – I don’t want a job. I want to be independantly wealthy and fuck off.</strong></font>
+<strong>7 am – I don’t want a job. I want to be independantly wealthy and fuck off.</strong>
 
 Otis Redding / (Sittin’ On) The Dock of the Bay / The Dock of the Bay (1968)  
 Willie Nelson / On the Road Again / Honeysuckle Rose (1980)  
@@ -46,7 +46,7 @@ The Divine Comedy / Tonight We Fly / Promenade (1994)
 Cake / The Distance / Fashion Nugget (1996)  
 The Music / Take The Long Road and Walk It / The Music (2001)
 
-<strong>8 am</strong></font>
+<strong>8 am</strong>
 
 Portishead / Roads / Dummy (1994)  
 The Delgados / Coming In From The Cold / Hate (2002)  

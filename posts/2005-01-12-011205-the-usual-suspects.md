@@ -14,7 +14,7 @@ The first ever Slipstream Radio Three-hour
 
 ([MP3](/radio/slipstream011205.mp3))
 
-<strong>6 am</strong></font>
+<strong>6 am</strong>
 
 Aram Khachaturian / Sabre Dance /  
 U2 / Please/Where The Streets Have No Name (Live in Rotterdam) / Popheart EP  
@@ -25,7 +25,7 @@ Lamb / Gabriel / What Sound
 The Cocteau Twins / Cherry Coloured Funk / Heaven Or Las Vegas  
 Underworld / Born Slippy (Nuxx) / Anthology 1990-2000 / Trainspotting OST
 
-<strong>7 am</strong></font>
+<strong>7 am</strong>
 
 Sarah McLachlan / Fear (Hybrid’s Super Collider Remix) / Remixed  
 Massive Attack / Teardrop / Mezzanine  
@@ -39,7 +39,7 @@ Calla / Fear of Fireflies / Scavengers
 Outkast / Jazzy Belle / ATLiens  
 The Flaming Lips / Waitin’ For Superman / The Soft Bulletin
 
-<strong>8 am</strong></font>
+<strong>8 am</strong>
 
 The Decemberists / Odalisque / Castaways and Cutouts  
 Nick Cave & the Bad Seeds / Papa Won’t Leave You, Henry / Henry’s Dream  

@@ -11,7 +11,7 @@ categories:
 ---
 (<a href=“/radio/slipstream032305.mp3">MP3</a>)
 
-**6 am**</font> 
+**6 am** 
 
 Junior Senior / Move Your Feet / D-d-don’t Stop The Beat (2002)  
 Hybrid / Finished Symphony (live) / Live Angle (2000)  
@@ -24,7 +24,7 @@ Avia Gardner / Urban / Saturday Morning Empires (2004)
 M Ward / Sad, Sad Song / The Transfiguration of Vincent (2003)  
 Patrick Street / Music For a Found Harmonium / 3 Irish Times 3 (1989)
 
-**7 am – Devils with Drum Machines**</font> 
+**7 am – Devils with Drum Machines** 
 
 Orbital / Satan (Industry Standard) / In-Sides Bonus Disc (1996)  
 Azzido Da Bass / Doom’s Night (Timo Maas Remix) / Music for the Maases (2000)  
@@ -35,10 +35,10 @@ Primal Scream / Swastika Eyes (Chemical Brothers Remix) / XTRMNTR (2000)
 Basement Jaxx / Where’s Your Head At? / Rooty (2001)  
 The Prodigy / Voodoo People / Music for the Jilted Generation (1995)  
 Leftfield and Afrika Bambaataa / Afrika Shox / Rhythm and Stealth (1999)  
-Lemon Jelly / &#8216;88 aka Come Down On Me / 64-95 (2005)  
+Lemon Jelly / ‘88 aka Come Down On Me / 64-95 (2005)  
 Way Out West / Intensify Pt 1 / Intensify (2001)
 
-<font face="Courier New" size="+0">8 am</font>
+<font face="Courier New" size="+0">8 am
 
 Everything But The Girl / Hatfield 1980 / Temperamental (1999)  
 General Electrics feat Maroons / Facing That Void / Cliquety Kliqk (2003)  

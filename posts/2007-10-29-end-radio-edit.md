@@ -22,7 +22,7 @@ categories:
 
 _The final episode of Radio Slipstream aired on CFMU. Nothing new here (except one old favourite that somehow never got featured on the show), just a selection of my most favourite songs. Like a flashback episode I suppose. I worked pretty hard on this, both the show in general, and on squeezing down 3 and a half hours of music into 2 for my final radio program. I hope you like it._ 
 
-_All in all, The Slipstream on 93.3 CFMU occupied 3 separate timeslots and delivered 2037 uniquely excellent songs (and 13 repeat excellent songs, repeated for theme shows or by accident) from 948 unique artists (not including the epic 5 episode 111 song best albums of 2005 countdown -which I’ve disowned because they’re not sequenced quite nicely enough to be up to standard and some of the songs have been repeated since). Now it is no more. It was deemed by &#8216;the powers that be’ (who are actually pretty cool once you get to know them) that being in London but remotely doing a show on a Hamilton community radio station isn’t in the spirit of things or practical. So, I’m going to take some time off and then bring back the podcast (probably bi-weekly) because I really do enjoy doing this. And then who knows. I also really want to get this website off its ass and turn it into something good-like._
+_All in all, The Slipstream on 93.3 CFMU occupied 3 separate timeslots and delivered 2037 uniquely excellent songs (and 13 repeat excellent songs, repeated for theme shows or by accident) from 948 unique artists (not including the epic 5 episode 111 song best albums of 2005 countdown -which I’ve disowned because they’re not sequenced quite nicely enough to be up to standard and some of the songs have been repeated since). Now it is no more. It was deemed by ‘the powers that be’ (who are actually pretty cool once you get to know them) that being in London but remotely doing a show on a Hamilton community radio station isn’t in the spirit of things or practical. So, I’m going to take some time off and then bring back the podcast (probably bi-weekly) because I really do enjoy doing this. And then who knows. I also really want to get this website off its ass and turn it into something good-like._
 
 Twine / Kalea Morning / Twine (2003)  
 U2 / Zooropa / Zooropa (1993)  
@@ -71,6 +71,6 @@ Junior Boys / FM / So This is Goodbye (2006)
 
 Wilco – Impossible Germany (Sky Blue Sky, 2007)  
 Orbital – The Box (In-Sides, 1997)  
-British Sea Power – Carrion (The Decline Of&#8230;, 2003)  
+British Sea Power – Carrion (The Decline Of…, 2003)  
 Cocteau Twins – Cherry Coloured Funk (Heaven or Las Vegas, 1990)  
 Iron and Wine/Calexico – 16, Maybe Less (In The Reins, 2005)

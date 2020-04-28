@@ -25,7 +25,7 @@ Shearwater / The Hunter’s Star / Rook (2008)
 Plants and Animals / Bye Bye Bye / Parc Avenue (2008)  
 The Tallest Man On Earth / The Gardner / Shallow Graves (2008)
 
-Bonnie &#8216;Prince’ Billy / For Every Field There’s A Mole / Lie Down In The Light (2008)  
+Bonnie ‘Prince’ Billy / For Every Field There’s A Mole / Lie Down In The Light (2008)  
 Phosphorescent / Wolves / Untitled Playlist (2007)  
 Sun Kil Moon / Heron Blue / April (2008)  
 Calexico / Man Made Lake / Carried To Dust (2008)

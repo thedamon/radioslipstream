@@ -5,7 +5,7 @@ date: 2012-09-08T22:52:45-05:00
 author: damon
 layout: post
 guid: http://www.radioslipstream.com/?p=301
-permalink: /playlists/2012/09/holy-half-ass-rear-admiralty/
+mixcloud: holy-half-ass-rear-admiralty
 enclosure:
   - |
     http://www.radioslipstream.com/radio/slipstream-129.mp3
@@ -18,22 +18,9 @@ categories:
 Episode 129. [mp3](/radio/slipstream-129.mp3). Released September 8, 2012.
 
 
+Just flat out rocking, really.
 
-<div style="clear: both; height: 3px; width: auto;">
-</div>
-
-<p style="display: block; font-size: 11px; font-family: 'Open Sans', Helvetica, Arial, sans-serif; margin: 0px; padding: 3px 4px; color: rgb(153, 153, 153); width: auto;">
-  <a href="http://www.mixcloud.com/radioslipstream/holy-half-ass-rear-admiralty/?utm_source=widget&amp;utm_medium=web&amp;utm_campaign=base_links&amp;utm_term=resource_link" target="_blank" style="color:#808080; font-weight:bold;">Holy Half-Ass Rear Admiralty</a><span> by </span><a href="http://www.mixcloud.com/radioslipstream/?utm_source=widget&amp;utm_medium=web&amp;utm_campaign=base_links&amp;utm_term=profile_link" target="_blank" style="color:#808080; font-weight:bold;">Radio Slipstream</a><span> on </span><a href="http://www.mixcloud.com/?utm_source=widget&utm_medium=web&utm_campaign=base_links&utm_term=homepage_link" target="_blank" style="color:#808080; font-weight:bold;"> Mixcloud</a>
-</p>
-
-<div style="clear: both; height: 3px; width: auto;">
-</div>
-
-_  
-Just flat out rocking, really. </p> 
-
-Raw, amped, riffed, squelching, howling, rocking, rolling, kicking.  
-</em>
+Raw, amped, riffed, squelching, howling, rocking, rolling, kicking.
 
   * Grinderman / Mickey Mouse and The Goodbye Man / Grinderman 2 (2010)
   * Ty Segall / Girlfriend / Melted (2010)

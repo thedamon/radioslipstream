@@ -5,7 +5,7 @@ date: 2012-06-29T00:03:12-05:00
 author: damon
 layout: post
 guid: http://www.radioslipstream.com/?p=287
-permalink: /playlists/2012/06/chicken-is-a-chicken-is-a-symbol-is-a-death/
+mixcloud: chicken-is-a-chicken-is-a-symbol-is-a-death
 enclosure:
   - |
     http://www.radioslipstream.com/radio/slipstream-127.mp3
@@ -18,22 +18,9 @@ categories:
 Episode 127. [mp3](/radio/slipstream-127.mp3). Released June 29, 2012.
 
 
-
-<div style="clear: both; height: 3px; width: auto;">
-</div>
-
-<p style="display: block; font-size: 11px; font-family: 'Open Sans', Helvetica, Arial, sans-serif; margin: 0px; padding: 3px 4px; color: rgb(153, 153, 153); width: auto;">
-  <a href="http://www.mixcloud.com/radioslipstream/chicken-is-a-chicken-is-a-symbol-is-a-death/?utm_source=widget&amp;utm_medium=web&amp;utm_campaign=base_links&amp;utm_term=resource_link" target="_blank" style="color:#808080; font-weight:bold;">Chicken is a Chicken is a Symbol is a Death</a><span> by </span><a href="http://www.mixcloud.com/radioslipstream/?utm_source=widget&amp;utm_medium=web&amp;utm_campaign=base_links&amp;utm_term=profile_link" target="_blank" style="color:#808080; font-weight:bold;">Radio Slipstream</a><span> on </span><a href="http://www.mixcloud.com/?utm_source=widget&utm_medium=web&utm_campaign=base_links&utm_term=homepage_link" target="_blank" style="color:#808080; font-weight:bold;"> Mixcloud</a>
-</p>
-
-<div style="clear: both; height: 3px; width: auto;">
-</div>
-
-_  
-Just think about the title intently as you listen to each song on this. It will all eventually make sense. No. Not that.</p> 
+Just think about the title intently as you listen to each song on this. It will all eventually make sense. No. Not that.
 
 Highlights include: Damon finally pulls out the Mingus, real good groovin’, 2 very hard to beat covers right in a row after the dead boy, plus Dr John’s latest album is everything I could ask for.  
-</em>
 
   * Erykah Badu / Window Seat / New Amerykah Part Two (Return of the Ankh) (2010)
   * Chet Faker / Terms and Conditions / Thinking In Textures (2012)

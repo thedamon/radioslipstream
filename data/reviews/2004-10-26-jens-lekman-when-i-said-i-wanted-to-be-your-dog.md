@@ -9,7 +9,7 @@ permalink: /features/album-reviews/2004/10/jens-lekman-when-i-said-i-wanted-to-b
 categories:
   - album reviews
 ---
-It’s easy to think this album is a little silly, or even stupid. On first listen, I was noted to raise my eyebrow in confusion and disbelief when I heard the striking couplet &#8220;Did you take tram #7 to heaven? / Did you eat your banana from 7/11?&#8221;
+It’s easy to think this album is a little silly, or even stupid. On first listen, I was noted to raise my eyebrow in confusion and disbelief when I heard the striking couplet “Did you take tram #7 to heaven? / Did you eat your banana from 7/11?”
 
 Eventually, my incredulity was eroded away by the sweet ’70s arrangements, catchy tunes and often comical lyrics. Jens (who kams vrom Schweeden) sees the world as a big, scary, confusing, and, more often than not, heartbreaking place. It’s hard not to feel sorry for the poor guy.
 

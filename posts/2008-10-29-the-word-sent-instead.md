@@ -18,7 +18,7 @@ categories:
 ---
 Episode 105. [mp3](/radio/slipstream-105.mp3). [cue](/radio/slipstream-105.cue). Released October 29, 2008
 
-_Starts sparse and wisftul with acoustic and electronic turns, then it hip hops, then it gets down and dirty out in the countryside and town. I would say this episode can generally be described as gritty but still captures a wide array of different sounds. I would also say that it’s a pretty killer selection of tunes and you’d do well to be listening in! &#8230; Please?_
+_Starts sparse and wisftul with acoustic and electronic turns, then it hip hops, then it gets down and dirty out in the countryside and town. I would say this episode can generally be described as gritty but still captures a wide array of different sounds. I would also say that it’s a pretty killer selection of tunes and you’d do well to be listening in! … Please?_
 
 The Neighbourhood Council / Liver and Tan / Set Pieces EP (2008)  
 Sparklehorse / Maxine / Gold Day EP (2001)  
@@ -31,7 +31,7 @@ Gang Gang Dance / House Jam / Saint Dymphna (2008)
 
 Erykah Badu / The Healer / New Amerykah Part One (4th World War) (2008)  
 Outkast / Ms. Jackson / Stankonia (2000)  
-Elzhi / Motown 25 (feat. Royce Da 5’9&#8243;) / The Preface (2008)  
+Elzhi / Motown 25 (feat. Royce Da 5’9″) / The Preface (2008)  
 Count Bass D / Seven Years (feat. Dionne Farris) / Dwight Spitz (2002)
 
 Saul Williams / Tao of Now / Amethyst Rock Star (2001)  

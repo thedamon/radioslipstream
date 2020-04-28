@@ -53,7 +53,3 @@ Sneaker Pimps / Six Underground / Becoming X (1996)
 Primitive Radio Gods / Standing Outside A Broken Phonebooth With Money In My Hand / Rocket (1996)
 
 Red Hot Chili Peppers / Under the Bridge / Blood Sugar Sex Magik (1991)
-
-<p class="MsoPlainText">
-  <span style="font-family: 'Courier New'"><o:p></o:p></span>
-</p>

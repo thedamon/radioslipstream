@@ -5,7 +5,7 @@ date: 2012-04-06T21:09:21-05:00
 author: damon
 layout: post
 guid: http://www.radioslipstream.com/?p=262
-permalink: /playlists/2012/04/123-with-special-thanks-to/
+mixcloud: with-special-thanks-to
 enclosure:
   - |
     http://www.radioslipstream.com/radio/slipstream-123.mp3
@@ -17,32 +17,18 @@ categories:
 ---
 Episode 123. [mp3](/radio/slipstream-123.mp3). Released April 06, 2012.
 
-
-
-<div style="clear: both; height: 3px; width: auto;">
-</div>
-
-<p style="display: block; font-size: 11px; font-family: 'Open Sans', Helvetica, Arial, sans-serif; margin: 0px; padding: 3px 4px; color: rgb(153, 153, 153); width: auto;">
-  <a href="http://www.mixcloud.com/radioslipstream/with-special-thanks-to/?utm_source=widget&amp;utm_medium=web&amp;utm_campaign=base_links&amp;utm_term=resource_link" target="_blank" style="color:#808080; font-weight:bold;">With Special Thanks To</a><span> by </span><a href="http://www.mixcloud.com/radioslipstream/?utm_source=widget&amp;utm_medium=web&amp;utm_campaign=base_links&amp;utm_term=profile_link" target="_blank" style="color:#808080; font-weight:bold;">Radio Slipstream</a><span> on </span><a href="http://www.mixcloud.com/?utm_source=widget&utm_medium=web&utm_campaign=base_links&utm_term=homepage_link" target="_blank" style="color:#808080; font-weight:bold;"> Mixcloud</a>
-</p>
-
-<div style="clear: both; height: 3px; width: auto;">
-</div>
-
-_  
 The electronic synthesizer  
 Highways  
 2am  
 Harvey Wallbangers  
 Italian Disco  
-Nicolas Winding Refn’s &#8220;Drive&#8221;  
+Nicolas Winding Refn’s “Drive”  
 Neon lights  
 Bromance 2012  
 Glistening pavement  
 Music piracy  
 The 80s  
 You  
-_ 
 
   * Symmetry / Over The Edge / Themes For An Imaginary Film (2011)
   * Cerrone / In the Smoke / Cerrone 3: Supernature (1977)

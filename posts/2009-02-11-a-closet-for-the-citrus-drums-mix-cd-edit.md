@@ -15,4 +15,4 @@ enclosure:
 categories:
   - MIXES
 ---
-The first 2 episodes of the year condensed to fit on one mix cd; presented in [mp3](/radio/mixes/2009cd1.mp3) with a [cue](/radio/mixes/2009cd1.cue) file to help you burn it. Yay! And apologies to the songs that didn’t make the cut. I may make this a tradition if I can actually get around to making at least 2 new episodes&#8230;
+The first 2 episodes of the year condensed to fit on one mix cd; presented in [mp3](/radio/mixes/2009cd1.mp3) with a [cue](/radio/mixes/2009cd1.cue) file to help you burn it. Yay! And apologies to the songs that didn’t make the cut. I may make this a tradition if I can actually get around to making at least 2 new episodes…

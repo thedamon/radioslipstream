@@ -17,7 +17,7 @@ categories:
 ---
 **originally aired August 13, 2007**
 
-DJ Shadow / Midnight in a Perfect World / Endtroducing&#8230; (1996)
+DJ Shadow / Midnight in a Perfect World / Endtroducing… (1996)
 
 Cannibal Ox / Iron Galaxy / The Cold Vein (2001)  
 Cadence Weapon / Sharks / Breaking Kayfabe (2005)  

@@ -11,7 +11,7 @@ categories:
 ---
 (<a href=“/radio/slipstream020205.mp3">MP3</a>)
 
-**6 am**</font> 
+**6 am** 
 
 Electric 6 / Gay Bar / Fire (2003)  
 NOFX / The Decline / The Decline (1999)  
@@ -20,10 +20,10 @@ Sage Francis / Runaways / Personal Journals (2002)
 Andre 3000 / Take Off Your Cool / The Love Below (2003)  
 Sons & Daughters / Broken Bones / Love the Cup (2003)  
 St Germain / Rose Rouge / Tourist (2000)  
-Lemon Jelly / &#8216;79 aka The Shouty Track / 64-95 (2005)  
+Lemon Jelly / ‘79 aka The Shouty Track / 64-95 (2005)  
 Death From Above 1979 / Black History Month / I’m a Woman, You’re a Machine (2004)
 
-**7 am – My Metal Friend**</font> 
+**7 am – My Metal Friend** 
 
 Styx / Mr. Roboto / Kilroy Was Here (1983)  
 My Robot Friend / You’re Out of the Computer / Hot Action! (2004)  
@@ -39,7 +39,7 @@ Calexico / Attack El Robot! Attack! / Feast of Wire (2003)
 Add N to (X) / Metal Fingers in My Body / Avant Hard (1999)  
 Totally Radd / Victory Pose / Shark Attack Day Camp (2004)
 
-**8 am**</font> 
+**8 am** 
 
 Bjork / I Miss you / Post (1995)  
 Moloko / The Time is Now / Things to Make and Do (2000)  

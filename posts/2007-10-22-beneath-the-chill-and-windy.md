@@ -21,7 +21,7 @@ categories:
 Murcof / Reflejo / Remembranza (2005)  
 Polmo Polpo / Rottura / The Science of Breath (2002)
 
-Aidan Baker / Davey Jones’ Locker / The Sea Swells A Bit&#8230; (2006)  
+Aidan Baker / Davey Jones’ Locker / The Sea Swells A Bit… (2006)  
 Radiohead / Reckoner / In Rainbows (2007)
 
 Paavoharju / Musta Katu / Yhä Hämärää (2005)  

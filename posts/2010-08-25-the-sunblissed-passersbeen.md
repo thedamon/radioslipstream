@@ -5,7 +5,7 @@ date: 2010-08-25T21:38:50-05:00
 author: damon
 layout: post
 guid: http://www.radioslipstream.com/playlists/2010/08/the-sunblissed-passersbeen/
-permalink: /playlists/2010/08/the-sunblissed-passersbeen/
+mixcloud: the-sunblissed-passersbeen
 enclosure:
   - |
     http://www.radioslipstream.com/radio/slipstream-117.mp3
@@ -15,21 +15,11 @@ enclosure:
 categories:
   - PLAYLISTS
 ---
-<div style="clear: both; height: 3px; width: auto;">
-</div>
-
-<p style="display: block; font-size: 11px; font-family: 'Open Sans', Helvetica, Arial, sans-serif; margin: 0px; padding: 3px 4px; color: rgb(153, 153, 153); width: auto;">
-  <a href="http://www.mixcloud.com/radioslipstream/the-sunblissed-passersbeen/?utm_source=widget&amp;utm_medium=web&amp;utm_campaign=base_links&amp;utm_term=resource_link" target="_blank" style="color:#808080; font-weight:bold;">The Sunblissed Passersbeen</a><span> by </span><a href="http://www.mixcloud.com/radioslipstream/?utm_source=widget&amp;utm_medium=web&amp;utm_campaign=base_links&amp;utm_term=profile_link" target="_blank" style="color:#808080; font-weight:bold;">Radio Slipstream</a><span> on </span><a href="http://www.mixcloud.com/?utm_source=widget&utm_medium=web&utm_campaign=base_links&utm_term=homepage_link" target="_blank" style="color:#808080; font-weight:bold;"> Mixcloud</a>
-</p>
-
-<div style="clear: both; height: 3px; width: auto;">
-</div>
-
 Episode 117. [mp3](/radio/slipstream-117.mp3). [cue](/radio/slipstream-117.cue). Released August 25, 2010.
 
 _Back for more! Still without the use of adequate microphone, this episode continues the trend of letting the music speak for itself.</p> 
 
-Still playing catch-up as well, following that yearlong drought. So this episode features a bit of an exploration of the Chill-wave fad from last year (unless you want to call it Glo-Fi&#8230; no comment). That whole movement, thanks mostly to its bloggy pushers, steams of calculated hipster holier-than-thou pretension; but there’s a great deal of nice sounds in there as well, so don’t worry about it. After the nostalgic summer bits, you’re going to hear some low-key hip-hop, which might be labelled backpacker-rap by your snobby friends (which means it’s for college kids and not drug dealers, or something). Broadly, this set of tunes is meant to serve as a celebration and farewell to hot summer sun and vacation. So whether it’s night or day, in the basement or the beach, close your eyes and lie in the sun.</em>
+Still playing catch-up as well, following that yearlong drought. So this episode features a bit of an exploration of the Chill-wave fad from last year (unless you want to call it Glo-Fi… no comment). That whole movement, thanks mostly to its bloggy pushers, steams of calculated hipster holier-than-thou pretension; but there’s a great deal of nice sounds in there as well, so don’t worry about it. After the nostalgic summer bits, you’re going to hear some low-key hip-hop, which might be labelled backpacker-rap by your snobby friends (which means it’s for college kids and not drug dealers, or something). Broadly, this set of tunes is meant to serve as a celebration and farewell to hot summer sun and vacation. So whether it’s night or day, in the basement or the beach, close your eyes and lie in the sun.</em>
 
 Memoryhouse / Lately (Deuxième) / The Years EP (2009)  
 Twin Sister / All Around and Away We Go / Color Your Life (2010)  

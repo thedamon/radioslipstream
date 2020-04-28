@@ -5,7 +5,7 @@ date: 2012-12-03T00:09:18-05:00
 author: damon
 layout: post
 guid: http://www.radioslipstream.com/?p=330
-permalink: /playlists/2012/12/magnetic-orange/
+mixcloud: magnetic-orange
 enclosure:
   - |
     http://www.radioslipstream.com/radio/slipstream-133.mp3
@@ -17,23 +17,9 @@ categories:
 ---
 Episode 133. [mp3](/radio/slipstream-133.mp3). Released December 03, 2012.
 
-
-
-<div style="clear: both; height: 3px; width: auto;">
-</div>
-
-<p style="display: block; font-size: 11px; font-family: 'Open Sans', Helvetica, Arial, sans-serif; margin: 0px; padding: 3px 4px; color: rgb(153, 153, 153); width: auto;">
-  <a href="http://www.mixcloud.com/radioslipstream/magnetic-orange/?utm_source=widget&amp;utm_medium=web&amp;utm_campaign=base_links&amp;utm_term=resource_link" target="_blank" style="color:#808080; font-weight:bold;">Magnetic Orange</a><span> by </span><a href="http://www.mixcloud.com/radioslipstream/?utm_source=widget&amp;utm_medium=web&amp;utm_campaign=base_links&amp;utm_term=profile_link" target="_blank" style="color:#808080; font-weight:bold;">Radio Slipstream</a><span> on </span><a href="http://www.mixcloud.com/?utm_source=widget&utm_medium=web&utm_campaign=base_links&utm_term=homepage_link" target="_blank" style="color:#808080; font-weight:bold;"> Mixcloud</a>
-</p>
-
-<div style="clear: both; height: 3px; width: auto;">
-</div>
-
-_  
-Call me Casey Kasem. These here tunes are downright high-energy! catchy! melodic! mostly-with-vocals! spunky! accessible! (except for the darker, more intense kinda stuff grooving at the beginning, the extended &#8220;electronic techno type&#8221; tunes in the middle, and the end _is_ poppy&#8230; but it’s art poppy.)</p> 
+Call me Casey Kasem. These here tunes are downright high-energy! catchy! melodic! mostly-with-vocals! spunky! accessible! (except for the darker, more intense kinda stuff grooving at the beginning, the extended “electronic techno type” tunes in the middle, and the end _is_ poppy… but it’s art poppy.)
 
 Slick and colourful, smooth and upbeat, catchy and warm : magnetic orange.  
-</em>
 
   * Jamie Lidell / What A Shame / Jamie Lidell (2013)
   * Kendrick Lamar / M.A.A.D City (Feat. MC Eiht) / Good Kid M.A.A.D City (2012)

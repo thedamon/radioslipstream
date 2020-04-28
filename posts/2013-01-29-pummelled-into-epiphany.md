@@ -5,7 +5,7 @@ date: 2013-01-29T22:20:33-05:00
 author: damon
 layout: post
 guid: http://www.radioslipstream.com/?p=353
-permalink: /playlists/2013/01/pummelled-into-epiphany/
+mixcloud: pummeled-into-epiphany
 enclosure:
   - |
     http://www.radioslipstream.com/radio/slipstream-134.mp3
@@ -17,21 +17,8 @@ categories:
 ---
 Episode 134. [mp3](/radio/slipstream-134.mp3). Released January 29, 2013.
 
-
-
-<div style="clear: both; height: 3px; width: auto;">
-</div>
-
-<p style="display: block; font-size: 11px; font-family: 'Open Sans', Helvetica, Arial, sans-serif; margin: 0px; padding: 3px 4px; color: rgb(153, 153, 153); width: auto;">
-  <a href="http://www.mixcloud.com/radioslipstream/pummeled-into-epiphany/?utm_source=widget&amp;utm_medium=web&amp;utm_campaign=base_links&amp;utm_term=resource_link" target="_blank" style="color:#808080; font-weight:bold;">Pummelled into Epiphany</a><span> by </span><a href="http://www.mixcloud.com/radioslipstream/?utm_source=widget&amp;utm_medium=web&amp;utm_campaign=base_links&amp;utm_term=profile_link" target="_blank" style="color:#808080; font-weight:bold;">Radio Slipstream</a><span> on </span><a href="http://www.mixcloud.com/?utm_source=widget&utm_medium=web&utm_campaign=base_links&utm_term=homepage_link" target="_blank" style="color:#808080; font-weight:bold;"> Mixcloud</a>
-</p>
-
-<div style="clear: both; height: 3px; width: auto;">
-</div>
-
-_  
 some jazzy soulful kinda stuff off the top, echoing off into some creepier fare – like if you could dance to a nightmare, then waking into some glistening dancepop, with a bit of soul. This one’s a keeper, folks.  
-_ 
+
 
   * Jose James / Warrior / Blackmagic (2009)
   * Bobby Womack / Please Forgive My Heart (Funk Version) / The Bravest Man In the Universe Single (2012)

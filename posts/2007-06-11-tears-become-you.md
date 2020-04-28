@@ -32,7 +32,7 @@ Kevin Muma / Untitled DJ Mix 06-10-2007 (2007) _
 Dino Lenny vs The Housemartins – Chage the World (Dino Lenny Mix)  
 Random Factor – Rewire  
 Trentemoller – Le Champagne  
-Miles Maeda – Brother Dan Says&#8230; (Firm Mix)  
+Miles Maeda – Brother Dan Says… (Firm Mix)  
 Moreno – Firebird (Ocean Beach Mix)  
 Christian Alvarez – Sunshine Over Seville  
 John Larner & Slater Hogan – Top of the World  

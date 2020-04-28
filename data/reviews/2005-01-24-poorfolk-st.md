@@ -21,5 +21,5 @@ the album is actually quite listenable. Stallin’ and Topple the Pride
 are fine examples of meandering melodic folk-rock, sounding a little  
 bit like an understated, more layered Shins, or a less distinct  
 Calexico. Despite my initial misgivings, for the most part Pearce  
-lifts the &#8216;folk’ aspect above being simply an unnecessary gimmick.  
+lifts the ‘folk’ aspect above being simply an unnecessary gimmick.  
 Skip the first track, but not necessarily the whole album. Promising.

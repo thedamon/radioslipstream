@@ -11,7 +11,7 @@ categories:
 ---
 (<a href=“/radio/slipstream011905.mp3">MP3</a>)
 
-**6 am**</font> 
+**6 am** 
 
 Dick Dale and his Del Tones / Misirlou / Pulp Fiction  
 Cinematic Orchestra feat. Roots Manuva / All Things to All Men / Every Day  
@@ -24,7 +24,7 @@ Four Tet / As Serious As Your Life / Rounds
 Interpol / Slow Hands / Antics  
 The Von Bondies / No Regrets / Pawn Shoppe Heart
 
-**7 am – Songs from Movies**</font>
+**7 am – Songs from Movies**
 
 Nancy Sinatra / Bang Bang (My Baby Shot Me Down) / Kill Bill  
 Bruce Springsteen / Streets of Philadelphia / Philadelphia  
@@ -39,7 +39,7 @@ Massive Attack / Angel / Snatch/Pi/Mezzanine
 The Soggy Bottom Boys / I Am a Man of Constant Sorrow / O Brother, Where Art Thou  
 Hans Zimmer and Lisa Gerrard / Now We Are Free / Gladiator
 
-**8 am**</font> 
+**8 am** 
 
 Lamb / Gorecki / Lamb  
 Sigur Ros / Staralfur / Agaetis Byrjun  

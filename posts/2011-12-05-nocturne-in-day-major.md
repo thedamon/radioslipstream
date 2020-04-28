@@ -6,6 +6,7 @@ author: damon
 layout: post
 guid: http://www.radioslipstream.com/?p=245
 permalink: /playlists/2011/12/nocturne-in-day-major/
+mixcloud: nocturne-in-day-major
 enclosure:
   - |
     http://www.radioslipstream.com/radio/slipstream-121.mp3
@@ -15,25 +16,14 @@ enclosure:
 categories:
   - PLAYLISTS
 ---
-<div style="clear: both; height: 3px; width: auto;">
-</div>
-
-<p style="display: block; font-size: 11px; font-family: 'Open Sans', Helvetica, Arial, sans-serif; margin: 0px; padding: 3px 4px; color: rgb(153, 153, 153); width: auto;">
-  <a href="http://www.mixcloud.com/radioslipstream/nocturne-in-day-major/?utm_source=widget&amp;utm_medium=web&amp;utm_campaign=base_links&amp;utm_term=resource_link" target="_blank" style="color:#808080; font-weight:bold;">Nocturne in Day Major</a><span> by </span><a href="http://www.mixcloud.com/radioslipstream/?utm_source=widget&amp;utm_medium=web&amp;utm_campaign=base_links&amp;utm_term=profile_link" target="_blank" style="color:#808080; font-weight:bold;">Radio Slipstream</a><span> on </span><a href="http://www.mixcloud.com/?utm_source=widget&utm_medium=web&utm_campaign=base_links&utm_term=homepage_link" target="_blank" style="color:#808080; font-weight:bold;"> Mixcloud</a>
-</p>
-
-<div style="clear: both; height: 3px; width: auto;">
-</div>
 
 Episode 121. [mp3](/radio/slipstream-121.mp3). Released December 05, 2011.
 
-_  
-Cheezy synthsophone introduces a liquid languid squiddy sent surreal sandwich (Sp? Sic!). A layer of dark and purple spooky glowing tentacles under a layer of bright and pulsing sunshine ventricles. A sauce made of tears, heath gas and the sweat off forlorn entrails. All of this rapped between a solid old school kaiser top and a fresh twisted hip hop beat or two. Ingredients harvested fresh from the solitary rays of sunshine at the edge of a nightmare.</p> 
+Cheezy synthsophone introduces a liquid languid squiddy sent surreal sandwich (Sp? Sic!). A layer of dark and purple spooky glowing tentacles under a layer of bright and pulsing sunshine ventricles. A sauce made of tears, heath gas and the sweat off forlorn entrails. All of this rapped between a solid old school kaiser top and a fresh twisted hip hop beat or two. Ingredients harvested fresh from the solitary rays of sunshine at the edge of a nightmare.
 
 What?
 
-I know this sounds pretty fucked up, but it’s actually pretty incredible. Dive in, yo!  
-</em>
+I know this sounds pretty fucked up, but it’s actually pretty incredible. Dive in, yo!
 
   * Guido / Mad Sax / Anidea (2010)
   * Freddie Gibbs / Oil Money feat. Chuck Inglish, Chip Tha Ripper, Bun B & Dan Auerbach / Str8 Killa EP (2010)

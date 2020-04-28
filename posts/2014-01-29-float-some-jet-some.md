@@ -5,7 +5,7 @@ date: 2014-01-29T22:36:03-05:00
 author: damon
 layout: post
 guid: http://www.radioslipstream.com/?p=403
-permalink: /playlists/2014/01/float-some-jet-some/
+mixcloud: float-some-jet-some
 enclosure:
   - |
     http://www.radioslipstream.com/radio/slipstream-140.mp3
@@ -17,10 +17,7 @@ categories:
 ---
 Episode 140. [mp3](/radio/slipstream-140.mp3). Released January 28, 2014.
 
-<iframe width="100%" height="400" src="https://www.mixcloud.com/widget/iframe/?light=1&feed=%2Fradioslipstream%2Ffloat-some-jet-some%2F" frameborder="0" ></iframe>
-
-_Some of the best hip hop tracks from this past year and a bit. Also some stone cold motherfucking classics. Starts out hard, but the back 3 quarters or so is pretty chill and melodic. You can get down with that, right?  
-_ 
+Some of the best hip hop tracks from this past year and a bit. Also some stone cold motherfucking classics. Starts out hard, but the back 3 quarters or so is pretty chill and melodic. You can get down with that, right?
 
   * Kanye West / Black Skinhead / Yeezus (2013)
   * Pharoahe Monch / Damage (2012)
@@ -48,11 +45,11 @@ Notes:
 – Pharoahe Monch concludes his trilogy of rap songs from the point of view of a bullet (which started with Organized Konfusion’s [Stray Bullet](http://www.youtube.com/watch?v=TNcS5Wl2qlo "Organized Konfusion - Stray Bullet").. one of my favourite hip hops of all time (previously slipstreamed [here](http://www.radioslipstream.com/playlists/2011/12/nocturne-in-day-major/)), and continued with [When the Gun Draws](http://www.youtube.com/watch?v=JZ6-FYAngvc "Pharoahe Monch - Gun Draws official video") in 2007). Pharoahe Monch is, in my mind, one of the best Emcees ever, here’s a [great interview from Bullseye](https://soundcloud.com/bullseye-with-jesse-thorn/pharoahe-monch).  
 – Check out that guest list on A$AP Rocky’s 1 Train. Who needs a hook when you have talent like that?  
 – Seemed appropriate to put [Aesop Rock right next to A$AP Rocky](http://www.youtube.com/watch?v=A29xjvbYk4U "ASAP Rocky Meets Aesop Rock at Rock the Bells"). Not usually the song you’d pick from the album, but I love the laid back vibe and the weird self-deprecating, macabre lyrics.  
-– Ghostface KILLLLLAAAAH. If Ennio Morricone were to produce a rap song&#8230;  
+– Ghostface KILLLLLAAAAH. If Ennio Morricone were to produce a rap song…  
 – The De La Soul and Slum Village tracks produced by Jay Dee aka J Dilla.  
 – Sing About Me, I’m Dying of Thirst. 2 songs? Well it’s one track. And good lord is it good.  
 – Kendrick Lamar’s verse on Control song made waves in the late summer of ’13. A lot of folk [had something to say about it](http://www.vibe.com/photo-gallery/clap-back-ranking-best-and-worst-responses-kendrick-lamars-control-verse "Clap Back: Ranking The Best (And Worst) Responses To Kendrick Lamar's 'Control' Verse"). Jay Electronica’s verse is also awesome. I almost edited out Big Sean’s.</em>  
-– Continuing on a theme&#8230; Andre 3000’s guest verse on &#8216;Sorry’ is beautiful, personal, lyrical. What an incredible emcee.  
+– Continuing on a theme… Andre 3000’s guest verse on ‘Sorry’ is beautiful, personal, lyrical. What an incredible emcee.  
 – Killer Mike’s 2012 collaboration with El-P is really, really good. So is his [free](http://foolsgoldrecs.com/runthejewels/ "Download Run the Jewels") 2013 even-more-collaboration with El-P.  
 – Cunninlynguists have a pretty awesome thing going (especially when it comes to Kno’s production), but after 4 albums with nearly the same sound I’m getting harder to impress.  
 – Sunday’s best has a follow-up track called [Monday’s worst](http://www.youtube.com/watch?v=OBNpwFPVo1Y "Black Milk - Sunday's Best / Monday's Worst (Official Video)"). Worth checkin.  

@@ -5,7 +5,7 @@ date: 2014-01-12T10:46:33-05:00
 author: damon
 layout: post
 guid: http://www.radioslipstream.com/?p=398
-permalink: /playlists/2014/01/black-as-midnight-on-a-moonless-night/
+mixcloud: black-as-midnight-on-a-moonless-night
 enclosure:
   - |
     http://www.radioslipstream.com/radio/slipstream-139.mp3
@@ -17,17 +17,16 @@ categories:
 ---
 Episode 139. [mp3](/radio/slipstream-139.mp3). Released January 12, 2014.
 
-<iframe width="100%" height="400" src="https://www.mixcloud.com/widget/iframe/?light=1&feed=%2Fradioslipstream%2Fblack-as-midnight-on-a-moonless-night%2F" frameborder="0" ></iframe>
-_  
+  
 Radio Slipstream is 9 years old today.  
 That’s fucked.  
-So here’s another episode. A bit of a gothic tint this time around (You can probably guess by acting out some of the names). A couple of classics. Some newer witchiness, and a bit of hip hop at the end&#8230; cuz.</p> 
+So here’s another episode. A bit of a gothic tint this time around (You can probably guess by acting out some of the names). A couple of classics. Some newer witchiness, and a bit of hip hop at the end… cuz.
 
 Also, please try to pronounce Einstürzende Neubauten loudly at friends and enemies alike.
 
 Things to Note:  
-– The kickass lyrics Nick Cave gifts to us at the end of Release the Bats (_&#8220;Baby is a cool machine/she moves to the pulse of a generator/she says damn that sex supreme/she says, she says damn that horror bat/sex horror sex bat sex horror sex vampire&#8221;_)  
-– If you want to talk about the term &#8220;underrated&#8221;, check out Rowland S. Howard’s 1999 album. I’d even go so far as to use the term &#8220;hidden gem.&#8221;  
+– The kickass lyrics Nick Cave gifts to us at the end of Release the Bats (_“Baby is a cool machine/she moves to the pulse of a generator/she says damn that sex supreme/she says, she says damn that horror bat/sex horror sex bat sex horror sex vampire”_)  
+– If you want to talk about the term “underrated”, check out Rowland S. Howard’s 1999 album. I’d even go so far as to use the term “hidden gem.”  
 – King Krule’s awesome accent.  
 – Capping it off with a self-titled album’s title track! So cool.
 

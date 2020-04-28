@@ -5,7 +5,7 @@ date: 2012-06-19T23:07:17-05:00
 author: damon
 layout: post
 guid: http://www.radioslipstream.com/?p=278
-permalink: /playlists/2012/06/telegrams-from-the-mothership/
+mixcloud: telegrams-from-the-mothership
 enclosure:
   - |
     http://www.radioslipstream.com/radio/slipstream-126.mp3
@@ -17,21 +17,7 @@ categories:
 ---
 Episode 126. [mp3](/radio/slipstream-126.mp3). Released June 19, 2012.
 
-
-
-<div style="clear: both; height: 3px; width: auto;">
-</div>
-
-<p style="display: block; font-size: 11px; font-family: 'Open Sans', Helvetica, Arial, sans-serif; margin: 0px; padding: 3px 4px; color: rgb(153, 153, 153); width: auto;">
-  <a href="http://www.mixcloud.com/radioslipstream/telegrams-from-the-mothership/?utm_source=widget&amp;utm_medium=web&amp;utm_campaign=base_links&amp;utm_term=resource_link" target="_blank" style="color:#808080; font-weight:bold;">Telegrams from the Mothership</a><span> by </span><a href="http://www.mixcloud.com/radioslipstream/?utm_source=widget&amp;utm_medium=web&amp;utm_campaign=base_links&amp;utm_term=profile_link" target="_blank" style="color:#808080; font-weight:bold;">Radio Slipstream</a><span> on </span><a href="http://www.mixcloud.com/?utm_source=widget&utm_medium=web&utm_campaign=base_links&utm_term=homepage_link" target="_blank" style="color:#808080; font-weight:bold;"> Mixcloud</a>
-</p>
-
-<div style="clear: both; height: 3px; width: auto;">
-</div>
-
-_  
 Dreamy space women, then some tender dubstep and some classic post-punk. Then a couple more dreamy space women.  
-_ 
 
   * Julia Holter / Our Sorrows / Ekstasis (2012)
   * Iamamiwhoami / Sever / Kin (2012)
@@ -53,8 +39,8 @@ _
   * Julee Cruise / Into The Night / Floating Into The Night (1989)
   * Ann Peebles / I Can’t Stand the Rain / I Can’t Stand the Rain (1974)
 
-_  
-Things to consider: </p> 
+
+Things to consider:
 
 This mix is best experienced following right after the [previous one](http://www.radioslipstream.com/playlists/2012/06/halfway-back-to-loam/ "HALFWAY BACK TO LOAM"). I always meant for Julianna and Julia to be neighbours. So if you’ve got 2.7 hours to kill then that’s a winning ticket right there! In your hand! Literally! Don’t lose it!
 
@@ -68,7 +54,7 @@ There’s not actually any dubstep on here, but that’s just what you call elec
 
 Аукцыон’s English name is Auktyon.
 
-Colin Stetson makes all of his sounds with a bass saxaphone and a bunch of strategically placed microphones. If that’s not sexy&#8230;
+Colin Stetson makes all of his sounds with a bass saxaphone and a bunch of strategically placed microphones. If that’s not sexy…
 
 Julee Cruise’ album was co-written by David Lynch
 
@@ -77,4 +63,3 @@ Before there was Missy Elliot, there was MFing Ann Peebles to not stand the rain
 I dunno if it’s weird that I kinda have to focus to get a 2:1+ female:male vocal ratio like this. I hope you appreciate it.
 
 Chances of me getting the mic and taking the time to record audio commentary ever again? Dwindly. Though I do miss being a smartass about music.  
-</em>

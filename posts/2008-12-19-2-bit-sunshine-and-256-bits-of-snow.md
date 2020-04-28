@@ -17,7 +17,7 @@ categories:
 ---
 Episode 106. [mp3](/radio/slipstream-106.mp3). [cue](/radio/slipstream-106.cue). Released December 19, 2008
 
-_So a new computer and the semi-annual end of term procrastinator-punishment-derby may have contributed to this most unprecedented of podcast interims. But fuck that. Cause now it’s up! This guy is my sham summer within this dullest of seasons&#8230; you will find blissed out psychedelia, hard-hitting dub grooves, hip hop chills and flows, club beats (not as dangerous as it sounds), and quirky catchy experimental chamber pop. All for the price of 2 hours in the background of whatever vastly important business you’re involved with on the internet/your ipod today._
+_So a new computer and the semi-annual end of term procrastinator-punishment-derby may have contributed to this most unprecedented of podcast interims. But fuck that. Cause now it’s up! This guy is my sham summer within this dullest of seasons… you will find blissed out psychedelia, hard-hitting dub grooves, hip hop chills and flows, club beats (not as dangerous as it sounds), and quirky catchy experimental chamber pop. All for the price of 2 hours in the background of whatever vastly important business you’re involved with on the internet/your ipod today._
 
 Brian Eno + David Byrne / Mountain Of Needles / My Life In The Bush Of Ghosts (1981)  
 Disco Inferno / Starbound: All Burnt Out & Nowhere To Go / D.I. Go Pop (1994)  
@@ -35,8 +35,8 @@ Lady Saw / Chat To Mi Back / Walk Out (2007)
 
 Santogold / Anne / Santogold (2008)  
 Rihanna / Don’t Stop the Music / Good Girl Gone Bad (2007)  
-The Very Best (Esau Mwamwaya & Radioclit) / Wena / &#8216;The Very Best’ Mixtape (2008)  
-Outkast / Return of the &#8220;G&#8221; / Aquemini (1998)
+The Very Best (Esau Mwamwaya & Radioclit) / Wena / ‘The Very Best’ Mixtape (2008)  
+Outkast / Return of the “G” / Aquemini (1998)
 
 Binary Star / Honest Expression / Masters Of The Universe (2000)  
 One Be Lo / Axis / s.o.n.o.g.r.a.m. (2005)  

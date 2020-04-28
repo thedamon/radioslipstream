@@ -17,7 +17,7 @@ categories:
 ---
 Episode 102. [mp3](/radio/slipstream-102.mp3). [cue](/radio/slipstream-102.cue). Released June 29, 2008
 
-_I know, I know&#8230; it’s been an awful long while. I have my reasons of course, but you’ll have to listen to find out. At any rate, this episode focuses on slow, beautiful experimental and modern classical works at first and then settles into ambience and summer dreaming before a bit of summer fun with a hint of pop._
+_I know, I know… it’s been an awful long while. I have my reasons of course, but you’ll have to listen to find out. At any rate, this episode focuses on slow, beautiful experimental and modern classical works at first and then settles into ambience and summer dreaming before a bit of summer fun with a hint of pop._
 
 Nico Muhly / Mothertongue Pt. 1: Archive / Mothertongue (2008)
 

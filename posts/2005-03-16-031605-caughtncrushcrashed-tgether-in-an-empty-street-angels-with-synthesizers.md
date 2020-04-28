@@ -11,18 +11,18 @@ categories:
 ---
 (<a href=“/radio/slipstream031605.mp3">MP3</a>)
 
-**6 am**</font> 
+**6 am** 
 
 Animal Collective / Leaf House / Sung Tongs (2004)  
-Underworld / MMM&#8230; Skyscraper, I Love You / Dubnobasswithmyheadman (1994)  
+Underworld / MMM… Skyscraper, I Love You / Dubnobasswithmyheadman (1994)  
 Drum Island / Glacier / Drum Island (1997)  
-DJ Food / The Crow&#8230; / Kaleidoscope (2000)  
+DJ Food / The Crow… / Kaleidoscope (2000)  
 Max Richter / On The Nature of Daylight / The Blue Notbooks (2004)  
 T&eacute;l&eacute;popmusik / Hollywood on my Toothpaste/ / Angel Milk (2005)  
 Nits / Dreams / Da Da Da (1995)  
 Talk Talk / Life’s What You Make It / The Colour Of Spring (1986)
 
-**7 am – Angels with Synthesizers**</font> 
+**7 am – Angels with Synthesizers** 
 
 Orbital / Halcyon & On & On / Orbital 2 (The Brown Album) (1992)  
 Lamb / Heaven / What Sound (2001)  
@@ -33,10 +33,10 @@ Ivy / Edge of the Ocean / Long Distance (2000)
 Air / You Make It Easy / Moon Safari (1999)  
 Peace Orchestra (Peter Kruder) / Shining / Peace Orchestra (1998)  
 Vangelis / Rachel’s Song / Blade Runner OST (1992)  
-Mandalay / Beautiful (7&#8243; Canny Mix) / CD Single (1998)  
+Mandalay / Beautiful (7″ Canny Mix) / CD Single (1998)  
 Craig Armstrong w/ Liz Fraser / This Love / The Space Between Us (1998)
 
-**8 am**</font> 
+**8 am** 
 
 Daedelus / Thanatopsis / Exquisite Corpse (2005)  
 13+God / Soft Atlas / Men of Station EP (2005)  

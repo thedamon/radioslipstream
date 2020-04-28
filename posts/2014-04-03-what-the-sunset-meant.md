@@ -5,15 +5,12 @@ date: 2014-04-03T21:19:44-05:00
 author: damon
 layout: post
 guid: http://www.radioslipstream.com/?p=415
-permalink: /playlists/2014/04/what-the-sunset-meant/
+mixcloud: what-the-sunset-meant
 categories:
   - PLAYLISTS
 ---
 
-<iframe width="100%" height="400" src="https://www.mixcloud.com/widget/iframe/?light=1&feed=%2Fradioslipstream%2Fwhat-the-sunset-meant%2F" frameborder="0" ></iframe>
-
-_A little bit danceable. A little bit wistful. A little bit like compounding the rich delightfully NOT FROZEN late evening into a thick, colourful paste, smearing it all over everything and rolling with it.  
-_ 
+_A little bit danceable. A little bit wistful. A little bit like compounding the rich delightfully NOT FROZEN late evening into a thick, colourful paste, smearing it all over everything and rolling with it._ 
 
   * Eliot Lipp / Good / City Synthesis (2007)
   * Grandbrothers / Ezra Was Right / Ezra EP (2014)

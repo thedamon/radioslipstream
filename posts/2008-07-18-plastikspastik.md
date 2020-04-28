@@ -15,7 +15,7 @@ enclosure:
 categories:
   - MIXES
 ---
-If there’s one thing Valerie doesn’t like, it’s driving in the car with measured or meandering music blaring outta tha speakers. This mix CD was designed expressly to neutralize such occurences. Mixed and beaten from only the most energetic of ingredients, this delightful musical confection will surely stir you to &#8220;dance-action&#8221;(tm)! Balls to the wall, son!
+If there’s one thing Valerie doesn’t like, it’s driving in the car with measured or meandering music blaring outta tha speakers. This mix CD was designed expressly to neutralize such occurences. Mixed and beaten from only the most energetic of ingredients, this delightful musical confection will surely stir you to “dance-action”(tm)! Balls to the wall, son!
 
 So what are you waiting for? Grab the [mp3 file](/radio/mixes/plastikspastik.mp3) and the [cue file](/radio/mixes/plastikspastik.cue), throw ’em on a CD burning app, pop that disc in your car, and drive around town <strike>dangerously</strike> enthusiastically!
 
@@ -44,4 +44,4 @@ So what are you waiting for? Grab the [mp3 file](/radio/mixes/plastikspastik.mp3
 23. Modeselektor – Silikon (feat. Sasha Perera)  
 24. Beastie Boys – Intergalactic  
 25. Electric Six – Danger High Voltage  
-26. Pop Will Eat Itself – Not Now James, We’re Busy&#8230;
+26. Pop Will Eat Itself – Not Now James, We’re Busy…

@@ -35,7 +35,7 @@ Cat Power / (I Can’t Get No) Satisfaction / The Covers Record (2000)
 Tom Waits / Sea Of Love / Orphans (2006)  
 &nbsp;&nbsp;&nbsp;[original: Phil Phillips (1959)]  
 ‐  
-Dani Siciliano / Come as You Are / Likes&#8230; (2004)  
+Dani Siciliano / Come as You Are / Likes… (2004)  
 &nbsp;&nbsp;&nbsp;[original: Nirvana (1991)]  
 Petra Haden / I Can See for Miles / Petra Haden Sings: The Who Sell Out (2005)  
 &nbsp;&nbsp;&nbsp;[original: The Who (1967)]  

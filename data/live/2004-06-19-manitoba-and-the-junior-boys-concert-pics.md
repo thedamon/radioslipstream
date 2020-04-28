@@ -9,7 +9,7 @@ permalink: /features/live-reviews/2004/06/manitoba-and-the-junior-boys-concert-p
 categories:
   - concerts
 ---
-<font size="+2"><a href="http://www.manitoba.fm">Manitoba</a> wsg <a href="http://www.electrokin.com/artists/junior_boys/">Junior Boys</a></font> <font size="+1">Live at Call The Office in London – June 19th, 2004</font>
+<a href="http://www.manitoba.fm">Manitoba</a> wsg <a href="http://www.electrokin.com/artists/junior_boys/">Junior Boys</a> Live at Call The Office in London – June 19th, 2004
 
 Junior Boys
 

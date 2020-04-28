@@ -18,7 +18,7 @@ categories:
 ---
 Episode 98. [mp3](/radio/slipstream-98.mp3). [cue](/radio/slipstream-98.cue). Released March 17, 2008
 
-_Apologies for the delay&#8230; working 8.5 hour days really reduces the amount of time I have to comb through old music and listen to new tunes and carefully (+ocd-ishly) arrange them into podcast playlists. Don’t you wish I was still a bum? At any rate, until I find a job where I can bring in my own tunes, I’m not fully confident I can keep up the bi-weekly episodes. But I will try!</p> 
+_Apologies for the delay… working 8.5 hour days really reduces the amount of time I have to comb through old music and listen to new tunes and carefully (+ocd-ishly) arrange them into podcast playlists. Don’t you wish I was still a bum? At any rate, until I find a job where I can bring in my own tunes, I’m not fully confident I can keep up the bi-weekly episodes. But I will try!</p> 
 
 This week’s selections run quite opposite to the electronicness of last time. We start with some manic, experimental pieces and then settle down into a king-size bed of vaguely folksy reverb that eventually expands into various forms of slightly surreal ballading, before being buried in a grim avalanche of craggy rock and roll.</em>
 

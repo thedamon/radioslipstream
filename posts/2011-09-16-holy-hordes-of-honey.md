@@ -5,7 +5,7 @@ date: 2011-09-16T22:23:25-05:00
 author: damon
 layout: post
 guid: http://www.radioslipstream.com/?p=231
-permalink: /playlists/2011/09/holy-hordes-of-honey/
+mixcloud: holy-hordes-of-honey
 enclosure:
   - |
     http://www.radioslipstream.com/radio/slipstream-119.mp3
@@ -15,16 +15,6 @@ enclosure:
 categories:
   - PLAYLISTS
 ---
-<div style="clear: both; height: 3px; width: auto;">
-</div>
-
-<p style="display: block; font-size: 11px; font-family: 'Open Sans', Helvetica, Arial, sans-serif; margin: 0px; padding: 3px 4px; color: rgb(153, 153, 153); width: auto;">
-  <a href="http://www.mixcloud.com/radioslipstream/holy-hordes-of-honey/?utm_source=widget&amp;utm_medium=web&amp;utm_campaign=base_links&amp;utm_term=resource_link" target="_blank" style="color:#808080; font-weight:bold;">Holy Hordes of Honey</a><span> by </span><a href="http://www.mixcloud.com/radioslipstream/?utm_source=widget&amp;utm_medium=web&amp;utm_campaign=base_links&amp;utm_term=profile_link" target="_blank" style="color:#808080; font-weight:bold;">Radio Slipstream</a><span> on </span><a href="http://www.mixcloud.com/?utm_source=widget&utm_medium=web&utm_campaign=base_links&utm_term=homepage_link" target="_blank" style="color:#808080; font-weight:bold;"> Mixcloud</a>
-</p>
-
-<div style="clear: both; height: 3px; width: auto;">
-</div>
-
 Episode 119. [mp3](/radio/slipstream-119.mp3). Released September 16, 2011.
 
 _Ugh. Last episode was way majorly too slick. This one is dirty. Twangy. Plucky. Plurpy. Gutted. Raw. Ecstatic._

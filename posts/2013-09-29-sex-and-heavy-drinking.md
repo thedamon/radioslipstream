@@ -5,7 +5,7 @@ date: 2013-09-29T21:55:05-05:00
 author: damon
 layout: post
 guid: http://www.radioslipstream.com/?p=382
-permalink: /playlists/2013/09/sex-and-heavy-drinking/
+mixcloud: sex-and-heavy-drinking
 enclosure:
   - |
     http://www.radioslipstream.com/radio/slipstream-137.mp3
@@ -17,22 +17,10 @@ categories:
 ---
 Episode 137. [mp3](/radio/slipstream-137.mp3). Released September 29, 2013.
 
-
-
-<div style="clear: both; height: 3px; width: 652px;">
-</div>
-
-<p style="display: block; font-size: 11px; font-family: 'Open Sans', Helvetica, Arial, sans-serif; margin: 0px; padding: 3px 4px; color: rgb(153, 153, 153); width: 652px;">
-  <a href="http://www.mixcloud.com/radioslipstream/sex-and-heavy-drinking/?utm_source=widget&amp;utm_medium=web&amp;utm_campaign=base_links&amp;utm_term=resource_link" target="_blank" style="color:#808080; font-weight:bold;">Sex and Heavy Drinking</a><span> by </span><a href="http://www.mixcloud.com/radioslipstream/?utm_source=widget&amp;utm_medium=web&amp;utm_campaign=base_links&amp;utm_term=profile_link" target="_blank" style="color:#808080; font-weight:bold;">Radio Slipstream</a><span> on </span><a href="http://www.mixcloud.com/?utm_source=widget&utm_medium=web&utm_campaign=base_links&utm_term=homepage_link" target="_blank" style="color:#808080; font-weight:bold;"> Mixcloud</a>
-</p>
-
-<div style="clear: both; height: 3px; width: 652px;">
-</div>
-
 _  
 This plays like a night of debauchery that’s had a heavy gaussian blur applied to it. </p> 
 
-Some ambient kinda stuff going from pretty to dirty and then some sultry kinda &#8220;dance&#8221; music, then some murky electronic weird stuff capped off with some RnB.
+Some ambient kinda stuff going from pretty to dirty and then some sultry kinda “dance” music, then some murky electronic weird stuff capped off with some RnB.
 
 Recommended for: After dinner, hangover causes, a temptress, dreams, folks.  
 </em>

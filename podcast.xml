@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Radio Slipstream</title>
+    <link>http://www.radioslipstream.com</link>
+    <description>Mondays, 0-2 at NIGHT on 93.3 CFMU in Hamilton, Ontario.
+Each episode guarantees new surprises, old favourites, and only the best in music of many kinds! 
+(mostly independant artists)</description>
+	 <itunes:summary>if i could make the perfect itunes playlist, with all the best songs... well i have! and this is it! and dern it if it don\\\'t keep gettin bigger\\\'n bigger!</itunes:summary>
+	 <itunes:subtitle>Mondays, 0-2 at NIGHT on 93.3 CFMU in Hamilton, Ontario.
+Each episode guarantees new surprises, old favourites, and only the best in music of many kinds! 
+(mostly independant artists)</itunes:subtitle>
+    <itunes:category text="Music"></itunes:category>
+	<language>en-us</language>
+    <copyright>2006. All rights reserved.</copyright>
+    <pubDate>Wed, 11 Jul 2007 05:26:00 GMT</pubDate>
+    <lastBuildDate>Wed, 11 Jul 2007 05:26:00 GMT</lastBuildDate>
+    <generator>Podcastblaster.com</generator>
+    <managingEditor>mumad@rogers.com(Darmon Mayma)</managingEditor>
+    <webMaster>mumad@rogers.com</webMaster>
+    <image>
+    <url>http://www.radioslipstream.com/pics/djdamonmini.jpg</url>
+    <title>Radio Slipstream</title>
+    <link>http://www.radioslipstream.com</link>
+    <width>144</width>
+    <height>144</height>
+    </image>
+    <itunes:owner>
+      <itunes:name>Darmon Mayma</itunes:name>
+      <itunes:email>mumad@rogers.com</itunes:email>
+    </itunes:owner>
+    <itunes:author>.d.</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <ttl>1</ttl>
+    <item>
+      <title>johnny go heavy</title>
+      <link>http://radioslipstream.com/radio/slipstream-s4e04.mp3</link>
+      <comments>http://www.radioslipstream.com/radio/slipstream-s4e04.mp3</comments>
+      <itunes:author>.d.</itunes:author>
+      <dc:creator>.d.</dc:creator>
+      <description>radioslipstream season 4 episode 4</description>
+      <pubDate>Tue, 05 Jun 2007 11:00:00 GMT</pubDate>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:summary>On this landmark episode of radioslipstream I am joined in the studio by Bertrand Imapretentiousasshole from the British Institute for Applied Sound and Harmony and an odd young bloke called Paul Whippleberry!</itunes:summary>
+      <itunes:keywords></itunes:keywords>
+      <itunes:duration>0:0:0</itunes:duration>
+      <enclosure url="http://www.radioslipstream.com/radio/slipstream-s4e04.mp3" length="0" type="audio/mpeg" />
+      <guid>http://www.radioslipstream.com/radio/slipstream-s4e04.mp3</guid>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>tears become you</title>
+      <link>http://radioslipstream.com/radio/slipstream-s4e05.mp3</link>
+      <comments>http://www.radioslipstream.com/radio/slipstream-s4e05.mp3</comments>
+      <itunes:author>.d.</itunes:author>
+      <dc:creator>.d.</dc:creator>
+      <description>season 4 episode 5 w/special kevin muma dj mix</description>
+      <pubDate>Mon, 11 Jun 2007 11:00:00 GMT</pubDate>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:summary>season 4 episode 5 w/special kevin muma dj mix</itunes:summary>
+      <itunes:keywords></itunes:keywords>
+      <itunes:duration>0:0:0</itunes:duration>
+      <enclosure url="http://www.radioslipstream.com/radio/slipstream-s4e05.mp3" length="0" type="audio/mpeg" />
+      <guid>http://www.radioslipstream.com/radio/slipstream-s4e05.mp3</guid>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>goggleflex bonjour</title>
+      <link>http://radioslipstream.com/radio/slipstream-s4e06.mp3</link>
+      <comments>http://www.radioslipstream.com/radio/slipstream-s4e06.mp3</comments>
+      <itunes:author>.d.</itunes:author>
+      <dc:creator>.d.</dc:creator>
+      <description>season 4 episode 6 w/special guest</description>
+      <pubDate>Tue, 19 Jun 2007 11:00:00 GMT</pubDate>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:summary>season 4 episode 6 w/special guest</itunes:summary>
+      <itunes:keywords></itunes:keywords>
+      <itunes:duration>0:0:0</itunes:duration>
+      <enclosure url="http://www.radioslipstream.com/radio/slipstream-s4e06.mp3" length="0" type="audio/mpeg" />
+      <guid>http://www.radioslipstream.com/radio/slipstream-s4e06.mp3</guid>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>psicotic epitsode</title>
+      <link>http://radioslipstream.com/radio/slipstream-s4e07.mp3</link>
+      <comments>http://www.radioslipstream.com/radio/slipstream-s4e07.mp3</comments>
+      <itunes:author>.d.</itunes:author>
+      <dc:creator>.d.</dc:creator>
+      <description>season 4 episode 7</description>
+      <pubDate>Tue, 26 Jun 2007 11:00:00 GMT</pubDate>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:summary>season 4 episode 7</itunes:summary>
+      <itunes:keywords></itunes:keywords>
+      <itunes:duration>0:0:0</itunes:duration>
+      <enclosure url="http://www.radioslipstream.com/radio/slipstream-s4e07.mp3" length="0" type="audio/mpeg" />
+      <guid>http://www.radioslipstream.com/radio/slipstream-s4e07.mp3</guid>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>attack of the shirtless maestros! (now with bonus shirts)</title>
+      <link>http://radioslipstream.com/radio/slipstream-s4e08.mp3</link>
+      <comments>http://radioslipstream.com/radio/slipstream-s4e08.mp3</comments>
+      <itunes:author>.d.</itunes:author>
+      <dc:creator>.d.</dc:creator>
+      <description>season 4 episode 8</description>
+      <pubDate>Tue, 10 Jul 2007 00:26:00 GMT</pubDate>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:summary>season 4 episode 8</itunes:summary>
+      <itunes:keywords></itunes:keywords>
+      <itunes:duration>0:0:0</itunes:duration>
+      <enclosure url="http://www.radioslipstream.com/radio/slipstream-s4e08.mp3" length="0" type="audio/mpeg" />
+      <guid>http://radioslipstream.com/radio/slipstream-s4e08.mp3</guid>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+	    <item>
+      <title>david suzuki hates toast</title>
+      <link>http://radioslipstream.com/radio/slipstream-s4e09.mp3</link>
+      <comments>http://radioslipstream.com/radio/slipstream-s4e09.mp3</comments>
+      <itunes:author>.d.</itunes:author>
+      <dc:creator>.d.</dc:creator>
+      <description>season 4 episode 9</description>
+      <pubDate>Tue, 17 Jul 2007 00:26:00 GMT</pubDate>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:summary>season 4 episode 9</itunes:summary>
+      <itunes:keywords></itunes:keywords>
+      <itunes:duration>0:0:0</itunes:duration>
+      <enclosure url="http://www.radioslipstream.com/radio/slipstream-s4e09.mp3" length="0" type="audio/mpeg" />
+      <guid>http://radioslipstream.com/radio/slipstream-s4e09.mp3</guid>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+	 <item>
+      <title>indoubledaydelay</title>
+      <link>http://radioslipstream.com/radio/slipstream-s4e10.mp3</link>
+      <comments>http://radioslipstream.com/radio/slipstream-s4e10.mp3</comments>
+      <itunes:author>.d.</itunes:author>
+      <dc:creator>.d.</dc:creator>
+      <description>season 4 episode 10</description>
+      <pubDate>Tue, 24 Jul 2007 00:26:00 GMT</pubDate>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:summary>season 4 episode 10</itunes:summary>
+      <itunes:keywords></itunes:keywords>
+      <itunes:duration>0:0:0</itunes:duration>
+      <enclosure url="http://www.radioslipstream.com/radio/slipstream-s4e10.mp3" length="0" type="audio/mpeg" />
+      <guid>http://radioslipstream.com/radio/slipstream-s4e10.mp3</guid>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+	<item>
+      <title>cry her name into the rosy dawn</title>
+      <link>http://radioslipstream.com/radio/slipstream-s4e11.mp3</link>
+      <comments>http://radioslipstream.com/radio/slipstream-s4e11.mp3</comments>
+      <itunes:author>.d.</itunes:author>
+      <dc:creator>.d.</dc:creator>
+      <description>season 4 episode 11</description>
+      <pubDate>Tue, 31 Jul 2007 00:26:00 GMT</pubDate>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:summary>season 4 episode 11</itunes:summary>
+      <itunes:keywords></itunes:keywords>
+      <itunes:duration>0:0:0</itunes:duration>
+      <enclosure url="http://www.radioslipstream.com/radio/slipstream-s4e11.mp3" length="0" type="audio/mpeg" />
+      <guid>http://radioslipstream.com/radio/slipstream-s4e11.mp3</guid>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+	<item>
+      <title>knuckle fear for growing boys</title>
+      <link>http://radioslipstream.com/radio/slipstream-s4e12.mp3</link>
+      <comments>http://radioslipstream.com/radio/slipstream-s4e12.mp3</comments>
+      <itunes:author>.d.</itunes:author>
+      <dc:creator>.d.</dc:creator>
+      <description>season 4 episode 12</description>
+      <pubDate>Tue, 07 Aug 2007 00:26:00 GMT</pubDate>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:summary>season 4 episode 12</itunes:summary>
+      <itunes:keywords></itunes:keywords>
+      <itunes:duration>0:0:0</itunes:duration>
+      <enclosure url="http://www.radioslipstream.com/radio/slipstream-s4e12.mp3" length="0" type="audio/mpeg" />
+      <guid>http://radioslipstream.com/radio/slipstream-s4e12.mp3</guid>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+	<item>
+      <title>failed purple</title>
+      <link>http://radioslipstream.com/radio/slipstream-s4e13.mp3</link>
+      <comments>http://radioslipstream.com/radio/slipstream-s4e13.mp3</comments>
+      <itunes:author>.d.</itunes:author>
+      <dc:creator>.d.</dc:creator>
+      <description>season 4 episode 13</description>
+      <pubDate>Tue, 14 Aug 2007 00:26:00 GMT</pubDate>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:summary>season 4 episode 13</itunes:summary>
+      <itunes:keywords></itunes:keywords>
+      <itunes:duration>0:0:0</itunes:duration>
+      <enclosure url="http://www.radioslipstream.com/radio/slipstream-s4e13.mp3" length="0" type="audio/mpeg" />
+      <guid>http://radioslipstream.com/radio/slipstream-s4e13.mp3</guid>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+	<item>
+      <title>out into dead air</title>
+      <link>http://radioslipstream.com/radio/slipstream-s4e14.mp3</link>
+      <comments>http://radioslipstream.com/radio/slipstream-s4e14.mp3</comments>
+      <itunes:author>.d.</itunes:author>
+      <dc:creator>.d.</dc:creator>
+      <description>the last episode of the slipstream broadcast from the cfmu booth. due to laptop fuckups the first hour is free of commentary; see radioslipstream.com for playlist</description>
+      <pubDate>Tue, 28 Aug 2007 00:26:00 GMT</pubDate>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:summary>the last episode of the slipstream broadcast from the cfmu booth. due to laptop fuckups the first hour is free of commentary; see radioslipstream.com for playlist</itunes:summary>
+      <itunes:keywords></itunes:keywords>
+      <itunes:duration>0:0:0</itunes:duration>
+      <enclosure url="http://www.radioslipstream.com/radio/slipstream-s4e14.mp3" length="0" type="audio/mpeg" />
+      <guid>http://radioslipstream.com/radio/slipstream-s4e14.mp3</guid>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+	<item>
+      <title>maximum Bb minor</title>
+      <link>http://radioslipstream.com/radio/slipstream-86.mp3</link>
+      <comments>http://radioslipstream.com/radio/slipstream-86.mp3</comments>
+      <itunes:author>.d.</itunes:author>
+      <dc:creator>.d.</dc:creator>
+      <description>episode 86 of radio slipstream</description>
+      <pubDate>Mon, 10 Sep 2007 13:26:00 GMT</pubDate>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:summary>episode 86 of radio slipstream</itunes:summary>
+      <itunes:keywords></itunes:keywords>
+      <itunes:duration>120:48</itunes:duration>
+      <enclosure url="http://www.radioslipstream.com/radio/slipstream-86.mp3" length="0" type="audio/mpeg" />
+      <guid>http://radioslipstream.com/radio/slipstream-86.mp3</guid>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+	<item>
+      <title>fivrius tepistem</title>
+      <link>http://radioslipstream.com/radio/slipstream-87.mp3</link>
+      <comments>http://radioslipstream.com/radio/slipstream-87.mp3</comments>
+      <itunes:author>.d.</itunes:author>
+      <dc:creator>.d.</dc:creator>
+      <description>episode 87 of radio slipstream</description>
+      <pubDate>Mon, 17 Sep 2007 13:26:00 GMT</pubDate>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:summary>episode 87 of radio slipstream</itunes:summary>
+      <itunes:keywords></itunes:keywords>
+      <itunes:duration>119:54</itunes:duration>
+      <enclosure url="http://www.radioslipstream.com/radio/slipstream-87.mp3" length="0" type="audio/mpeg" />
+      <guid>http://radioslipstream.com/radio/slipstream-87.mp3</guid>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+	<item>
+      <title>the 2007 LOLA topical</title>
+      <link>http://radioslipstream.com/radio/slipstream-88.mp3</link>
+      <comments>http://radioslipstream.com/radio/slipstream-88.mp3</comments>
+      <itunes:author>.d.</itunes:author>
+      <dc:creator>.d.</dc:creator>
+      <description>highlighting LondonOntarioLiveArts 2007: songs by performers, and performances and interviews from the festival</description>
+      <pubDate>Mon, 24 Sep 2007 13:26:00 GMT</pubDate>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:summary>highlighting LondonOntarioLiveArts 2007: songs by performers, and performances and interviews from the festival</itunes:summary>
+      <itunes:keywords></itunes:keywords>
+      <itunes:duration>119:37</itunes:duration>
+      <enclosure url="http://www.radioslipstream.com/radio/slipstream-88.mp3" length="0" type="audio/mpeg" />
+      <guid>http://radioslipstream.com/radio/slipstream-88.mp3</guid>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+		<item>
+      <title>not different- just better or worse</title>
+      <link>http://radioslipstream.com/radio/slipstream-89.mp3</link>
+      <comments>http://radioslipstream.com/radio/slipstream-89.mp3</comments>
+      <itunes:author>.d.</itunes:author>
+      <dc:creator>.d.</dc:creator>
+      <description>episode 89 of radio slipstream ft. new underworld, british sea power etc</description>
+      <pubDate>Mon, 1 Oct 2007 13:26:00 GMT</pubDate>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:summary>episode 89 of radio slipstream ft. new underworld, british sea power etc</itunes:summary>
+      <itunes:keywords></itunes:keywords>
+      <itunes:duration>120:00</itunes:duration>
+      <enclosure url="http://www.radioslipstream.com/radio/slipstream-89.mp3" length="0" type="audio/mpeg" />
+      <guid>http://radioslipstream.com/radio/slipstream-89.mp3</guid>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+	<item>
+      <title>scrawling on all fours</title>
+      <link>http://radioslipstream.com/radio/slipstream-90.mp3</link>
+      <comments>http://radioslipstream.com/radio/slipstream-90.mp3</comments>
+      <itunes:author>.d.</itunes:author>
+      <dc:creator>.d.</dc:creator>
+      <description>episode 90 of radio slipstream ft. general awesomeness and the 2000th unique song</description>
+      <pubDate>Mon, 15 Oct 2007 13:26:00 GMT</pubDate>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:summary>episode 90 of radio slipstream ft. general awesomeness and the 2000th unique song</itunes:summary>
+      <itunes:keywords></itunes:keywords>
+      <itunes:duration>120:00</itunes:duration>
+      <enclosure url="http://www.radioslipstream.com/radio/slipstream-90.mp3" length="0" type="audio/mpeg" />
+      <guid>http://radioslipstream.com/radio/slipstream-90.mp3</guid>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+	<item>
+      <title>beneath the chill and windy</title>
+      <link>http://radioslipstream.com/radio/slipstream-91.mp3</link>
+      <comments>http://radioslipstream.com/radio/slipstream-91.mp3</comments>
+      <itunes:author>.d.</itunes:author>
+      <dc:creator>.d.</dc:creator>
+      <description>episode 91 of radio slipstream with a general focus on autumnal atmosphere and experimentation</description>
+      <pubDate>Mon, 15 Oct 2007 13:26:00 GMT</pubDate>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:summary>episode 91 of radio slipstream with a general focus on autumnal atmosphere and experimentation</itunes:summary>
+      <itunes:keywords></itunes:keywords>
+      <itunes:duration>120:00</itunes:duration>
+      <enclosure url="http://www.radioslipstream.com/radio/slipstream-91.mp3" length="0" type="audio/mpeg" />
+      <guid>http://radioslipstream.com/radio/slipstream-91.mp3</guid>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+	<item>
+      <title>end. (radio edit)</title>
+      <link>http://radioslipstream.com/radio/slipstream-92.mp3</link>
+      <comments>http://radioslipstream.com/radio/slipstream-92.mp3</comments>
+      <itunes:author>.d.</itunes:author>
+      <dc:creator>.d.</dc:creator>
+      <description>the last and 92nd episode of radio slipstream feat my 40 most favourite songs</description>
+      <pubDate>Mon, 15 Oct 2007 13:26:00 GMT</pubDate>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:summary>the last and 92nd episode of radio slipstream feat my 40 most favourite songs</itunes:summary>
+      <itunes:keywords></itunes:keywords>
+      <itunes:duration>120:42</itunes:duration>
+      <enclosure url="http://www.radioslipstream.com/radio/slipstream-92.mp3" length="0" type="audio/mpeg" />
+      <guid>http://radioslipstream.com/radio/slipstream-92.mp3</guid>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>

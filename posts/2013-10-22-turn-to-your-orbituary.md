@@ -5,7 +5,7 @@ date: 2013-10-22T00:51:38-05:00
 author: damon
 layout: post
 guid: http://www.radioslipstream.com/?p=390
-permalink: /playlists/2013/10/turn-to-your-orbituary/
+mixcloud: turn-to-your-orbituary
 enclosure:
   - |
     http://www.radioslipstream.com/radio/slipstream-138.mp3
@@ -17,26 +17,12 @@ categories:
 ---
 Episode 138. [mp3](/radio/slipstream-138.mp3). Released October 22, 2013.
 
-
-
-<div style="clear: both; height: 3px; width: 652px;">
-</div>
-
-<p style="display: block; font-size: 11px; font-family: 'Open Sans', Helvetica, Arial, sans-serif; margin: 0px; padding: 3px 4px; color: rgb(153, 153, 153); width: 652px;">
-  <a href="http://www.mixcloud.com/radioslipstream/turn-to-your-orbituary/?utm_source=widget&amp;utm_medium=web&amp;utm_campaign=base_links&amp;utm_term=resource_link" target="_blank" style="color:#808080; font-weight:bold;">Turn to your Orbituary</a><span> by </span><a href="http://www.mixcloud.com/radioslipstream/?utm_source=widget&amp;utm_medium=web&amp;utm_campaign=base_links&amp;utm_term=profile_link" target="_blank" style="color:#808080; font-weight:bold;">Radio Slipstream</a><span> on </span><a href="http://www.mixcloud.com/?utm_source=widget&utm_medium=web&utm_campaign=base_links&utm_term=homepage_link" target="_blank" style="color:#808080; font-weight:bold;"> Mixcloud</a>
-</p>
-
-<div style="clear: both; height: 3px; width: 652px;">
-</div>
-
-_  
 Picks up just where we left off. We’re not there yet.  
-Sultry –> quirky –> unnerving –> intense –> that other word that describes the last 4 tracks.</p> 
+Sultry –> quirky –> unnerving –> intense –> that other word that describes the last 4 tracks.
 
 Genres: protonica, dense music, neo body, part fop, techyes
 
 Keywords: circling, floating, falling  
-</em>
 
   * Movement / Us / Us (2013)
   * Darkside / Paper Trails / Psychic (2013)

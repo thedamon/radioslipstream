@@ -5,7 +5,7 @@ date: 2012-10-29T00:02:11-05:00
 author: damon
 layout: post
 guid: http://www.radioslipstream.com/?p=316
-permalink: /playlists/2012/10/the-hot-butter/
+mixcloud: the-hot-butter
 enclosure:
   - |
     http://www.radioslipstream.com/radio/slipstream-132.mp3
@@ -16,28 +16,13 @@ categories:
   - PLAYLISTS
 ---
 Episode 132. [mp3](/radio/slipstream-132.mp3). Released October 29, 2012.
-
-
-
-<div style="clear: both; height: 3px; width: auto;">
-</div>
-
-<p style="display: block; font-size: 11px; font-family: 'Open Sans', Helvetica, Arial, sans-serif; margin: 0px; padding: 3px 4px; color: rgb(153, 153, 153); width: auto;">
-  <a href="http://www.mixcloud.com/radioslipstream/the-hot-butter/?utm_source=widget&amp;utm_medium=web&amp;utm_campaign=base_links&amp;utm_term=resource_link" target="_blank" style="color:#808080; font-weight:bold;">The Hot Butter</a><span> by </span><a href="http://www.mixcloud.com/radioslipstream/?utm_source=widget&amp;utm_medium=web&amp;utm_campaign=base_links&amp;utm_term=profile_link" target="_blank" style="color:#808080; font-weight:bold;">Radio Slipstream</a><span> on </span><a href="http://www.mixcloud.com/?utm_source=widget&utm_medium=web&utm_campaign=base_links&utm_term=homepage_link" target="_blank" style="color:#808080; font-weight:bold;"> Mixcloud</a>
-</p>
-
-<div style="clear: both; height: 3px; width: auto;">
-</div>
-
-_  
-Hip to the hop to the women spitting fire, to the grimy indie NY, hi concept trippin’, waxing political over smooth soulful grooves, harsh or melodic, driving hard and fast, drug dealing and inhaling, jailing, banging bangers and introspective next level mind bending horny bullishittt. Sexy, dangerous and sometimes weird. </p> 
+Hip to the hop to the women spitting fire, to the grimy indie NY, hi concept trippin’, waxing political over smooth soulful grooves, harsh or melodic, driving hard and fast, drug dealing and inhaling, jailing, banging bangers and introspective next level mind bending horny bullishittt. Sexy, dangerous and sometimes weird.
 
 And you don’t stop.
 
 And some idiot said that hip hop is dead. And some fools think all hip hop sounds the same. For your listening pleasure: 28 examples of why this game is just starting.
 
 Err. NSFW.  
-</em>
 
   * Mr OIZO / TOODOO (feat. Carmen Castro) / STADE 3 (2012)
   * Azealia Banks / 212 (feat. Lazy Jay) (2012)
@@ -54,7 +39,7 @@ Err. NSFW.
   * Macklemore & Ryan Lewis / Thrift Shop (feat. Wanz) / The Heist (2012)
   * Clipse / Young Boy / Lord Willin’ (2002)
   * Jay Electronica / Exhibit A (Transformations) / Best Of So Far (2010)
-  * Raekwon / Penitentiary (feat. Ghostface Killah) / Only Built 4 Cuban Linx&#8230; Pt. II (2009)
+  * Raekwon / Penitentiary (feat. Ghostface Killah) / Only Built 4 Cuban Linx… Pt. II (2009)
   * Le1f / Wut (5kinAndBone5) / Dark York (2012)
   * Blu / Doin’ Nothin’ (Feat. U-God) / N O Y O R K . (2011)
   * Cadence Weapon / 88 / (2012)

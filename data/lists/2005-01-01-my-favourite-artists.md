@@ -9,7 +9,7 @@ permalink: /features/lists/2005/01/my-favourite-artists/
 categories:
   - lists and countdowns
 ---
-This is a list of my favourite artists and DJs and what have you. It’s not &#8216;the best’ just my personal favourites. I update it periodically, so it’s usually fairly accurate, though it’s obviously hard to be totally accurate about a list like this. It also tries to be temporally all-encompassing ; that is, not my favourite bands &#8216;of the moment’ but overall. Despite all the thought that did go into it, there’s a lot of thought that it could have used, so it’s by no means a be-all and end-all
+This is a list of my favourite artists and DJs and what have you. It’s not ‘the best’ just my personal favourites. I update it periodically, so it’s usually fairly accurate, though it’s obviously hard to be totally accurate about a list like this. It also tries to be temporally all-encompassing ; that is, not my favourite bands ‘of the moment’ but overall. Despite all the thought that did go into it, there’s a lot of thought that it could have used, so it’s by no means a be-all and end-all
 
 (Last updated December 05)
 

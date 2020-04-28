@@ -17,7 +17,7 @@ categories:
 ---
 Episode 101. [mp3](/radio/slipstream-101.mp3). [cue](/radio/slipstream-101.cue). Released May 19, 2008
 
-_What better way to spend my birthday than slaving away in the basement on my podcast, with an ear infection? That was a rhetorical question! But it’s sweet. y’all&#8230; some melty, spacey, stuff after the git go, then it all goes south. What does that mean? Just listen, aight._
+_What better way to spend my birthday than slaving away in the basement on my podcast, with an ear infection? That was a rhetorical question! But it’s sweet. y’all… some melty, spacey, stuff after the git go, then it all goes south. What does that mean? Just listen, aight._
 
 Hans-Joachim Roedelius & Tim Story / Houses Of Glances / Inlandish (2008)  
 Ulrich Schnauss / Blumenthal / A Strangely Isolated Place (2003)  

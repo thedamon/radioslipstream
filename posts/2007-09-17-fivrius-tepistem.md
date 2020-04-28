@@ -26,12 +26,12 @@ London Philharmonic Orchestra, Zubin Metha, Luciano Pavarotti / Nessun dorma! / 
 
 M83 / The Highest Journey / Digital Shades Vol. 1 (2007)  
 A Reminiscent Drive / Two Sides To Every Story / Mercy Street (1997)  
-Odawas / Love Is&#8230; (The Only Weapon With Which I Got To Fight) / Raven And The White Night (2007)  
+Odawas / Love Is… (The Only Weapon With Which I Got To Fight) / Raven And The White Night (2007)  
 The KLF / Last train to Trancentral / The White Room (1991)
 
 Dan Deacon / Intro, Okie Dokie / Live at The Waiting Room in Omaha, 06/30/2007, Spiderman of the Rings (2007)  
 The Fiery Furnaces / Ex-Guru / Widow City (2007)  
-Pop Will Eat Itself / Not Now James, We’re Busy&#8230; / This Is the Day&#8230; This Is the Hour&#8230; This Is This! (1989)
+Pop Will Eat Itself / Not Now James, We’re Busy… / This Is the Day… This Is the Hour… This Is This! (1989)
 
 The Afghan Whigs / Debonair / Gentlemen (1993)  
 David Vandervelde / Nothin’ No / The Moonstation House Band (2007)  
