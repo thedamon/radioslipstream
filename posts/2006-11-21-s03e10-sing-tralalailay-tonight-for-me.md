@@ -1,23 +1,22 @@
 ---
 id: 56
-title: 's03e10: sing tralalailay tonight for me'
+title: "s03e10: sing tralalailay tonight for me"
 date: 2006-11-21T00:05:05-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=56
+guid: /wp/?p=56
 permalink: /playlists/2006/11/s03e10-sing-tralalailay-tonight-for-me/
-enclosure:
-  - |
-    http://radioslipstream.com/radio/slipstream-s3e10.mp3
-    29681664
-    audio/mpeg
+filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-s3e10.mp3
+grbg: 29681664
+  audio/mpeg
 categories:
   - faves
   - PLAYLISTS
 ---
+
 originally aired during the long night of November 20th, 2006 on [CFMU](http://cfmu.mcmaster.ca)
 
-(It’s a .aiff! No.. It’s a .ra! No.. it’s… it’s… it’s.. [thing](http://radioslipstream.com/radio/slipstream-s3e10.mp3))
+(It’s a .aiff! No.. It’s a .ra! No.. it’s… it’s… it’s.. [thing](https://storage.cloud.google.com/radioslipstream/radio/slipstream-s3e10.mp3))
 
 -midnight-  
 Bent / Exercise 1 / Programmed To Love (2001)  

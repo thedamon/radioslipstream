@@ -4,14 +4,14 @@ title: '032706: mercy played bitter seconds'
 date: 2006-03-28T04:01:00-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=78
+guid: /wp/?p=78
 permalink: /playlists/2006/03/032706-mercy-played-bitter-seconds/
 categories:
   - PLAYLISTS
 ---
 originally aired 2-4am March 28, 2006 on CFMU
 
-[(mp3)](/radio/slipstream032706.mp3)
+[(mp3)](https://storage.cloud.google.com/radioslipstream/radio/slipstream032706.mp3)
 
 **2 am**  
 Primal Scream / Kowalski / Vanishing point (1997)  

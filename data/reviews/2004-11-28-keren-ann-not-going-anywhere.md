@@ -4,7 +4,7 @@ title: 'Keren Ann – Not Going Anywhere'
 date: 2004-11-28T22:35:56-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=11
+guid: /wp/?p=11
 permalink: /features/album-reviews/2004/11/keren-ann-not-going-anywhere/
 categories:
   - album reviews

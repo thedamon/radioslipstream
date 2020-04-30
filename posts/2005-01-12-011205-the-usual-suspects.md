@@ -5,14 +5,14 @@ date: 2005-01-12T15:05:03-05:00
 author: damon
 excerpt: The first ever Slipstream Radio Three-hour
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=111
+guid: /wp/?p=111
 permalink: /playlists/2005/01/011205-the-usual-suspects/
 categories:
   - PLAYLISTS
 ---
 The first ever Slipstream Radio Three-hour
 
-([MP3](/radio/slipstream011205.mp3))
+([MP3](https://storage.cloud.google.com/radioslipstream/radio/slipstream011205.mp3))
 
 <strong>6 am</strong>
 

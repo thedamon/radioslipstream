@@ -1,21 +1,20 @@
 ---
 id: 138
-title: 's03e27: niddlemaus et me razburies en got jolly wiv me bloke'
+title: "s03e27: niddlemaus et me razburies en got jolly wiv me bloke"
 date: 2007-04-23T16:40:40-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=138
+guid: /wp/?p=138
 permalink: /playlists/2007/04/s03e27-niddlemaus-et-me-razburies-en-got-jolly-wiv-me-bloke/
-enclosure:
-  - |
-    http://www.radioslipstream.com/radio/slipstream-s3e27.mp3
-    30011392
-    audio/mpeg
-    a:2:{s:8:"duration";s:7:"2:01:13";s:5:"image";s:89:"http://www.radioslipstream.com/wp/wp-content/plugins/podpress//images/vpreview_center.png";}
+filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-s3e27.mp3
+grbg: 30011392
+  audio/mpeg
+  a:2:{s:8:"duration";s:7:"2:01:13";s:5:"image";s:89:"/images/vpreview_center.png";}
 categories:
   - faves
   - PLAYLISTS
 ---
+
 <p class="note_content clearfix">
   Being the final episode of the 3rd season of the slipstream radio program. Originally aired from monday april 23 at midnight to 2am on tuesday on <a href="http://cfmu.mcmaster.ca" target="_blank" title="http://cfmu.mcmaster.ca">93.3 CFMU</a>.
 </p>

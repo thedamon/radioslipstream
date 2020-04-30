@@ -4,23 +4,22 @@ title: NEBULANEMONE.
 date: 2007-12-22T11:04:46-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/playlists/2007/12/nebulanemone/
+guid: /playlists/2007/12/nebulanemone/
 permalink: /playlists/2007/12/nebulanemone/
-enclosure:
-  - |
-    http://www.radioslipstream.com/radio/slipstream-94.mp3
-    1
-    audio/mpeg
-    a:2:{s:8:"duration";s:7:"2:00:00";s:5:"image";s:89:"http://www.radioslipstream.com/wp/wp-content/plugins/podpress//images/vpreview_center.png";}
+filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-94.mp3
+grbg: 1
+  audio/mpeg
+  a:2:{s:8:"duration";s:7:"2:00:00";s:5:"image";s:89:"/images/vpreview_center.png";}
 categories:
   - faves
   - PLAYLISTS
 ---
-[Episode 94](/radio/slipstream-94.mp3). Released December 22, 2007
+
+[Episode 94](https://storage.cloud.google.com/radioslipstream/radio/slipstream-94.mp3). Released December 22, 2007
 
 [NOTE: As of Jan 3, 2008, the mp3 has been fixed so it is no longer full of blips and artifacts]
 
-_This one’s got a flow, yo! Bit of a counterpoint to the pop and rocking of the last episode… Starting electronic with some ambient and spacey stuff, then into some more thomping dancey tunes, easing back a bit and moving into some odd mellow/raw hip hop, and then into some more polished, poppy melodic hip hop, and why not cap it off with an absolute banger.</p> 
+\_This one’s got a flow, yo! Bit of a counterpoint to the pop and rocking of the last episode… Starting electronic with some ambient and spacey stuff, then into some more thomping dancey tunes, easing back a bit and moving into some odd mellow/raw hip hop, and then into some more polished, poppy melodic hip hop, and why not cap it off with an absolute banger.</p>
 
 Happy Everything.</em>
 

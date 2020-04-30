@@ -4,7 +4,7 @@ title: 'Clann Zu – Black Coats and Bandages'
 date: 2004-10-25T22:34:39-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=14
+guid: /wp/?p=14
 permalink: /features/album-reviews/2004/10/clann-zu-black-coats-and-bandages/
 categories:
   - album reviews

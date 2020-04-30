@@ -4,12 +4,12 @@ title: '041305 – Sunstroke Academy Presents the Tricentannual Moonscreen Rub-o
 date: 2005-04-13T14:36:47-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=99
+guid: /wp/?p=99
 permalink: /playlists/2005/04/041305-sunstroke-academy-presents-the-tricentannual-moonscreen-rub-off-sunrisingfire/
 categories:
   - PLAYLISTS
 ---
-([terrible quality MP3](/radio/slipstream041305.mp3))
+([terrible quality MP3](https://storage.cloud.google.com/radioslipstream/radio/slipstream041305.mp3))
 
 **6 am – In honour of the rising sun** 
 

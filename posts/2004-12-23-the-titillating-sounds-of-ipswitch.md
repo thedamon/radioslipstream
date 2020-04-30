@@ -5,17 +5,16 @@ date: 2004-12-23T22:07:18-05:00
 author: damon
 excerpt: Tending towards a bit more of an eclectic angle than some of my efforts.
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=42
+guid: /wp/?p=42
 permalink: /mixes/2004/12/the-titillating-sounds-of-ipswitch/
-enclosure:
-  - |
-    http://www.radioslipstream.com/radio/mixes/titillating_tones_of_ipswitch.mp3
-    88840347
-    audio/mpeg
-    a:2:{s:8:"duration";s:7:"1:17:49";s:5:"image";s:89:"http://www.radioslipstream.com/wp/wp-content/plugins/podpress//images/vpreview_center.png";}
+filename: https://storage.cloud.google.com/radioslipstream/radio/mixes/titillating_tones_of_ipswitch.mp3
+grbg: 88840347
+  audio/mpeg
+  a:2:{s:8:"duration";s:7:"1:17:49";s:5:"image";s:89:"/images/vpreview_center.png";}
 categories:
   - MIXES
 ---
+
 Tending towards a bit more of an eclectic angle than some of my efforts.
 
 01 Ted Leo/Pharmacists – Me and Mia  

@@ -1,23 +1,22 @@
 ---
 id: 51
-title: 's03e15: envelope say last one more fearsome'
+title: "s03e15: envelope say last one more fearsome"
 date: 2007-01-15T23:39:08-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=51
+guid: /wp/?p=51
 permalink: /playlists/2007/01/s03e15-envelope-say-last-one-more-fearsome/
-enclosure:
-  - |
-    http://radioslipstream.com/radio/slipstream-s3e15.mp3
-    30076928
-    audio/mpeg
+filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-s3e15.mp3
+grbg: 30076928
+  audio/mpeg
 categories:
   - faves
   - PLAYLISTS
 ---
+
 originally aired from Monday January 15 at midnight for 2 hours until 2am on Tuesday.
 
-here for you for first time for only time… [mp3](http://radioslipstream.com/radio/slipstream-s3e15.mp3) of show for you for listening
+here for you for first time for only time… [mp3](https://storage.cloud.google.com/radioslipstream/radio/slipstream-s3e15.mp3) of show for you for listening
 
 -midnight:05-  
 Tim Hecker / Chimeras / Harmony In Ultraviolet (2006)  

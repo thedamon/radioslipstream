@@ -5,18 +5,17 @@ date: 2007-07-30T14:05:54-05:00
 author: damon
 excerpt: "Every song on this episode is simply named after a girl or woman. That's it. No last names, no other words.  It would be considerably more challenging to do this with male names."
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=125
+guid: /wp/?p=125
 permalink: /playlists/2007/07/cry-her-name-into-the-rosy-dawn/
-enclosure:
-  - |
-    http://www.radioslipstream.com/radio/slipstream-s4e11.mp3
-    127059968
-    audio/mpeg
-    a:2:{s:8:"duration";s:7:"2:04:16";s:5:"image";s:89:"http://www.radioslipstream.com/wp/wp-content/plugins/podpress//images/vpreview_center.png";}
+filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-s4e11.mp3
+grbg: 127059968
+  audio/mpeg
+  a:2:{s:8:"duration";s:7:"2:04:16";s:5:"image";s:89:"/images/vpreview_center.png";}
 categories:
   - PLAYLISTS
   - themes and specials
 ---
+
 **originally aired July 30, 2007**
 
 PJ Harvey / Catherine / Is This Desire? (1998)  

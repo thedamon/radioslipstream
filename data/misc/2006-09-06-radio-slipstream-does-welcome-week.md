@@ -5,23 +5,22 @@ date: 2006-09-06T12:35:00-05:00
 author: damon
 excerpt: By special request (well, that’s what I’m calling it) I was invited to fill the prestigious 6-9 am slot on CFMU this wednesday morning live in the student centre with all manner of life swarming around me. It features a selection of my favourite sections from the summer shows I did, with special emphasis on the last one, since it was only aired at a really odd time and is one of my personal favourite playlists.
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=68
+guid: /wp/?p=68
 permalink: /playlists/2006/09/radio-slipstream-does-welcome-week/
-enclosure:
-  - |
-    http://www.radioslipstream.com/radio/slipstream-sept%206,%202006.mp3
-    1
-    audio/mpeg
-    a:1:{s:5:"image";s:89:"http://www.radioslipstream.com/wp/wp-content/plugins/podpress//images/vpreview_center.png";}
+filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-sept%206,%202006.mp3
+grbg: 1
+  audio/mpeg
+  a:1:{s:5:"image";s:89:"/images/vpreview_center.png";}
 categories:
   - PLAYLISTS
   - themes and specials
 ---
+
 _originally aired Wednesday 6-9am on CFMU_
 
 _By special request (well, that’s what I’m calling it) I was invited to fill the prestigious 6-9 am slot on CFMU this wednesday morning. And this is no ordinary gig. This was live in the student centre with all manner of life swarming around me, and visions also. This was a bit last minute (when factored in the whole moving thing) so I just went with a selection of my favourite sections from the summer shows I did, with special emphasis on the last one, since it was only aired at a really odd time and is one of my personal favourite playlists._
 
-_The mp3 of the show that I know I had at some point seems to have disappeared from the face of all of my harddrives.._ 
+_The mp3 of the show that I know I had at some point seems to have disappeared from the face of all of my harddrives.._
 
 **6 am**  
 Alex Smoke / 6am / Incommunicado (2005)  

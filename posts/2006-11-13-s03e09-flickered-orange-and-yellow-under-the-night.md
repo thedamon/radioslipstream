@@ -1,23 +1,22 @@
 ---
 id: 57
-title: 's03e09: flickered orange and yellow under the night'
+title: "s03e09: flickered orange and yellow under the night"
 date: 2006-11-13T23:58:21-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=57
+guid: /wp/?p=57
 permalink: /playlists/2006/11/s03e09-flickered-orange-and-yellow-under-the-night/
-enclosure:
-  - |
-    http://radioslipstream.com/radio/slipstream-s3e09.mp3
-    30418944
-    audio/mpeg
-    
+filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-s3e09.mp3
+grbg: 30418944
+  audio/mpeg
+
 categories:
   - PLAYLISTS
 ---
+
 originally aired November 13th, 2006 on CFMU
 
-(Mysterious [hyperlink](http://radioslipstream.com/radio/slipstream-s3e09.mp3) leads to recording of community radio show, local DJ says)
+(Mysterious [hyperlink](https://storage.cloud.google.com/radioslipstream/radio/slipstream-s3e09.mp3) leads to recording of community radio show, local DJ says)
 
 -midnightish-  
 Kammerflimmer Kollektief / Mantra / Cicadidae (2003)  

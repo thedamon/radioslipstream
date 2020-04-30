@@ -4,7 +4,7 @@ title: the Sadies live pics
 date: 2004-09-24T14:53:49-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=27
+guid: /wp/?p=27
 permalink: /features/live-reviews/2004/09/the-sadies-live-pics/
 categories:
   - concerts

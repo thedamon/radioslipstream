@@ -1,23 +1,22 @@
 ---
 id: 55
-title: 's03e11: chimney stained toast for tea'
+title: "s03e11: chimney stained toast for tea"
 date: 2006-11-28T00:01:27-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=55
+guid: /wp/?p=55
 permalink: /playlists/2006/11/s03e11-chimney-stained-toast-for-tea/
-enclosure:
-  - |
-    http://radioslipstream.com/radio/slipstream-s3e11.mp3
-    30244864
-    audio/mpeg
-    
+filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-s3e11.mp3
+grbg: 30244864
+  audio/mpeg
+
 categories:
   - PLAYLISTS
 ---
+
 originally aired midnight nov 27 to 2am nov 28. (on [cfmu](http://cfmu.mcmaster.ca) of course!)
 
-(If you look, you might not see. If you fill two, you’ll [mp3](http://radioslipstream.com/radio/slipstream-s3e11.mp3). I’m obtuse.)
+(If you look, you might not see. If you fill two, you’ll [mp3](https://storage.cloud.google.com/radioslipstream/radio/slipstream-s3e11.mp3). I’m obtuse.)
 
 -midnight-  
 Murcof / Recuerdos / Remembranza (2005)  

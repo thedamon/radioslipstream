@@ -4,7 +4,7 @@ title: upcoming shows
 date: 2005-09-10T12:23:37-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=4
+guid: /wp/?p=4
 permalink: /features/lists/2005/09/upcoming-shows/
 categories:
   - lists and countdowns

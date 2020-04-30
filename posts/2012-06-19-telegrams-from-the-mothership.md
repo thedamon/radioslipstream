@@ -4,41 +4,39 @@ title: TELEGRAMS FROM THE MOTHERSHIP
 date: 2012-06-19T23:07:17-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/?p=278
+guid: 278
 mixcloud: telegrams-from-the-mothership
-enclosure:
-  - |
-    http://www.radioslipstream.com/radio/slipstream-126.mp3
-    115024369
-    audio/mpeg
-    a:2:{s:8:"duration";s:7:"1:19:53";s:5:"image";s:88:"http://www.radioslipstream.com/wp/wp-content/plugins/podpress/images/vpreview_center.png";}
+filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-126.mp3
+grbg: 115024369
+  audio/mpeg
+  a:2:{s:8:"duration";s:7:"1:19:53";s:5:"image";s:88:"images/vpreview_center.png";}
 categories:
   - PLAYLISTS
 ---
-Episode 126. [mp3](/radio/slipstream-126.mp3). Released June 19, 2012.
 
-Dreamy space women, then some tender dubstep and some classic post-punk. Then a couple more dreamy space women.  
+Episode 126. [mp3](https://storage.cloud.google.com/radioslipstream/radio/slipstream-126.mp3). Released June 19, 2012.
 
-  * Julia Holter / Our Sorrows / Ekstasis (2012)
-  * Iamamiwhoami / Sever / Kin (2012)
-  * Fiona Apple / Every Single Night / The Idler Wheel Is Wiser Than the Driver of the Screw and Whipping Cords Will Serve You More Than Ropes Will Ever Do (2012)
-  * St. Vincent / Year Of The Tiger / Strange Mercy (2011)
-  * Beach House / Wishes / Bloom (2012)
-  * Bear in Heaven / You Do You / Beast Rest Forth Mouth (2009)
-  * Peaking Lights / All The Sun That Shines / 936 (2011)
-  * Floating Points / Myrtle Avenue / Shadows (2011)
-  * Kevin McPhee / I Will / Blue Organ EP (2011)
-  * Mim Suleiman / Flava / Tungi (2009)
-  * Glasser / Home / Ring (2010)
-  * Аукцыон / Огонь / Юла (2011)
-  * Colin Stetson / Judges / New History Warfare Vol.2: Judges (2011)
-  * Cranes / Everywhere / Forever (1993)
-  * Wipers / When It’s Over / Youth of America (1981)
-  * Magazine / Shot By Both Sides / Real Life (1978)
-  * The XX / Crystalised / XX (2009)
-  * Julee Cruise / Into The Night / Floating Into The Night (1989)
-  * Ann Peebles / I Can’t Stand the Rain / I Can’t Stand the Rain (1974)
+Dreamy space women, then some tender dubstep and some classic post-punk. Then a couple more dreamy space women.
 
+- Julia Holter / Our Sorrows / Ekstasis (2012)
+- Iamamiwhoami / Sever / Kin (2012)
+- Fiona Apple / Every Single Night / The Idler Wheel Is Wiser Than the Driver of the Screw and Whipping Cords Will Serve You More Than Ropes Will Ever Do (2012)
+- St. Vincent / Year Of The Tiger / Strange Mercy (2011)
+- Beach House / Wishes / Bloom (2012)
+- Bear in Heaven / You Do You / Beast Rest Forth Mouth (2009)
+- Peaking Lights / All The Sun That Shines / 936 (2011)
+- Floating Points / Myrtle Avenue / Shadows (2011)
+- Kevin McPhee / I Will / Blue Organ EP (2011)
+- Mim Suleiman / Flava / Tungi (2009)
+- Glasser / Home / Ring (2010)
+- Аукцыон / Огонь / Юла (2011)
+- Colin Stetson / Judges / New History Warfare Vol.2: Judges (2011)
+- Cranes / Everywhere / Forever (1993)
+- Wipers / When It’s Over / Youth of America (1981)
+- Magazine / Shot By Both Sides / Real Life (1978)
+- The XX / Crystalised / XX (2009)
+- Julee Cruise / Into The Night / Floating Into The Night (1989)
+- Ann Peebles / I Can’t Stand the Rain / I Can’t Stand the Rain (1974)
 
 Things to consider:
 
@@ -62,4 +60,4 @@ Before there was Missy Elliot, there was MFing Ann Peebles to not stand the rain
 
 I dunno if it’s weird that I kinda have to focus to get a 2:1+ female:male vocal ratio like this. I hope you appreciate it.
 
-Chances of me getting the mic and taking the time to record audio commentary ever again? Dwindly. Though I do miss being a smartass about music.  
+Chances of me getting the mic and taking the time to record audio commentary ever again? Dwindly. Though I do miss being a smartass about music.

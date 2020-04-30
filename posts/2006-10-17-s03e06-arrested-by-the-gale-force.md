@@ -1,23 +1,22 @@
 ---
 id: 61
-title: 's03e06: arrested by the gale force'
+title: "s03e06: arrested by the gale force"
 date: 2006-10-17T00:37:48-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=61
+guid: /wp/?p=61
 permalink: /playlists/2006/10/s03e06-arrested-by-the-gale-force/
-enclosure:
-  - |
-    http://radioslipstream.com/radio/slipstream-s3e06.mp3
-    29736960
-    audio/mpeg
-    
+filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-s3e06.mp3
+grbg: 29736960
+  audio/mpeg
+
 categories:
   - PLAYLISTS
 ---
+
 _originally aired October 16th, 2006 on [CFMU](http://cfmu.mcmaster.ca)_
 
-([Receive](http://radioslipstream.com/radio/slipstream-s3e06.mp3) digitally encoded sound vibrations roughly in accordance with live broadcast experience)
+([Receive](https://storage.cloud.google.com/radioslipstream/radio/slipstream-s3e06.mp3) digitally encoded sound vibrations roughly in accordance with live broadcast experience)
 
 -midnight-  
 Twine / Plectrum / Twine (2003)  

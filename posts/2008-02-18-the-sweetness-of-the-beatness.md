@@ -5,21 +5,20 @@ date: 2008-02-18T04:32:14-05:00
 author: damon
 excerpt: a fairly spectacular nonstop groove-a-thon with some sultry, slamming and serious synthbeats from the greatest in house, techno, breaks, and more.
 layout: post
-guid: http://www.radioslipstream.com/playlists/2008/02/the-sweetness-of-the-beatness/
+guid: /playlists/2008/02/the-sweetness-of-the-beatness/
 permalink: /playlists/2008/02/the-sweetness-of-the-beatness/
-enclosure:
-  - |
-    http://www.radioslipstream.com/radio/slipstream-97.mp3
-    1
-    audio/mpeg
-    a:2:{s:8:"duration";s:7:"2:00:00";s:5:"image";s:89:"http://www.radioslipstream.com/wp/wp-content/plugins/podpress//images/vpreview_center.png";}
+filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-97.mp3
+grbg: 1
+  audio/mpeg
+  a:2:{s:8:"duration";s:7:"2:00:00";s:5:"image";s:89:"/images/vpreview_center.png";}
 categories:
   - PLAYLISTS
   - themes and specials
 ---
-[Episode 97](/radio/slipstream-97.mp3). Released February 18, 2008
 
-_This one: much less with the jibber jabber as it’s a 2 hour nonstop electronic dancing music experience! House, techno, breaks, some hip hop and pop, and a whole lot of goodness. Watch in astonishment as the songs flow together like orange juice and grape juice swirling in a river of fruity bliss!! Marvel at the sweetness of the beatness!!! OH! DEAR! GOD! YES! </p> 
+[Episode 97](https://storage.cloud.google.com/radioslipstream/radio/slipstream-97.mp3). Released February 18, 2008
+
+\_This one: much less with the jibber jabber as it’s a 2 hour nonstop electronic dancing music experience! House, techno, breaks, some hip hop and pop, and a whole lot of goodness. Watch in astonishment as the songs flow together like orange juice and grape juice swirling in a river of fruity bliss!! Marvel at the sweetness of the beatness!!! OH! DEAR! GOD! YES! </p>
 
 That said, if you’re one of those people who can’t stand ‘electronic’ music, you might want to wait a couple weeks.
 
@@ -51,4 +50,4 @@ Ricardo Villalobos / Enfants (Chants) (2008)
 Mr. Raoul K / Le Cercle Peul (Original Mix) (2008)  
 Kenge Kenge / Kenge Kenge / Introducing Kenge Kenge (2007)
 
-[.cue](/radio/slipstream-97.cue)
+[.cue](https://storage.cloud.google.com/radioslipstream/radio/slipstream-97.cue)

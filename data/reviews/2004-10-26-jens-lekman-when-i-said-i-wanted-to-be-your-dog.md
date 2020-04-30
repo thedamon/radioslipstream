@@ -4,7 +4,7 @@ title: 'Jens Lekman: WHEN I SAID I WANTED TO BE YOUR DOG'
 date: 2004-10-26T22:26:47-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=13
+guid: /wp/?p=13
 permalink: /features/album-reviews/2004/10/jens-lekman-when-i-said-i-wanted-to-be-your-dog/
 categories:
   - album reviews

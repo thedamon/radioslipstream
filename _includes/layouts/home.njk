@@ -1,5 +1,9 @@
 ---
 layout: layouts/base.njk
 templateClass: tmpl-home
+pagination:
+  data: collections.post
+  size: 10
+  alias: posts
 ---
 {{ content | safe }}

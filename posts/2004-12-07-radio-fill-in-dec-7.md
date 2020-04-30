@@ -4,7 +4,7 @@ title: 'Radio Fill-in – dec 7'
 date: 2004-12-07T15:02:08-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=113
+guid: /wp/?p=113
 permalink: /playlists/2004/12/radio-fill-in-dec-7/
 categories:
   - PLAYLISTS

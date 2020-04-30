@@ -1,26 +1,25 @@
 ---
 id: 83
-title: '021306: toward and down the uparounds (b-sides)'
+title: "021306: toward and down the uparounds (b-sides)"
 date: 2006-02-14T03:56:37-05:00
 author: damon
 excerpt: "The hidden classics, the forgotten gems. My favourite tracks that never ended up on any regular studio album.. that's right.. the B-SIDES.. BOM BOM BOMM"
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=83
+guid: /wp/?p=83
 permalink: /playlists/2006/02/021306-toward-and-down-the-uparounds-b-sides/
-enclosure:
-  - |
-    http://www.radioslipstream.com/radio/slipstream021306.mp3
-    1
-    audio/mpeg
-    a:2:{s:8:"duration";s:7:"2:05:20";s:5:"image";s:89:"http://www.radioslipstream.com/wp/wp-content/plugins/podpress//images/vpreview_center.png";}
+filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream021306.mp3
+grbg: 1
+  audio/mpeg
+  a:2:{s:8:"duration";s:7:"2:05:20";s:5:"image";s:89:"/images/vpreview_center.png";}
 categories:
   - faves
   - PLAYLISTS
   - themes and specials
 ---
+
 originally aired 2-4am February 14, 2006 on CFMU
 
-[(mp3)](/radio/slipstream021306.mp3)
+[(mp3)](https://storage.cloud.google.com/radioslipstream/radio/slipstream021306.mp3)
 
 **2 am**  
 Elbow / Strangeways To Holcombe Hill In 4.20 / Forget Myself (2005)  

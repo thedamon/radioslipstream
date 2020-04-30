@@ -1,24 +1,23 @@
 ---
 id: 75
-title: '050806: wake. wash. dress. eat. listen. hum. drum. dream.'
+title: "050806: wake. wash. dress. eat. listen. hum. drum. dream."
 date: 2006-05-08T20:51:53-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=75
+guid: /wp/?p=75
 permalink: /playlists/2006/05/050806-wake-wash-dress-eat-listen-hum-drum-dream/
-enclosure:
-  - |
-    http://www.radioslipstream.com/radio/slipstream-2006-05-08.mp3
-    173303808
-    audio/mpeg
-    a:2:{s:8:"duration";s:7:"2:02:46";s:5:"image";s:89:"http://www.radioslipstream.com/wp/wp-content/plugins/podpress//images/vpreview_center.png";}
+filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-2006-05-08.mp3
+grbg: 173303808
+  audio/mpeg
+  a:2:{s:8:"duration";s:7:"2:02:46";s:5:"image";s:89:"/images/vpreview_center.png";}
 categories:
   - faves
   - PLAYLISTS
 ---
+
 originally aired 2-4am May 16, 2006 on 93.3 CFMU; but this its debut, i guess.
 
-[(mp3)](/radio/slipstream-2006-05-08.mp3)
+[(mp3)](https://storage.cloud.google.com/radioslipstream/radio/slipstream-2006-05-08.mp3)
 
 **2 am**  
 Alex Smoke / Intro, 6am / Incommunicado (2005)  
@@ -54,10 +53,11 @@ So much for summer reruns. Or more accurately, summer silence. I’m working my 
 I’m going to be leaving the high quality mp3s I upload for the station up until the next showis ready, which will be less than a week after this page goes up (probably 2-3 days), so if you want it, get it fast. Someone wants these… I’ve somehow been getting hundreds and hundreds of downloads (confused! but happy!) After that I’ll put up lower quality versions (though I haven’t decided how low.. i _might_ let YOU decide).
 
 As noted in the show, The Slipstream has changed it’s rules somewhat, as summarized below  
-I, Damon Muma, host of said radioprogram do glibly swear:  
-1. only play gobsmackingly awesome songs that I heartily endorse the checking out of – UNCHANGED  
-2. make all the songs flow into each other with ease and beauty – UNCHANGED  
-3. never repeat an artist in a show unless there is compelling and noted reason – UNCHANGED  
+I, Damon Muma, host of said radioprogram do glibly swear:
+
+1. only play gobsmackingly awesome songs that I heartily endorse the checking out of – UNCHANGED
+2. make all the songs flow into each other with ease and beauty – UNCHANGED
+3. never repeat an artist in a show unless there is compelling and noted reason – UNCHANGED
 4. never play any song that has been played on the show before, ever, unless it is for a ‘theme’ show, and even then proceed with caution (i broke this once or twice by accident) – NOW: never play any song that has been played on the show within the last year.
 
 I want to do some research and find out if my 20-24 new songs a week gives my show’s 2 hours a week more total songs in rotation than your typicalcrapcommercialradio station’s 168 hours a week. I wouldn’t be surprised.

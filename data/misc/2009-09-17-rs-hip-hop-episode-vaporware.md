@@ -4,7 +4,7 @@ title: RS Hip Hop Episode = Vaporware?
 date: 2009-09-17T12:56:54-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/playlists/2009/09/rs-hip-hop-episode-vaporware/
+guid: /playlists/2009/09/rs-hip-hop-episode-vaporware/
 permalink: /notes/2009/09/rs-hip-hop-episode-vaporware/
 categories:
   - NOTES

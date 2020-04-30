@@ -4,18 +4,17 @@ title: JACKED UP HOBOS ON THE 10:15.
 date: 2007-12-08T11:05:53-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/playlists/2007/12/jacked-up-hobos-on-the-1015/
+guid: /playlists/2007/12/jacked-up-hobos-on-the-1015/
 permalink: /playlists/2007/12/jacked-up-hobos-on-the-1015/
-enclosure:
-  - |
-    http://www.radioslipstream.com/radio/slipstream-93.mp3
-    136736733
-    audio/mpeg
-    a:2:{s:8:"duration";s:7:"2:00:00";s:5:"image";s:89:"http://www.radioslipstream.com/wp/wp-content/plugins/podpress//images/vpreview_center.png";}
+filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-93.mp3
+grbg: 136736733
+  audio/mpeg
+  a:2:{s:8:"duration";s:7:"2:00:00";s:5:"image";s:89:"/images/vpreview_center.png";}
 categories:
   - PLAYLISTS
 ---
-[Episode 93](/radio/slipstream-93.mp3). Released December 8, 2007
+
+[Episode 93](https://storage.cloud.google.com/radioslipstream/radio/slipstream-93.mp3). Released December 8, 2007
 
 _Here we go.. a new episode to go with the new site! This is a pretty awesome collection of songs moving from weird spacey rock into hard, crazy, boppin rock and dance rock, then going all indie-pop (in a good way) on yo ass. Enjoy!_
 

@@ -1,17 +1,18 @@
 ---
 id: 108
-title: '020205 – Free Headspin at Epcot (+robots)'
+title: "020205 – Free Headspin at Epcot (+robots)"
 date: 2005-02-02T15:01:27-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=108
+guid: /wp/?p=108
 permalink: /playlists/2005/02/020205-free-headspin-at-epcot-robots/
 categories:
   - PLAYLISTS
 ---
-(<a href=“/radio/slipstream020205.mp3">MP3</a>)
 
-**6 am** 
+(<a href="/radio/slipstream020205.mp3">MP3</a>)
+
+**6 am**
 
 Electric 6 / Gay Bar / Fire (2003)  
 NOFX / The Decline / The Decline (1999)  
@@ -23,7 +24,7 @@ St Germain / Rose Rouge / Tourist (2000)
 Lemon Jelly / ‘79 aka The Shouty Track / 64-95 (2005)  
 Death From Above 1979 / Black History Month / I’m a Woman, You’re a Machine (2004)
 
-**7 am – My Metal Friend** 
+**7 am – My Metal Friend**
 
 Styx / Mr. Roboto / Kilroy Was Here (1983)  
 My Robot Friend / You’re Out of the Computer / Hot Action! (2004)  
@@ -39,7 +40,7 @@ Calexico / Attack El Robot! Attack! / Feast of Wire (2003)
 Add N to (X) / Metal Fingers in My Body / Avant Hard (1999)  
 Totally Radd / Victory Pose / Shark Attack Day Camp (2004)
 
-**8 am** 
+**8 am**
 
 Bjork / I Miss you / Post (1995)  
 Moloko / The Time is Now / Things to Make and Do (2000)  

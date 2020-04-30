@@ -1,20 +1,19 @@
 ---
 id: 144
-title: 's03e21: opened out clear to blue'
+title: "s03e21: opened out clear to blue"
 date: 2007-03-05T18:14:40-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=144
+guid: /wp/?p=144
 permalink: /playlists/2007/03/s03e21-opened-out-clear-to-blue/
-enclosure:
-  - |
-    http://www.radioslipstream.com/radio/slipstream-s3e21.mp3
-    30418944
-    audio/mpeg
-    a:2:{s:8:"duration";s:7:"2:01:14";s:5:"image";s:89:"http://www.radioslipstream.com/wp/wp-content/plugins/podpress//images/vpreview_center.png";}
+filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-s3e21.mp3
+grbg: 30418944
+  audio/mpeg
+  a:2:{s:8:"duration";s:7:"2:01:14";s:5:"image";s:89:"/images/vpreview_center.png";}
 categories:
   - PLAYLISTS
 ---
+
 originally aired from monday march 5 at midnight to 2am on tuesday on 93.3 CFMU
 
 The annual fundraising show. And I got my goal of getting more than both previous years’ totals combined .. (by getting 2 pledges, heh.. big ups to brian and lyanne!!). Lots more blathering than most shows, but some pretty awesome tunes, too. <a href="/radio/slipstream-s3e21.mp3" target="_blank" title="/radio/slipstream-s3e21.mp3">Check it, sons</a>.  

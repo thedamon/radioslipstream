@@ -4,21 +4,20 @@ title: CRICKETS IN MY LATE NIGHT TENNIS.
 date: 2008-03-17T19:32:22-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/playlists/2008/03/crickets-in-my-late-night-tennis/
+guid: /playlists/2008/03/crickets-in-my-late-night-tennis/
 permalink: /playlists/2008/03/crickets-in-my-late-night-tennis/
-enclosure:
-  - |
-    http://www.radioslipstream.com/radio/slipstream-98.mp3
-    1
-    audio/mpeg
-    a:2:{s:8:"duration";s:7:"2:00:00";s:5:"image";s:89:"http://www.radioslipstream.com/wp/wp-content/plugins/podpress//images/vpreview_center.png";}
+filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-98.mp3
+grbg: 1
+  audio/mpeg
+  a:2:{s:8:"duration";s:7:"2:00:00";s:5:"image";s:89:"/images/vpreview_center.png";}
 categories:
   - faves
   - PLAYLISTS
 ---
-Episode 98. [mp3](/radio/slipstream-98.mp3). [cue](/radio/slipstream-98.cue). Released March 17, 2008
 
-_Apologies for the delay… working 8.5 hour days really reduces the amount of time I have to comb through old music and listen to new tunes and carefully (+ocd-ishly) arrange them into podcast playlists. Don’t you wish I was still a bum? At any rate, until I find a job where I can bring in my own tunes, I’m not fully confident I can keep up the bi-weekly episodes. But I will try!</p> 
+Episode 98. [mp3](https://storage.cloud.google.com/radioslipstream/radio/slipstream-98.mp3). [cue](https://storage.cloud.google.com/radioslipstream/radio/slipstream-98.cue). Released March 17, 2008
+
+\_Apologies for the delay… working 8.5 hour days really reduces the amount of time I have to comb through old music and listen to new tunes and carefully (+ocd-ishly) arrange them into podcast playlists. Don’t you wish I was still a bum? At any rate, until I find a job where I can bring in my own tunes, I’m not fully confident I can keep up the bi-weekly episodes. But I will try!</p>
 
 This week’s selections run quite opposite to the electronicness of last time. We start with some manic, experimental pieces and then settle down into a king-size bed of vaguely folksy reverb that eventually expands into various forms of slightly surreal ballading, before being buried in a grim avalanche of craggy rock and roll.</em>
 

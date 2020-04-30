@@ -1,22 +1,21 @@
 ---
 id: 211
-title: 'THE BURNING MEANS IT’S WORKING'
+title: "THE BURNING MEANS IT’S WORKING"
 date: 2009-06-20T18:39:52-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/playlists/2009/06/the-burning-means-its-working/
+guid: /playlists/2009/06/the-burning-means-its-working/
 permalink: /playlists/2009/06/the-burning-means-its-working/
-enclosure:
-  - |
-    http://www.radioslipstream.com/radio/slipstream-114.mp3
-    81130051
-    audio/mpeg
-    a:2:{s:8:"duration";s:7:"1:07:36";s:5:"image";s:89:"http://www.radioslipstream.com/wp/wp-content/plugins/podpress//images/vpreview_center.png";}
+filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-114.mp3
+grbg: 81130051
+  audio/mpeg
+  a:2:{s:8:"duration";s:7:"1:07:36";s:5:"image";s:89:"/images/vpreview_center.png";}
 categories:
   - PLAYLISTS
   - themes and specials
 ---
-Episode 114. [mp3](/radio/slipstream-114.mp3). [cue](/radio/slipstream-114.cue). Released June 20, 2009.
+
+Episode 114. [mp3](https://storage.cloud.google.com/radioslipstream/radio/slipstream-114.mp3). [cue](https://storage.cloud.google.com/radioslipstream/radio/slipstream-114.cue). Released June 20, 2009.
 
 _It’s time to rock. A lot of the time on deh sleepstreeeaaammm you’re hearing all this whispy melodic minimal ambient stuff, or funky grooves, or whatever. This time it’s all about the dirty guitars, pounding drums and err… machismo? (though not much screaming, not really my bag). After some of the last 5 years rockingest offerings, I have a sex change (ah modern technology) and travel back to the 90s and get to know some of the mainstays of the riot grrrl movement. I’ll explore my feminine side even deeper by travelling back to the end of the 70s for some original woman-at-the-helm proto-punk, punk and post-punk etc. Remember like 3 or 4 episodes when I said I should play more non-current music? This is where I finally take my own advice. Hope you like it! (Note: This episode has some cussin’ so you might not want to blast it at work. or by that same token, you might!)_
 

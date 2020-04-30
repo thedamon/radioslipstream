@@ -4,7 +4,7 @@ title: WHAT THE SUNSET MEANT.
 date: 2014-04-03T21:19:44-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/?p=415
+guid: 415
 mixcloud: what-the-sunset-meant
 categories:
   - PLAYLISTS
@@ -33,4 +33,4 @@ _A little bit danceable. A little bit wistful. A little bit like compounding the
   * Kollektiv Turmstrasse / Heimat / Rebellion Der Träumer (2013)
   * Oneohtrix Point Never / Chrome Country / R Plus Seven (2013) 
 
-Episode 141. Released April 03, 2014. [download mp3](/radio/slipstream-141.mp3).
+Episode 141. Released April 03, 2014. [download mp3](https://storage.cloud.google.com/radioslipstream/radio/slipstream-141.mp3).

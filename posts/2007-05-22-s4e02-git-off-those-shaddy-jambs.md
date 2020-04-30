@@ -1,21 +1,20 @@
 ---
 id: 134
-title: 's4e02: git off those shaddy jambs'
+title: "s4e02: git off those shaddy jambs"
 date: 2007-05-22T15:40:03-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=134
+guid: /wp/?p=134
 permalink: /playlists/2007/05/s4e02-git-off-those-shaddy-jambs/
-enclosure:
-  - |
-    http://www.radioslipstream.com/radio/slipstream-s4e02.mp3
-    31199232
-    audio/mpeg
-    a:2:{s:8:"duration";s:7:"2:06:26";s:5:"image";s:89:"http://www.radioslipstream.com/wp/wp-content/plugins/podpress//images/vpreview_center.png";}
+filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-s4e02.mp3
+grbg: 31199232
+  audio/mpeg
+  a:2:{s:8:"duration";s:7:"2:06:26";s:5:"image";s:89:"/images/vpreview_center.png";}
 categories:
   - faves
   - PLAYLISTS
 ---
+
 <p class="note_content clearfix">
   <em>The second episode of the summer slipstream.</em>
 </p>

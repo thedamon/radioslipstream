@@ -4,19 +4,18 @@ title: INCONSEQUENTIAL CONSENSUAL SENTINAL.
 date: 2008-04-29T20:36:41-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/playlists/2008/04/inconsequential-consensual-sentinal/
+guid: /playlists/2008/04/inconsequential-consensual-sentinal/
 permalink: /playlists/2008/04/inconsequential-consensual-sentinal/
-enclosure:
-  - |
-    http://www.radioslipstream.com/radio/slipstream-100.mp3
-    1
-    audio/mpeg
-    a:2:{s:8:"duration";s:7:"2:00:00";s:5:"image";s:89:"http://www.radioslipstream.com/wp/wp-content/plugins/podpress//images/vpreview_center.png";}
+filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-100.mp3
+grbg: 1
+  audio/mpeg
+  a:2:{s:8:"duration";s:7:"2:00:00";s:5:"image";s:89:"/images/vpreview_center.png";}
 categories:
   - faves
   - PLAYLISTS
 ---
-Episode 100. [mp3](/radio/slipstream-100.mp3). [cue](/radio/slipstream-100.cue). Released April 29, 2008
+
+Episode 100. [mp3](https://storage.cloud.google.com/radioslipstream/radio/slipstream-100.mp3). [cue](https://storage.cloud.google.com/radioslipstream/radio/slipstream-100.cue). Released April 29, 2008
 
 _This is a centennial celebration of sorts. If to you an episode is a year… at any rate… one hundred 2-3 hour episodes ago, the little radio slipstream breathed its first breath. Of course if you consider that was 40 months ago, that’s not extremely impressive. But whatevs. It’s basically business as usual, although a little more upbeat: Some screaming guitar kicks, somehow mellowing out to eastern strains of trip and hip hop, some happy summery ditties, and then bringing the party back with some party rap and some quirky, peppy dance tunes. Lame longwinded explanations of moodshifts aside, one thing you can count on and that thing is this: awesomeness abounds._
 

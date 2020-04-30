@@ -4,18 +4,17 @@ title: MAXIMUM Bb MINOR.
 date: 2007-09-10T13:59:45-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=121
+guid: /wp/?p=121
 permalink: /playlists/2007/09/maximum-bb-minor/
-enclosure:
-  - |
-    http://www.radioslipstream.com/radio/slipstream-86.mp3
-    135929856
-    audio/mpeg
-    a:2:{s:8:"duration";s:7:"2:00:48";s:5:"image";s:89:"http://www.radioslipstream.com/wp/wp-content/plugins/podpress//images/vpreview_center.png";}
+filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-86.mp3
+grbg: 135929856
+  audio/mpeg
+  a:2:{s:8:"duration";s:7:"2:00:48";s:5:"image";s:89:"/images/vpreview_center.png";}
 categories:
   - PLAYLISTS
 ---
-**[Episode 86](/radio/slipstream-86.mp3). originally aired September 10, 2007**
+
+**[Episode 86](https://storage.cloud.google.com/radioslipstream/radio/slipstream-86.mp3). originally aired September 10, 2007**
 
 _back on [93.3 FM](http://cfmu.mcmaster.ca/)! (At least for the time being)._
 

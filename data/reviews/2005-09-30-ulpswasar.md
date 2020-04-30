@@ -5,7 +5,7 @@ date: 2005-09-30T17:52:52-05:00
 author: damon
 excerpt: From Sept 17-21, I saw four of the best concerts of the year so far. Following is a lengthy but brief account of U2, Lal, Peoples Republic, Saul Williams, Amina, Sigur Ros, Annie and Royksopp live in Toronto and Hamilton over four sweetly consecutive days.
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=22
+guid: /wp/?p=22
 permalink: /features/live-reviews/2005/09/ulpswasar/
 categories:
   - concerts

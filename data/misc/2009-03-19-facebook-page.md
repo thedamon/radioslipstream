@@ -4,7 +4,7 @@ title: facebook page
 date: 2009-03-19T19:32:38-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/notes/2009/03/facebook-page/
+guid: /notes/2009/03/facebook-page/
 permalink: /notes/2009/03/facebook-page/
 categories:
   - NOTES

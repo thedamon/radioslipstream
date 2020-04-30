@@ -5,7 +5,7 @@ date: 2005-12-06T17:27:48-05:00
 author: damon
 excerpt: Some of my favourite songs/compositions from movie scores; so not a whole lot of lyrics tonight...
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=91
+guid: /wp/?p=91
 permalink: /playlists/2005/12/120505-ball-chain-window-pull/
 categories:
   - PLAYLISTS
@@ -13,7 +13,7 @@ categories:
 ---
 originally aired 2-4am December 6, 2005 on CFMU
 
-[(mp3)](/radio/slipstream120505.mp3) 
+[(mp3)](https://storage.cloud.google.com/radioslipstream/radio/slipstream120505.mp3) 
 
 Tonight! All is music pertaining to scoring the movement of picture or body.
 

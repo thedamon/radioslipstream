@@ -1,23 +1,22 @@
 ---
 id: 62
-title: 's03e05: terribly chuffed milord, ave another canape?'
+title: "s03e05: terribly chuffed milord, ave another canape?"
 date: 2006-10-10T00:39:35-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=62
+guid: /wp/?p=62
 permalink: /playlists/2006/10/s03e05-terribly-chuffed-milord-ave-another-canape/
-enclosure:
-  - |
-    http://radioslipstream.com/radio/slipstream-s3e05.mp3
-    30470144
-    audio/mpeg
-    
+filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-s3e05.mp3
+grbg: 30470144
+  audio/mpeg
+
 categories:
   - PLAYLISTS
 ---
+
 _originally aired October 9th, 2006 on [CFMU](http://cfmu.mcmaster.ca)_
 
-([This](http://radioslipstream.com/radio/slipstream-s3e05.mp3) is where you listen when you want to listen to this show when it is not when it is on)
+([This](https://storage.cloud.google.com/radioslipstream/radio/slipstream-s3e05.mp3) is where you listen when you want to listen to this show when it is not when it is on)
 
 David Holmes / Out Run / Bow Down To The Exit Sign (2000)  
 St. Germain / Land Of… / Tourist (2001)  

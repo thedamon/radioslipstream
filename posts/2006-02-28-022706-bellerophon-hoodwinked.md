@@ -4,14 +4,14 @@ title: '022706:  bellerophon hoodwinked'
 date: 2006-02-28T04:27:20-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=82
+guid: /wp/?p=82
 permalink: /playlists/2006/02/022706-bellerophon-hoodwinked/
 categories:
   - PLAYLISTS
 ---
 originally aired 2-4am February 28, 2006 on CFMU
 
-[(mp3)](/radio/slipstream022706.mp3)
+[(mp3)](https://storage.cloud.google.com/radioslipstream/radio/slipstream022706.mp3)
 
 **2 am**  
 Okkervil River / So Come Back, I Am Waiting / Black Sheep Boy (2005)  

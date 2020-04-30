@@ -4,22 +4,21 @@ title: RADIO ON THE INTERNET.
 date: 2008-09-13T20:44:48-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/playlists/2008/09/radio-on-the-internet/
+guid: /playlists/2008/09/radio-on-the-internet/
 permalink: /playlists/2008/09/radio-on-the-internet/
-enclosure:
-  - |
-    http://www.radioslipstream.com/radio/slipstream-104.mp3
-    1
-    audio/mpeg
-    a:2:{s:8:"duration";s:7:"1:59:58";s:5:"image";s:89:"http://www.radioslipstream.com/wp/wp-content/plugins/podpress//images/vpreview_center.png";}
+filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-104.mp3
+grbg: 1
+  audio/mpeg
+  a:2:{s:8:"duration";s:7:"1:59:58";s:5:"image";s:89:"/images/vpreview_center.png";}
 categories:
   - PLAYLISTS
 ---
-Episode 104. [mp3](/radio/slipstream-104.mp3). [cue](/radio/slipstream-104.cue). Released September 13, 2008
 
-_Hellohihey.. time for some more MUSIC. This baby is muchamore synthesized than the last episode. It starts out tempered and dreamy, then layers on serious doses of funk. Then it scurries around the world, goes into the future and has a little apocalypse (albeit a fairly funky one) before sitting under a tree in the late evening and thinking about what its done.</p> 
+Episode 104. [mp3](https://storage.cloud.google.com/radioslipstream/radio/slipstream-104.mp3). [cue](https://storage.cloud.google.com/radioslipstream/radio/slipstream-104.cue). Released September 13, 2008
 
-Also just because I can, I thought it would be neat to give you the option of hearing the show with only the music. An instrumental version of the program if you will… so if you’re interested in that, click on the corresponding little box up top there, or get the file [here](/radio/slipstream-104-inst.mp3), along with the [cue sheet](/radio/slipstream-104-inst.cue).</em>
+\_Hellohihey.. time for some more MUSIC. This baby is muchamore synthesized than the last episode. It starts out tempered and dreamy, then layers on serious doses of funk. Then it scurries around the world, goes into the future and has a little apocalypse (albeit a fairly funky one) before sitting under a tree in the late evening and thinking about what its done.</p>
+
+Also just because I can, I thought it would be neat to give you the option of hearing the show with only the music. An instrumental version of the program if you will… so if you’re interested in that, click on the corresponding little box up top there, or get the file [here](https://storage.cloud.google.com/radioslipstream/radio/slipstream-104-inst.mp3), along with the [cue sheet](https://storage.cloud.google.com/radioslipstream/radio/slipstream-104-inst.cue).</em>
 
 Klute / Hell Hath No Fury / The Emperor’s New Clothes (2007)
 

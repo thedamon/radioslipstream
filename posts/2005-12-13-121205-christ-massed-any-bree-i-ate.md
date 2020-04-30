@@ -1,24 +1,23 @@
 ---
 id: 90
-title: '121205: christ massed any bree i ate'
+title: "121205: christ massed any bree i ate"
 date: 2005-12-13T03:12:34-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=90
+guid: /wp/?p=90
 permalink: /playlists/2005/12/121205-christ-massed-any-bree-i-ate/
-enclosure:
-  - |
-    http://www.radioslipstream.com/radio/slipstream121205.mp3
-    30851072
-    audio/mpeg
-    a:2:{s:8:"duration";s:7:"2:06:04";s:5:"image";s:89:"http://www.radioslipstream.com/wp/wp-content/plugins/podpress//images/vpreview_center.png";}
+filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream121205.mp3
+grbg: 30851072
+  audio/mpeg
+  a:2:{s:8:"duration";s:7:"2:06:04";s:5:"image";s:89:"/images/vpreview_center.png";}
 categories:
   - faves
   - PLAYLISTS
 ---
+
 originally aired 2-4am December 13, 2005 on CFMU
 
-[(mp3)](/radio/slipstream121205.mp3)
+[(mp3)](https://storage.cloud.google.com/radioslipstream/radio/slipstream121205.mp3)
 
 The holiday special. Christmas, X-mas, triple x-mas, sex-mas, axe-mas, kwanza, chanuckhkha, you know.. whichever bastes your turkey.
 

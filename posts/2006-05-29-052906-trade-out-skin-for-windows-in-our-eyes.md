@@ -1,23 +1,22 @@
 ---
 id: 73
-title: '052906: trade out skin for windows in our eyes'
+title: "052906: trade out skin for windows in our eyes"
 date: 2006-05-29T23:17:59-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=73
+guid: /wp/?p=73
 permalink: /playlists/2006/05/052906-trade-out-skin-for-windows-in-our-eyes/
-enclosure:
-  - |
-    http://www.radioslipstream.com/radio/slipstream-2006-05-29.mp3
-    166227968
-    audio/mpeg
-    a:2:{s:8:"duration";s:7:"2:02:57";s:5:"image";s:89:"http://www.radioslipstream.com/wp/wp-content/plugins/podpress//images/vpreview_center.png";}
+filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-2006-05-29.mp3
+grbg: 166227968
+  audio/mpeg
+  a:2:{s:8:"duration";s:7:"2:02:57";s:5:"image";s:89:"/images/vpreview_center.png";}
 categories:
   - PLAYLISTS
 ---
+
 originally aired 2-4am May 30, 2006 on 93.3 CFMU
 
-[(mp3)](/radio/upload/slipstream-2006-05-29.mp3)
+[(mp3)](https://storage.cloud.google.com/radioslipstream/radio/upload/slipstream-2006-05-29.mp3)
 
 **2 am**  
 Nitin Sawhney / Homelands / Beyond Skin (1999)  

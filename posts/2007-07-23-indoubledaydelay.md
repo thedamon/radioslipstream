@@ -4,18 +4,17 @@ title: INDOUBLEDAYDELAY.
 date: 2007-07-23T15:06:33-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=126
+guid: /wp/?p=126
 permalink: /playlists/2007/07/indoubledaydelay/
-enclosure:
-  - |
-    http://www.radioslipstream.com/radio/slipstream-s4e10.mp3
-    118491136
-    audio/mpeg
-    a:2:{s:8:"duration";s:7:"2:02:15";s:5:"image";s:89:"http://www.radioslipstream.com/wp/wp-content/plugins/podpress//images/vpreview_center.png";}
+filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-s4e10.mp3
+grbg: 118491136
+  audio/mpeg
+  a:2:{s:8:"duration";s:7:"2:02:15";s:5:"image";s:89:"/images/vpreview_center.png";}
 categories:
   - PLAYLISTS
 ---
-**[MP3.](/radio/slipstream-s4e10.mp3) originally aired July 23, 2007  
+
+**[MP3.](https://storage.cloud.google.com/radioslipstream/radio/slipstream-s4e10.mp3) originally aired July 23, 2007  
 **  
 Amon Tobin / Bloodstone (feat. Kronos Quartet) / Foley Room (2007)  
 Subtle / F.K.O. / A New White (2004)

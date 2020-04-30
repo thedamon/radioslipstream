@@ -1,17 +1,18 @@
 ---
 id: 109
-title: '012605 – Titularily Disadvantaged (+california)'
+title: "012605 – Titularily Disadvantaged (+california)"
 date: 2005-01-26T15:02:37-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=109
+guid: /wp/?p=109
 permalink: /playlists/2005/01/012605-titularily-disadvantaged-california/
 categories:
   - PLAYLISTS
 ---
-(<a href=“/radio/slipstream012605.mp3">MP3</a>)
 
-**6 am** 
+(<a href="/radio/slipstream012605.mp3">MP3</a>)
+
+**6 am**
 
 The Flaming Lips / Seven Nation Army / Live on BBC Radio 1 (2004)  
 Way Out West / Domination / Way Out West (1997)  
@@ -42,7 +43,7 @@ Josh Ritter / California / Hello Starling (2004)
 Billy Bragg and Wilco / California Stars / Mermaid Avenue (1998)  
 The Decemberists / California One / Youth and Beauty Brigade / Castaways and Cutouts (2002)
 
-**8 am** 
+**8 am**
 
 Radiohead / Lull / Karma Police CDS (1998)  
 Stars / Ageless Beauty / Set Yourself on Fire (2004)  

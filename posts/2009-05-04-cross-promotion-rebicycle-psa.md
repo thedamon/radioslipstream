@@ -4,7 +4,7 @@ title: 'cross promotion: Rebicycle PSA'
 date: 2009-05-04T13:23:21-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/playlists/2009/05/cross-promotion-rebicycle-psa/
+guid: /playlists/2009/05/cross-promotion-rebicycle-psa/
 permalink: /notes/2009/05/cross-promotion-rebicycle-psa/
 categories:
   - NOTES

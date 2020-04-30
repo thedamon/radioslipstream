@@ -1,21 +1,20 @@
 ---
 id: 118
-title: 'NOT DIFFERENT- JUST BETTER OR WORSE.'
+title: "NOT DIFFERENT- JUST BETTER OR WORSE."
 date: 2007-10-08T13:50:33-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=118
+guid: /wp/?p=118
 permalink: /playlists/2007/10/not-different-just-better-or-worse/
-enclosure:
-  - |
-    http://www.radioslipstream.com/radio/slipstream-89.mp3
-    137003008
-    audio/mpeg
-    a:2:{s:8:"duration";s:7:"2:00:00";s:5:"image";s:89:"http://www.radioslipstream.com/wp/wp-content/plugins/podpress//images/vpreview_center.png";}
+filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-89.mp3
+grbg: 137003008
+  audio/mpeg
+  a:2:{s:8:"duration";s:7:"2:00:00";s:5:"image";s:89:"/images/vpreview_center.png";}
 categories:
   - PLAYLISTS
 ---
-**[Episode 89](/radio/slipstream-89.mp3). originally aired October 8, 2007**
+
+**[Episode 89](https://storage.cloud.google.com/radioslipstream/radio/slipstream-89.mp3). originally aired October 8, 2007**
 
 David Holmes / Gone (remixed by Kruder & Dorfmeister) / The K&D Sessions (1998)  
 Underworld / Beautiful Burnout / Oblivion With Bells (2007)

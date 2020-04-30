@@ -1,20 +1,19 @@
 ---
 id: 136
-title: 's4e01: in beleaguered, puzzled peace'
+title: "s4e01: in beleaguered, puzzled peace"
 date: 2007-05-08T15:48:48-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=136
+guid: /wp/?p=136
 permalink: /playlists/2007/05/s4e01-in-beleaguered-puzzled-peace/
-enclosure:
-  - |
-    http://www.radioslipstream.com/radio/slipstream-s4e01.mp3
-    32364544
-    audio/mpeg
-    a:2:{s:8:"duration";s:7:"2:04:50";s:5:"image";s:89:"http://www.radioslipstream.com/wp/wp-content/plugins/podpress//images/vpreview_center.png";}
+filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-s4e01.mp3
+grbg: 32364544
+  audio/mpeg
+  a:2:{s:8:"duration";s:7:"2:04:50";s:5:"image";s:89:"/images/vpreview_center.png";}
 categories:
   - PLAYLISTS
 ---
+
 <p class="note_content clearfix">
   <em>The first episode of the next batch of radio song dealies on radio slipstream.<br /> Originally aired 0:00-2:00 May 7-8, 2007 on <a href="http://cfmu.mcmaster.ca" target="_blank" title="http://cfmu.mcmaster.ca">CFMU</a><br /> Enjoy it in mp3 format behind this <a href="/radio/slipstreams4e01.mp3" target="_blank" title="http://slipstream.brokenuniverse.com/radio/slipstream-s4e01.mp3">mystical e-tapestry</a></em>
 </p>

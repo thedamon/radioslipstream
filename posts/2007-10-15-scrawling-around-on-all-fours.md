@@ -4,18 +4,17 @@ title: SCRAWLING AROUND ON ALL FOURS.
 date: 2007-10-15T13:50:33-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=117
+guid: /wp/?p=117
 permalink: /playlists/2007/10/scrawling-around-on-all-fours/
-enclosure:
-  - |
-    http://www.radioslipstream.com/radio/slipstream-90.mp3
-    132501504
-    audio/mpeg
-    a:2:{s:8:"duration";s:7:"2:00:00";s:5:"image";s:89:"http://www.radioslipstream.com/wp/wp-content/plugins/podpress//images/vpreview_center.png";}
+filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-90.mp3
+grbg: 132501504
+  audio/mpeg
+  a:2:{s:8:"duration";s:7:"2:00:00";s:5:"image";s:89:"/images/vpreview_center.png";}
 categories:
   - PLAYLISTS
 ---
-**[Episode 90.](/radio/slipstream-90.mp3) originally aired October 15, 2007**
+
+**[Episode 90.](https://storage.cloud.google.com/radioslipstream/radio/slipstream-90.mp3) originally aired October 15, 2007**
 
 Stars of the Lid / Mullholland / The Tired Sounds Of (2001)  
 Radiohead / All I Need / In Rainbows (2007)

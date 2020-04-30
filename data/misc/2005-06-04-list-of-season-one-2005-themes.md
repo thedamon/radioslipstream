@@ -5,7 +5,7 @@ date: 2005-06-04T15:54:51-05:00
 author: damon
 excerpt: 'When I started the show, I had a theme every episode!  Then I got lazy.  This catalogues those in a single handy spot.'
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=167
+guid: /wp/?p=167
 permalink: /playlists/2005/06/list-of-season-one-2005-themes/
 categories:
   - PLAYLISTS

@@ -4,7 +4,7 @@ title: The Unicorns concert pics
 date: 2004-06-01T14:59:44-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=31
+guid: /wp/?p=31
 permalink: /features/live-reviews/2004/06/the-unicorns-concert-pics/
 categories:
   - concerts

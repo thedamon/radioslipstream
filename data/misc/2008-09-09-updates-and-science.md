@@ -4,7 +4,7 @@ title: Updates and science
 date: 2008-09-09T00:08:39-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/notes/2008/09/updates-and-science/
+guid: /notes/2008/09/updates-and-science/
 permalink: /notes/2008/09/updates-and-science/
 categories:
   - NOTES

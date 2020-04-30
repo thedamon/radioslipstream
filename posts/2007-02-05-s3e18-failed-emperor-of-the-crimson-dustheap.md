@@ -1,23 +1,22 @@
 ---
 id: 147
-title: 's3e18: failed emperor of the crimson dustheap'
+title: "s3e18: failed emperor of the crimson dustheap"
 date: 2007-02-05T18:20:14-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=147
+guid: /wp/?p=147
 permalink: /playlists/2007/02/s3e18-failed-emperor-of-the-crimson-dustheap/
-enclosure:
-  - |
-    http://www.radioslipstream.com/radio/slipstream-s3e18.mp3
-    29880320
-    audio/mpeg
-    a:2:{s:8:"duration";s:7:"2:04:29";s:5:"image";s:89:"http://www.radioslipstream.com/wp/wp-content/plugins/podpress//images/vpreview_center.png";}
+filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-s3e18.mp3
+grbg: 29880320
+  audio/mpeg
+  a:2:{s:8:"duration";s:7:"2:04:29";s:5:"image";s:89:"/images/vpreview_center.png";}
 categories:
   - PLAYLISTS
 ---
+
 originally aired from Monday February 5th at midnight for 2 hours until 2am on Tuesday.
 
-[mp3](/radio/slipstream-s3e18.mp3) 
+[mp3](https://storage.cloud.google.com/radioslipstream/radio/slipstream-s3e18.mp3)
 
 Rockers Hi‐Fi / Going Under (Main Version) / Going Under (The Kruder & Dorfmeister Sessions EP) (1997)  
 Esem / Dispehrse / Scateren (2005)  

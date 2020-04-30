@@ -4,7 +4,7 @@ title: indie music tv, and an E.T.A.
 date: 2008-04-08T14:24:00-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/notes/2008/04/indie-music-tv-and-an-eta/
+guid: /notes/2008/04/indie-music-tv-and-an-eta/
 permalink: /notes/2008/04/indie-music-tv-and-an-eta/
 categories:
   - NOTES

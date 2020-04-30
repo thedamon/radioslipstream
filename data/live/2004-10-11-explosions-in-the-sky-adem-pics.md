@@ -4,7 +4,7 @@ title: Explosions in the Sky, Adem pics
 date: 2004-10-11T14:38:43-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=24
+guid: /wp/?p=24
 permalink: /features/live-reviews/2004/10/explosions-in-the-sky-adem-pics/
 categories:
   - concerts

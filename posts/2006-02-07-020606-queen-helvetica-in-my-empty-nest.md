@@ -1,24 +1,23 @@
 ---
 id: 84
-title: '020606: queen helvetica in my empty nest'
+title: "020606: queen helvetica in my empty nest"
 date: 2006-02-07T04:22:34-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=84
+guid: /wp/?p=84
 permalink: /playlists/2006/02/020606-queen-helvetica-in-my-empty-nest/
-enclosure:
-  - |
-    http://www.radioslipstream.com/radio/slipstream020606.mp3
-    29970432
-    audio/mpeg
-    a:2:{s:8:"duration";s:7:"2:04:52";s:5:"image";s:89:"http://www.radioslipstream.com/wp/wp-content/plugins/podpress//images/vpreview_center.png";}
+filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream020606.mp3
+grbg: 29970432
+  audio/mpeg
+  a:2:{s:8:"duration";s:7:"2:04:52";s:5:"image";s:89:"/images/vpreview_center.png";}
 categories:
   - faves
   - PLAYLISTS
 ---
+
 originally aired 2-4am February 7, 2006 on CFMU
 
-[(mp3)](/radio/slipstream020606.mp3)
+[(mp3)](https://storage.cloud.google.com/radioslipstream/radio/slipstream020606.mp3)
 
 **2 am**  
 Deltron 3030 / 3030 / Deltron 3030 (2000)  

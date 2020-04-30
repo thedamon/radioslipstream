@@ -1,20 +1,19 @@
 ---
 id: 141
-title: 's03e24: rockswift applegate suburb'
+title: "s03e24: rockswift applegate suburb"
 date: 2007-03-26T18:08:36-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=141
+guid: /wp/?p=141
 permalink: /playlists/2007/03/s03e24-rockswift-applegate-suburb/
-enclosure:
-  - |
-    http://www.radioslipstream.com/radio/slipstream-s3e24.mp3
-    30226432
-    audio/mpeg
-    a:2:{s:8:"duration";s:7:"2:05:56";s:5:"image";s:89:"http://www.radioslipstream.com/wp/wp-content/plugins/podpress//images/vpreview_center.png";}
+filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-s3e24.mp3
+grbg: 30226432
+  audio/mpeg
+  a:2:{s:8:"duration";s:7:"2:05:56";s:5:"image";s:89:"/images/vpreview_center.png";}
 categories:
   - PLAYLISTS
 ---
+
 <p class="note_content clearfix">
   originally aired from monday march 26 at midnight to 2am on tuesday on <a href="http://cfmu.mcmaster.ca" target="_blank" title="http://cfmu.mcmaster.ca">93.3 CFMU</a>
 </p>

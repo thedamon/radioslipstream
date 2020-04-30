@@ -4,17 +4,16 @@ title: FAILED PURPLE.
 date: 2007-08-13T14:02:22-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=123
+guid: /wp/?p=123
 permalink: /playlists/2007/08/failed-purple/
-enclosure:
-  - |
-    http://www.radioslipstream.com/radio/slipstream-s4e13.mp3
-    120688640
-    audio/mpeg
-    a:2:{s:8:"duration";s:7:"2:01:01";s:5:"image";s:89:"http://www.radioslipstream.com/wp/wp-content/plugins/podpress//images/vpreview_center.png";}
+filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-s4e13.mp3
+grbg: 120688640
+  audio/mpeg
+  a:2:{s:8:"duration";s:7:"2:01:01";s:5:"image";s:89:"/images/vpreview_center.png";}
 categories:
   - PLAYLISTS
 ---
+
 **originally aired August 13, 2007**
 
 DJ Shadow / Midnight in a Perfect World / Endtroducing… (1996)

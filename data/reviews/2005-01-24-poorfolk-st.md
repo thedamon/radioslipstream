@@ -4,7 +4,7 @@ title: Poorfolk (s/t)
 date: 2005-01-24T22:36:46-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=10
+guid: /wp/?p=10
 permalink: /features/album-reviews/2005/01/poorfolk-st/
 categories:
   - album reviews

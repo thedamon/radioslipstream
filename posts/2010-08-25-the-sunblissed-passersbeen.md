@@ -4,20 +4,19 @@ title: THE SUNBLISSED PASSERSBEEN
 date: 2010-08-25T21:38:50-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/playlists/2010/08/the-sunblissed-passersbeen/
+guid: /playlists/2010/08/the-sunblissed-passersbeen/
 mixcloud: the-sunblissed-passersbeen
-enclosure:
-  - |
-    http://www.radioslipstream.com/radio/slipstream-117.mp3
-    115140608
-    audio/mpeg
-    a:2:{s:8:"duration";s:7:"1:19:57";s:5:"image";s:89:"http://www.radioslipstream.com/wp/wp-content/plugins/podpress//images/vpreview_center.png";}
+filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-117.mp3
+grbg: 115140608
+  audio/mpeg
+  a:2:{s:8:"duration";s:7:"1:19:57";s:5:"image";s:89:"/images/vpreview_center.png";}
 categories:
   - PLAYLISTS
 ---
-Episode 117. [mp3](/radio/slipstream-117.mp3). [cue](/radio/slipstream-117.cue). Released August 25, 2010.
 
-_Back for more! Still without the use of adequate microphone, this episode continues the trend of letting the music speak for itself.</p> 
+Episode 117. [mp3](https://storage.cloud.google.com/radioslipstream/radio/slipstream-117.mp3). [cue](https://storage.cloud.google.com/radioslipstream/radio/slipstream-117.cue). Released August 25, 2010.
+
+\_Back for more! Still without the use of adequate microphone, this episode continues the trend of letting the music speak for itself.</p>
 
 Still playing catch-up as well, following that yearlong drought. So this episode features a bit of an exploration of the Chill-wave fad from last year (unless you want to call it Glo-Fi… no comment). That whole movement, thanks mostly to its bloggy pushers, steams of calculated hipster holier-than-thou pretension; but there’s a great deal of nice sounds in there as well, so don’t worry about it. After the nostalgic summer bits, you’re going to hear some low-key hip-hop, which might be labelled backpacker-rap by your snobby friends (which means it’s for college kids and not drug dealers, or something). Broadly, this set of tunes is meant to serve as a celebration and farewell to hot summer sun and vacation. So whether it’s night or day, in the basement or the beach, close your eyes and lie in the sun.</em>
 

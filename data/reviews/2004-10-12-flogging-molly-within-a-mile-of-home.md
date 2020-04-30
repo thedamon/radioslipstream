@@ -4,7 +4,7 @@ title: 'Flogging Molly – Within A Mile of Home'
 date: 2004-10-12T22:25:28-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=15
+guid: /wp/?p=15
 permalink: /features/album-reviews/2004/10/flogging-molly-within-a-mile-of-home/
 categories:
   - album reviews

@@ -4,19 +4,18 @@ title: ALWAYS LESS LIKE LASTING.
 date: 2008-02-02T23:42:40-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/playlists/2008/02/always-less-like-lasting/
+guid: /playlists/2008/02/always-less-like-lasting/
 permalink: /playlists/2008/02/always-less-like-lasting/
-enclosure:
-  - |
-    http://www.radioslipstream.com/radio/slipstream-96.mp3
-    1
-    audio/mpeg
-    a:2:{s:8:"duration";s:7:"2:00:00";s:5:"image";s:89:"http://www.radioslipstream.com/wp/wp-content/plugins/podpress//images/vpreview_center.png";}
+filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-96.mp3
+grbg: 1
+  audio/mpeg
+  a:2:{s:8:"duration";s:7:"2:00:00";s:5:"image";s:89:"/images/vpreview_center.png";}
 categories:
   - faves
   - PLAYLISTS
 ---
-[Episode 96](/radio/slipstream-96.mp3). Released February 2, 2008
+
+[Episode 96](https://storage.cloud.google.com/radioslipstream/radio/slipstream-96.mp3). Released February 2, 2008
 
 _Back into the swing of things! As per Mr Normal, a delectable selection of that what’s been making my ears dream. Chilled electronica to danceybits to quirky poky pop and mellowed out epics, with a bit of dirt (delicious dirt!) tossed on the tail end._
 

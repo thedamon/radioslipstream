@@ -4,7 +4,7 @@ title: 'subtle’s surreality'
 date: 2007-11-07T12:31:52-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=152
+guid: /wp/?p=152
 permalink: /notes/2007/11/subtles-surreality/
 categories:
   - NOTES

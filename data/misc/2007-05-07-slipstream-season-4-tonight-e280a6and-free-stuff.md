@@ -4,7 +4,7 @@ title: 'Slipstream Season 4 – Tonight! …and free stuff'
 date: 2007-05-07T15:48:49-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=137
+guid: /wp/?p=137
 permalink: '/notes/announcements/2007/05/slipstream-season-4-tonight-%e2%80%a6and-free-stuff/'
 categories:
   - announcements

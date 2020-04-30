@@ -1,17 +1,18 @@
 ---
 id: 102
-title: '032305 – Trillibut Kutswitch’s Extra Musical Vaganza +devils with drum machines'
+title: "032305 – Trillibut Kutswitch’s Extra Musical Vaganza +devils with drum machines"
 date: 2005-03-23T14:47:50-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=102
+guid: /wp/?p=102
 permalink: /playlists/2005/03/032305-trillibut-kutswitchs-extra-musical-vaganza-devils-with-drum-machines/
 categories:
   - PLAYLISTS
 ---
-(<a href=“/radio/slipstream032305.mp3">MP3</a>)
 
-**6 am** 
+(<a href="/radio/slipstream032305.mp3">MP3</a>)
+
+**6 am**
 
 Junior Senior / Move Your Feet / D-d-don’t Stop The Beat (2002)  
 Hybrid / Finished Symphony (live) / Live Angle (2000)  
@@ -24,7 +25,7 @@ Avia Gardner / Urban / Saturday Morning Empires (2004)
 M Ward / Sad, Sad Song / The Transfiguration of Vincent (2003)  
 Patrick Street / Music For a Found Harmonium / 3 Irish Times 3 (1989)
 
-**7 am – Devils with Drum Machines** 
+**7 am – Devils with Drum Machines**
 
 Orbital / Satan (Industry Standard) / In-Sides Bonus Disc (1996)  
 Azzido Da Bass / Doom’s Night (Timo Maas Remix) / Music for the Maases (2000)  
@@ -38,7 +39,7 @@ Leftfield and Afrika Bambaataa / Afrika Shox / Rhythm and Stealth (1999)
 Lemon Jelly / ‘88 aka Come Down On Me / 64-95 (2005)  
 Way Out West / Intensify Pt 1 / Intensify (2001)
 
-<font face="Courier New" size="+0">8 am
+**8 am**
 
 Everything But The Girl / Hatfield 1980 / Temperamental (1999)  
 General Electrics feat Maroons / Facing That Void / Cliquety Kliqk (2003)  

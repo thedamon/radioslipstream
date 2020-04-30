@@ -1,22 +1,21 @@
 ---
 id: 148
-title: 's3e17: paper towel beach brigade (+covers)'
+title: "s3e17: paper towel beach brigade (+covers)"
 date: 2007-01-29T18:21:55-05:00
 author: damon
 excerpt: A special (I guess) edition of the slipstream where I play an assortment of cover songs and related musics.
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=148
+guid: /wp/?p=148
 permalink: /playlists/2007/01/s3e17-paper-towel-beach-brigade-covers/
-enclosure:
-  - |
-    http://www.radioslipstream.com/radio/slipstream-s3e17.mp3
-    32403456
-    audio/mpeg
-    a:2:{s:8:"duration";s:7:"2:15:00";s:5:"image";s:89:"http://www.radioslipstream.com/wp/wp-content/plugins/podpress//images/vpreview_center.png";}
+filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-s3e17.mp3
+grbg: 32403456
+  audio/mpeg
+  a:2:{s:8:"duration";s:7:"2:15:00";s:5:"image";s:89:"/images/vpreview_center.png";}
 categories:
   - PLAYLISTS
   - themes and specials
 ---
+
 originally aired from Monday January 29 at midnight for 2 hours until 2am on Tuesday
 
 (A special (I guess) edition of the slipstream where I play an assortment of cover songs and related musics.)
@@ -51,7 +50,7 @@ Jenny Lewis with the Watson Twins / Handle with Care / Rabbit Furcoat (2005)
 ‐  
 Massive Attack / Be Thankful For What You Got / Blue Lines (1991)  
 &nbsp;&nbsp;&nbsp;[original: William DeVaughn (1974)]  
-EASY STAR ALL*STARS / Let Down / RADIODREAD (2006)  
+EASY STAR ALL\*STARS / Let Down / RADIODREAD (2006)  
 &nbsp;&nbsp;&nbsp;[original: Radiohead (1997)]  
 Johnny Cash / The Mercy Seat / American III: Solitary Man (2000)  
 &nbsp;&nbsp;&nbsp;[original: Nick Cave (1987)]  

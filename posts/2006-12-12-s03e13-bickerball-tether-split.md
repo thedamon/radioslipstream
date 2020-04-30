@@ -1,23 +1,22 @@
 ---
 id: 53
-title: 's03e13: bickerball tether split'
+title: "s03e13: bickerball tether split"
 date: 2006-12-12T00:50:24-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=53
+guid: /wp/?p=53
 permalink: /playlists/2006/12/s03e13-bickerball-tether-split/
-enclosure:
-  - |
-    http://radioslipstream.com/radio/slipstream-s3e13.mp3
-    30244864
-    audio/mpeg
-    
+filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-s3e13.mp3
+grbg: 30244864
+  audio/mpeg
+
 categories:
   - PLAYLISTS
 ---
+
 originally aired midnight Dec 11 to 2am Dec 12 on [93.3 CFMU](http://cfmu.mcmaster.ca)
 
-(it has been scientifically proven that 1 in 4.3 people prefers __ to [__](http://radioslipstream.com/radio/slipstream-s3e13.mp3).)
+(it has been scientifically proven that 1 in 4.3 people prefers ** to [**](https://storage.cloud.google.com/radioslipstream/radio/slipstream-s3e13.mp3).)
 
 -midnight-  
 Paul Nazca / Surface / Alchimie (2001)  

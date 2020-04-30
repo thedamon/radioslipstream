@@ -4,7 +4,7 @@ title: 'Kate Rogers – St. Eustacia'
 date: 2004-08-16T22:17:57-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=20
+guid: /wp/?p=20
 permalink: /features/album-reviews/2004/08/kate-rogers-st-eustacia/
 categories:
   - album reviews

@@ -4,18 +4,17 @@ title: HEBRIDUS SCROTELY AND HIS UNTENABLE MENTIONS
 date: 2009-07-09T22:34:43-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/playlists/2009/07/hebridus-scrotely-and-his-untenable-mentions/
+guid: /playlists/2009/07/hebridus-scrotely-and-his-untenable-mentions/
 permalink: /playlists/2009/07/hebridus-scrotely-and-his-untenable-mentions/
-enclosure:
-  - |
-    http://www.radioslipstream.com/radio/slipstream-115.mp3
-    91904121
-    audio/mpeg
-    a:2:{s:8:"duration";s:7:"1:16:34";s:5:"image";s:89:"http://www.radioslipstream.com/wp/wp-content/plugins/podpress//images/vpreview_center.png";}
+filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-115.mp3
+grbg: 91904121
+  audio/mpeg
+  a:2:{s:8:"duration";s:7:"1:16:34";s:5:"image";s:89:"/images/vpreview_center.png";}
 categories:
   - PLAYLISTS
 ---
-Episode 115. [mp3](/radio/slipstream-115.mp3). [cue](/radio/slipstream-115.cue). Released July 9, 2009.
+
+Episode 115. [mp3](https://storage.cloud.google.com/radioslipstream/radio/slipstream-115.mp3). [cue](https://storage.cloud.google.com/radioslipstream/radio/slipstream-115.cue). Released July 9, 2009.
 
 _Starting out about as mainstream as obscure music can get, moving into a dreamy synthpop throwback place, a right turn through some right twisted electronic sounds and then some raggadubbadancehall business, and a sinister coda. (feat. the 2500th unique radio slipstream approved tune)_
 

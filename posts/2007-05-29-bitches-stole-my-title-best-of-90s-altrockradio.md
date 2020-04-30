@@ -5,22 +5,21 @@ date: 2007-05-29T15:15:07-05:00
 author: damon
 excerpt: "In my youth, these songs on London's FM96 shaped my appreciation of music to a large extent. Then I branched way the fuck out."
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=133
+guid: /wp/?p=133
 permalink: /playlists/2007/05/bitches-stole-my-title-best-of-90s-altrockradio/
-enclosure:
-  - |
-    http://www.radioslipstream.com/radio/slipstream-s4e03.mp3
-    1
-    audio/mpeg
-    a:2:{s:8:"duration";s:7:"2:03:55";s:5:"image";s:89:"http://www.radioslipstream.com/wp/wp-content/plugins/podpress//images/vpreview_center.png";}
+filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-s4e03.mp3
+grbg: 1
+  audio/mpeg
+  a:2:{s:8:"duration";s:7:"2:03:55";s:5:"image";s:89:"/images/vpreview_center.png";}
 categories:
   - PLAYLISTS
   - themes and specials
 ---
+
 **Originally aired May 29, 2007**
 
 _In my youth, these songs on London’s FM96 shaped my appreciation of music to a large extent. Then I branched way the fuck out.  
-_ 
+_
 
 U2 / Until The End Of The World / Achtung Baby (1991)  
 Butthole Surfers / Pepper / Electriclarryland (1996)

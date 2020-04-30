@@ -4,7 +4,7 @@ title: 'burial – untrue'
 date: 2007-11-06T22:24:29-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=151
+guid: /wp/?p=151
 permalink: /notes/2007/11/burial-untrue/
 categories:
   - NOTES

@@ -5,22 +5,21 @@ date: 2007-10-29T13:43:00-05:00
 author: damon
 excerpt: The final episode of Radio Slipstream aired on CFMU. Nothing new here (except one old favourite that somehow never got featured on the show), just a selection of my most favourite songs. Like a flashback episode I suppose. I worked pretty hard on this, both the show in general, and on squeezing down 3 and a half hours of music into 2 for my final radio program. I hope you like it.
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=115
+guid: /wp/?p=115
 permalink: /playlists/2007/10/end-radio-edit/
-enclosure:
-  - |
-    http://www.radioslipstream.com/radio/slipstream-92.mp3
-    1
-    audio/mpeg
-    a:2:{s:8:"duration";s:7:"2:00:46";s:5:"image";s:89:"http://www.radioslipstream.com/wp/wp-content/plugins/podpress//images/vpreview_center.png";}
+filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-92.mp3
+grbg: 1
+  audio/mpeg
+  a:2:{s:8:"duration";s:7:"2:00:46";s:5:"image";s:89:"/images/vpreview_center.png";}
 categories:
   - faves
   - PLAYLISTS
   - themes and specials
 ---
-**[Episode 92](/radio/slipstream-92.mp3). originally aired October 29, 2007**
 
-_The final episode of Radio Slipstream aired on CFMU. Nothing new here (except one old favourite that somehow never got featured on the show), just a selection of my most favourite songs. Like a flashback episode I suppose. I worked pretty hard on this, both the show in general, and on squeezing down 3 and a half hours of music into 2 for my final radio program. I hope you like it._ 
+**[Episode 92](https://storage.cloud.google.com/radioslipstream/radio/slipstream-92.mp3). originally aired October 29, 2007**
+
+_The final episode of Radio Slipstream aired on CFMU. Nothing new here (except one old favourite that somehow never got featured on the show), just a selection of my most favourite songs. Like a flashback episode I suppose. I worked pretty hard on this, both the show in general, and on squeezing down 3 and a half hours of music into 2 for my final radio program. I hope you like it._
 
 _All in all, The Slipstream on 93.3 CFMU occupied 3 separate timeslots and delivered 2037 uniquely excellent songs (and 13 repeat excellent songs, repeated for theme shows or by accident) from 948 unique artists (not including the epic 5 episode 111 song best albums of 2005 countdown -which I’ve disowned because they’re not sequenced quite nicely enough to be up to standard and some of the songs have been repeated since). Now it is no more. It was deemed by ‘the powers that be’ (who are actually pretty cool once you get to know them) that being in London but remotely doing a show on a Hamilton community radio station isn’t in the spirit of things or practical. So, I’m going to take some time off and then bring back the podcast (probably bi-weekly) because I really do enjoy doing this. And then who knows. I also really want to get this website off its ass and turn it into something good-like._
 

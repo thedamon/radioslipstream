@@ -1,23 +1,22 @@
 ---
 id: 70
-title: '061206: sorry. we’re out tryklickling the voomdor :('
+title: "061206: sorry. we’re out tryklickling the voomdor :("
 date: 2006-07-11T01:20:18-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=70
+guid: /wp/?p=70
 permalink: /playlists/2006/07/061206-sorry-were-out-tryklickling-the-voomdor/
-enclosure:
-  - |
-    http://www.radioslipstream.com/radio/slipstream-2006-06-18.mp3
-    169127936
-    audio/mpeg
-    a:2:{s:8:"duration";s:7:"2:00:01";s:5:"image";s:89:"http://www.radioslipstream.com/wp/wp-content/plugins/podpress//images/vpreview_center.png";}
+filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-2006-06-18.mp3
+grbg: 169127936
+  audio/mpeg
+  a:2:{s:8:"duration";s:7:"2:00:01";s:5:"image";s:89:"/images/vpreview_center.png";}
 categories:
   - PLAYLISTS
 ---
+
 aired 2-4am July 11, 2006 on [93.3 CFMU](http://cfmu.mcmaster.ca). and then again from 3-5am August 8, for no particular reason.
 
-[(mp3)](/radio/upload/slipstream-2006-06-19.mp3)
+[(mp3)](https://storage.cloud.google.com/radioslipstream/radio/upload/slipstream-2006-06-19.mp3)
 
 **2 am**  
 Underworld / Dirty Epic / Dubnobasswithmyheadman (1993)  

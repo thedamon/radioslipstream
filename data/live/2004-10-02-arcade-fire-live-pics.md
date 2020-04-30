@@ -4,7 +4,7 @@ title: Arcade Fire live pics
 date: 2004-10-02T14:51:18-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=26
+guid: /wp/?p=26
 permalink: /features/live-reviews/2004/10/arcade-fire-live-pics/
 categories:
   - concerts

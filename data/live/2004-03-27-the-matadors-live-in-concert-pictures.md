@@ -4,7 +4,7 @@ title: the MATADORS live in concert pictures
 date: 2004-03-27T15:00:40-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=34
+guid: /wp/?p=34
 permalink: /features/live-reviews/2004/03/the-matadors-live-in-concert-pictures/
 categories:
   - concerts

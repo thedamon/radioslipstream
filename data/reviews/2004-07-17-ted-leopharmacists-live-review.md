@@ -4,7 +4,7 @@ title: 'Ted Leo/Pharmacists – live review'
 date: 2004-07-17T21:00:00-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=28
+guid: /wp/?p=28
 permalink: /features/live-reviews/2004/07/ted-leopharmacists-live-review/
 categories:
   - concerts

@@ -4,18 +4,17 @@ title: KNUCKLE FEAR FOR GROWING BOYS.
 date: 2007-08-06T14:03:47-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=124
+guid: /wp/?p=124
 permalink: /playlists/2007/08/knuckle-fear-for-growing-boys/
-enclosure:
-  - |
-    http://www.radioslipstream.com/radio/slipstream-s4e12.mp3
-    1
-    audio/mpeg
-    a:2:{s:8:"duration";s:7:"2:02:58";s:5:"image";s:89:"http://www.radioslipstream.com/wp/wp-content/plugins/podpress//images/vpreview_center.png";}
+filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-s4e12.mp3
+grbg: 1
+  audio/mpeg
+  a:2:{s:8:"duration";s:7:"2:02:58";s:5:"image";s:89:"/images/vpreview_center.png";}
 categories:
   - faves
   - PLAYLISTS
 ---
+
 **originally aired August 6, 2007**
 
 World’s End Girlfriend / 100 Years Of Choke / Hurtbreak Wonderland (2007)

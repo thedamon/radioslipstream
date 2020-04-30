@@ -4,7 +4,7 @@ title: My Favourite Albums of 2008
 date: 2009-03-20T19:31:50-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/features/lists/2009/03/my-favourite-albums-of-2008/
+guid: /features/lists/2009/03/my-favourite-albums-of-2008/
 permalink: /features/lists/2009/03/my-favourite-albums-of-2008/
 categories:
   - lists and countdowns

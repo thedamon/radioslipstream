@@ -4,18 +4,17 @@ title: 042005 = Simmer Down Junket (+songs of the road)
 date: 2005-04-20T00:55:15-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=98
+guid: /wp/?p=98
 permalink: /playlists/2005/04/042005-simmer-down-junket-songs-of-the-road/
-enclosure:
-  - |
-    http://www.radioslipstream.com/radio/slipstream042005.mp3
-    45174784
-    audio/mpeg
-    a:2:{s:8:"duration";s:7:"3:02:34";s:5:"image";s:89:"http://www.radioslipstream.com/wp/wp-content/plugins/podpress//images/vpreview_center.png";}
+filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream042005.mp3
+grbg: 45174784
+  audio/mpeg
+  a:2:{s:8:"duration";s:7:"3:02:34";s:5:"image";s:89:"/images/vpreview_center.png";}
 categories:
   - PLAYLISTS
 ---
-([MP3](/radio/slipstream042005.mp3))
+
+([MP3](https://storage.cloud.google.com/radioslipstream/radio/slipstream042005.mp3))
 
 <strong>6 am</strong>
 

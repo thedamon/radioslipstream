@@ -1,25 +1,25 @@
 ---
 id: 96
-title: '103105:  skulk acres of frightened grey'
+title: "103105:  skulk acres of frightened grey"
 date: 2005-11-01T03:18:41-05:00
 author: damon
 excerpt: A spooky collection of songs that might remind one of Halloween
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=96
+guid: /wp/?p=96
 permalink: /playlists/2005/11/103105-skulk-acres-of-frightened-grey/
-enclosure:
-  - |
-    http://www.radioslipstream.com/radio//radio/slipstream103105.mp3
-    
-    audio/mpeg
-    a:1:{s:5:"image";s:89:"http://www.radioslipstream.com/wp/wp-content/plugins/podpress//images/vpreview_center.png";}
+filename:
+  https://storage.cloud.google.com/radioslipstream/radio//radio/slipstream103105.mp3
+
+  audio/mpeg
+  a:1:{s:5:"image";s:89:"/images/vpreview_center.png";}
 categories:
   - PLAYLISTS
   - themes and specials
 ---
+
 originally aired 2-4am November 1, 2005 on CFMU
 
-([mp3](/radio/slipstream103105.mp3))
+([mp3](https://storage.cloud.google.com/radioslipstream/radio/slipstream103105.mp3))
 
 **2 am**  
 Amon Tobin | Four Ton Mantis | Supermodified (2000)  

@@ -4,14 +4,14 @@ title: '032006: fickle potential from the harmyard'
 date: 2006-03-21T03:43:34-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=79
+guid: /wp/?p=79
 permalink: /playlists/2006/03/032006-fickle-potential-from-the-harmyard/
 categories:
   - PLAYLISTS
 ---
 originally aired 2-4am March 21, 2006 on CFMU
 
-[(mp3)](/radio/slipstream032006.mp3) [the last 1.5 songs are missing due to inexplicable winamp crash while I was elsewhere]
+[(mp3)](https://storage.cloud.google.com/radioslipstream/radio/slipstream032006.mp3) [the last 1.5 songs are missing due to inexplicable winamp crash while I was elsewhere]
 
 **2 am**  
 Morcheeba / Over and Over / Big Calm (1998)  

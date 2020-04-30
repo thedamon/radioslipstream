@@ -4,19 +4,18 @@ title: COURTING RUST PUPPETS
 date: 2008-08-07T23:15:07-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/playlists/2008/08/courting-rust-puppets/
+guid: /playlists/2008/08/courting-rust-puppets/
 permalink: /playlists/2008/08/courting-rust-puppets/
-enclosure:
-  - |
-    http://www.radioslipstream.com/radio/slipstream-103.mp3
-    144613999
-    audio/mpeg
-    a:2:{s:8:"duration";s:7:"2:00:30";s:5:"image";s:89:"http://www.radioslipstream.com/wp/wp-content/plugins/podpress//images/vpreview_center.png";}
+filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-103.mp3
+grbg: 144613999
+  audio/mpeg
+  a:2:{s:8:"duration";s:7:"2:00:30";s:5:"image";s:89:"/images/vpreview_center.png";}
 categories:
   - faves
   - PLAYLISTS
 ---
-Episode 103. [mp3](/radio/slipstream-103.mp3). [cue](/radio/slipstream-103.cue). Released August 07, 2008
+
+Episode 103. [mp3](https://storage.cloud.google.com/radioslipstream/radio/slipstream-103.mp3). [cue](https://storage.cloud.google.com/radioslipstream/radio/slipstream-103.cue). Released August 07, 2008
 
 _Maybe we’re getting into a bit of a groove with the long delays. I apologize. But hopefully you shan’t be disappointed with the wait. Hopefully the wait will even be seen to have been well worth it? This one starts off in the sun in the country and moves slowly through the quirky rural outskirts and then to the bustle and grime in the center of the city and finally up to the top of a tall building to leap off of._
 

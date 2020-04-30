@@ -4,19 +4,18 @@ title: ELECTRIC RUBBER DRUM
 date: 2010-07-24T10:58:13-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/playlists/2010/07/electric-rubber-drum/
+guid: /playlists/2010/07/electric-rubber-drum/
 mixcloud: electric-rubber-drum
-enclosure:
-  - |
-    http://www.radioslipstream.com/radio/slipstream-116.mp3
-    1
-    audio/mpeg
-    a:2:{s:8:"duration";s:7:"1:19:59";s:5:"image";s:89:"http://www.radioslipstream.com/wp/wp-content/plugins/podpress//images/vpreview_center.png";}
+filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-116.mp3
+grbg: 1
+  audio/mpeg
+  a:2:{s:8:"duration";s:7:"1:19:59";s:5:"image";s:89:"/images/vpreview_center.png";}
 categories:
   - MIXES
   - PLAYLISTS
 ---
-Episode 116. [mp3](/radio/slipstream-116.mp3). [cue](/radio/slipstream-116.cue). Released July 24, 2010.
+
+Episode 116. [mp3](https://storage.cloud.google.com/radioslipstream/radio/slipstream-116.mp3). [cue](https://storage.cloud.google.com/radioslipstream/radio/slipstream-116.cue). Released July 24, 2010.
 
 Ok. A few bits of news: First! New Radioslipstream finally after more than a year. Good. Second! No narration on this puppy, just music. Having some sound issues with the PC right now and not bothering with hooking up a mic. Would rather just get you the music. Because there’s no talking, I made this episode perfect length for a CD, so I guess it’s also a mix CD. Third! This is not the history of hip hop episode. Don’t worry about that. It’ll come when I feel like it and is dependent on resolving some issues with my hard drive. In the meantime we pick up right where we left off.
 

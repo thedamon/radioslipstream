@@ -4,14 +4,14 @@ title: '030606: the dissollution salsa'
 date: 2006-03-07T16:07:08-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=81
+guid: /wp/?p=81
 permalink: /playlists/2006/03/030606-the-dissollution-salsa/
 categories:
   - PLAYLISTS
 ---
 originally aired 2-4am March 7, 2006 on CFMU
 
-[(mp3)](/radio/slipstream060306.mp3)
+[(mp3)](https://storage.cloud.google.com/radioslipstream/radio/slipstream060306.mp3)
 
 **2 am**  
 [Sufjan Stevens / Come on! Feel the Illinoise / Illinois (2005)](/2005/07/06/we-laughed-at-the-beatitudes-of-a-thousand-lines/)  

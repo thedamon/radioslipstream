@@ -5,7 +5,7 @@ date: 2006-01-17T04:13:46-05:00
 author: damon
 excerpt: The top 111 of 2005 part 3
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=87
+guid: /wp/?p=87
 permalink: /playlists/2006/01/011606-the-top-eleventy-one-of-two-thousand-and-five-part-3/
 categories:
   - PLAYLISTS
@@ -13,7 +13,7 @@ categories:
 ---
 originally aired 2-4am January 17, 2006 on [CFMU](http://cfmu.mcmaster.ca)
 
-[(mp3)](/radio/slipstream011606.mp3)
+[(mp3)](https://storage.cloud.google.com/radioslipstream/radio/slipstream011606.mp3)
 
 Still? Yes goddamnit. This guy is nuts. Part 3 of the 111 album countdown.. and we all know the significance of 111 divided by 3! (not particularly anything, but absence is as important as presence). and Heeeeere we go!
 

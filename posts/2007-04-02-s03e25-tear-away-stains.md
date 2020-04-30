@@ -1,20 +1,19 @@
 ---
 id: 140
-title: 's03e25: tear away stains'
+title: "s03e25: tear away stains"
 date: 2007-04-02T18:06:55-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=140
+guid: /wp/?p=140
 permalink: /playlists/2007/04/s03e25-tear-away-stains/
-enclosure:
-  - |
-    http://www.radioslipstream.com/radio/slipstream-s3e25.mp3
-    30812160
-    audio/mpeg
-    a:2:{s:8:"duration";s:7:"2:04:41";s:5:"image";s:89:"http://www.radioslipstream.com/wp/wp-content/plugins/podpress//images/vpreview_center.png";}
+filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-s3e25.mp3
+grbg: 30812160
+  audio/mpeg
+  a:2:{s:8:"duration";s:7:"2:04:41";s:5:"image";s:89:"/images/vpreview_center.png";}
 categories:
   - PLAYLISTS
 ---
+
 <p class="note_content clearfix">
   Being the 25th episode of the 3rd season of the slipstream radio program. Originally aired from monday april 2 at midnight to 2am on tuesday on <a href="http://cfmu.mcmaster.ca" target="_blank" title="http://cfmu.mcmaster.ca">93.3 CFMU</a>.
 </p>

@@ -1,20 +1,19 @@
 ---
 id: 145
-title: 's03e20: slid out amongst the tongue-tied prophets'
+title: "s03e20: slid out amongst the tongue-tied prophets"
 date: 2007-02-26T18:15:52-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=145
+guid: /wp/?p=145
 permalink: /playlists/2007/02/s03e20-slid-out-amongst-the-tongue-tied-prophets/
-enclosure:
-  - |
-    http://www.radioslipstream.com/radio/slipstream-s3e20.mp3
-    29530112
-    audio/mpeg
-    a:2:{s:8:"duration";s:7:"2:00:13";s:5:"image";s:89:"http://www.radioslipstream.com/wp/wp-content/plugins/podpress//images/vpreview_center.png";}
+filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-s3e20.mp3
+grbg: 29530112
+  audio/mpeg
+  a:2:{s:8:"duration";s:7:"2:00:13";s:5:"image";s:89:"/images/vpreview_center.png";}
 categories:
   - PLAYLISTS
 ---
+
 <p class="note_content clearfix">
   originally aired from Monday February 26th at midnight for 2 hours until 2am on Tuesday on 93.3 CFMU.
 </p>

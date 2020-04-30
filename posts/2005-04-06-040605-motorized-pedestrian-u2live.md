@@ -4,12 +4,12 @@ title: '040605 – Motorized Pedestrian +U2live'
 date: 2005-04-06T14:40:20-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=100
+guid: /wp/?p=100
 permalink: /playlists/2005/04/040605-motorized-pedestrian-u2live/
 categories:
   - PLAYLISTS
 ---
-(<a href=“http://radioslipstream.com/radio/slipstream040605.mp3">MP3</a>)
+(<a href=“https://storage.cloud.google.com/radioslipstream/radio/slipstream040605.mp3">MP3</a>)
 
 **6 am** 
 

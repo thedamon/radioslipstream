@@ -4,17 +4,16 @@ title: OUT INTO DEAD AIR.
 date: 2007-08-27T14:00:51-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=122
+guid: /wp/?p=122
 permalink: /playlists/2007/08/out-into-dead-air/
-enclosure:
-  - |
-    http://www.radioslipstream.com/radio/slipstream-s4e14.mp3
-    112144384
-    audio/mpeg
-    a:2:{s:8:"duration";s:7:"1:55:33";s:5:"image";s:89:"http://www.radioslipstream.com/wp/wp-content/plugins/podpress//images/vpreview_center.png";}
+filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-s4e14.mp3
+grbg: 112144384
+  audio/mpeg
+  a:2:{s:8:"duration";s:7:"1:55:33";s:5:"image";s:89:"/images/vpreview_center.png";}
 categories:
   - PLAYLISTS
 ---
+
 **originally aired August 27, 2007**_The last episode of radioslipstream in the booth at CFMU before I move back to London. The podcast will continue, probably bi-weekly, unless the program director at CFMU is willing to let me keep the show on the air remotely, in which case I’ll be uploading new episodes as per usual, so long as they actually get played (see: last summer)._
 
 _The first hour is commentary-free due to extreme laptop fuckups at the beginning of the show._

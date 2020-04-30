@@ -4,7 +4,7 @@ title: Introducing The Slipstream
 date: 2005-01-05T20:39:08-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/notes/announcements/2005/01/introducing-the-slipstream/
+guid: /wp/notes/announcements/2005/01/introducing-the-slipstream/
 permalink: /notes/announcements/2005/01/introducing-the-slipstream/
 categories:
   - announcements

@@ -1,24 +1,23 @@
 ---
 id: 80
-title: '060313: tarry not in the off-white beige'
+title: "060313: tarry not in the off-white beige"
 date: 2006-03-14T04:13:22-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=80
+guid: /wp/?p=80
 permalink: /playlists/2006/03/060313-tarry-not-in-the-off-white-beige/
-enclosure:
-  - |
-    http://www.radioslipstream.com/radio/slipstream031306.mp3
-    30816256
-    audio/mpeg
-    a:2:{s:8:"duration";s:7:"2:08:33";s:5:"image";s:89:"http://www.radioslipstream.com/wp/wp-content/plugins/podpress//images/vpreview_center.png";}
+filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream031306.mp3
+grbg: 30816256
+  audio/mpeg
+  a:2:{s:8:"duration";s:7:"2:08:33";s:5:"image";s:89:"/images/vpreview_center.png";}
 categories:
   - faves
   - PLAYLISTS
 ---
+
 originally aired 2-4am March 14, 2006 on CFMU
 
-[(mp3)](/radio/slipstream031306.mp3)
+[(mp3)](https://storage.cloud.google.com/radioslipstream/radio/slipstream031306.mp3)
 
 **2 am**  
 Peace Orchestra / Who Am I / Peace Orchestra (1999)  

@@ -1,19 +1,20 @@
 ---
 id: 101
-title: '033005 – Umramaboutareachout'
+title: "033005 – Umramaboutareachout"
 date: 2005-03-30T14:42:13-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=101
+guid: /wp/?p=101
 permalink: /playlists/2005/03/033005-umramaboutareachout/
 categories:
   - PLAYLISTS
 ---
+
 A very special super-shortened version of the Slipstream featuring a final hour vaguely inspired by the McMaster Thespian Society’s production of Romeo and Juliet.
 
-(<a href=“/radio/slipstream033005.mp3">MP3</a>)
+(<a href="/radio/slipstream033005.mp3">MP3</a>)
 
-**7 am** 
+**7 am**
 
 Bill Haley and his Comets / (Tonight We’re Gonna) Rock Around the Clock / (1954)  
 Nina Simone / Sinnerman / Pastel Blues (1965)  
@@ -26,7 +27,7 @@ Roots Manuva / Clockwork / Brand New Second Hand (1999)
 Orbital / P.E.T.R.O.L. / In-Sides (1996)  
 Moloko / Forever More / Statues (2003)
 
-**8 am** 
+**8 am**
 
 Jens Lekman / If You Ever Need a Stranger (to Sing at your Wedding) / When I Said I Wanted to be your Dog (2004)  
 Bent / Chocolate Wings / Programmed to Love (2000)  

@@ -4,7 +4,7 @@ title: music and the internet
 date: 2007-12-07T10:29:28-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/notes/2007/12/music-and-the-internet/
+guid: /notes/2007/12/music-and-the-internet/
 permalink: /notes/2007/12/music-and-the-internet/
 categories:
   - NOTES

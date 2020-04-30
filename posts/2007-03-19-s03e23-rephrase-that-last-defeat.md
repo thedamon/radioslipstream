@@ -1,21 +1,20 @@
 ---
 id: 142
-title: 's03e23: rephrase that last defeat'
+title: "s03e23: rephrase that last defeat"
 date: 2007-03-19T18:10:52-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=142
+guid: /wp/?p=142
 permalink: /playlists/2007/03/s03e23-rephrase-that-last-defeat/
-enclosure:
-  - |
-    http://www.radioslipstream.com/radio/slipstream-s3e23.mp3
-    31557632
-    audio/mpeg
-    a:2:{s:8:"duration";s:7:"2:11:29";s:5:"image";s:89:"http://www.radioslipstream.com/wp/wp-content/plugins/podpress//images/vpreview_center.png";}
+filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-s3e23.mp3
+grbg: 31557632
+  audio/mpeg
+  a:2:{s:8:"duration";s:7:"2:11:29";s:5:"image";s:89:"/images/vpreview_center.png";}
 categories:
   - faves
   - PLAYLISTS
 ---
+
 originally aired from midnight monday march 19 to two on tuesday. on 93.3 FM CFMU. redefining radio. in your community.
 
 beyond <a href="/radio/slipstream-s3e23.mp3" target="_blank" title="/radio/slipstream-s3e23.mp3">this link</a> trembles a tiny mite of an audio recording that ye might easy miss were ye not to be lookin for’t  

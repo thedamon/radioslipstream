@@ -4,17 +4,16 @@ title: PSICOTIC EPITSODE.
 date: 2007-06-25T15:11:59-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=129
+guid: /wp/?p=129
 permalink: /playlists/2007/06/psicotic-epitsode/
-enclosure:
-  - |
-    http://www.radioslipstream.com/radio/slipstream-s4e07.mp3
-    125952000
-    audio/mpeg
-    a:2:{s:8:"duration";s:7:"2:09:15";s:5:"image";s:89:"http://www.radioslipstream.com/wp/wp-content/plugins/podpress//images/vpreview_center.png";}
+filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-s4e07.mp3
+grbg: 125952000
+  audio/mpeg
+  a:2:{s:8:"duration";s:7:"2:09:15";s:5:"image";s:89:"/images/vpreview_center.png";}
 categories:
   - PLAYLISTS
 ---
+
 **originally aired June 25, 2007**
 
 Susumu Yokota / Kodomotachi / Sakura (2000)  

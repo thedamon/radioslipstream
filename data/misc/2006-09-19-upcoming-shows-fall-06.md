@@ -4,7 +4,7 @@ title: upcoming shows. fall 06.
 date: 2006-09-19T15:06:46-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=2
+guid: /wp/?p=2
 permalink: /features/lists/2006/09/upcoming-shows-fall-06/
 categories:
   - concerts

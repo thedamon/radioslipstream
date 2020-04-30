@@ -1,17 +1,18 @@
 ---
 id: 110
-title: '011905 – Inverted Hopscotch (+great songs from movies)'
+title: "011905 – Inverted Hopscotch (+great songs from movies)"
 date: 2005-01-19T15:03:37-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=110
+guid: /wp/?p=110
 permalink: /playlists/2005/01/011905-inverted-hopscotch-great-songs-from-movies/
 categories:
   - PLAYLISTS
 ---
-(<a href=“/radio/slipstream011905.mp3">MP3</a>)
 
-**6 am** 
+(<a href="/radio/slipstream011905.mp3">MP3</a>)
+
+**6 am**
 
 Dick Dale and his Del Tones / Misirlou / Pulp Fiction  
 Cinematic Orchestra feat. Roots Manuva / All Things to All Men / Every Day  
@@ -39,7 +40,7 @@ Massive Attack / Angel / Snatch/Pi/Mezzanine
 The Soggy Bottom Boys / I Am a Man of Constant Sorrow / O Brother, Where Art Thou  
 Hans Zimmer and Lisa Gerrard / Now We Are Free / Gladiator
 
-**8 am** 
+**8 am**
 
 Lamb / Gorecki / Lamb  
 Sigur Ros / Staralfur / Agaetis Byrjun  

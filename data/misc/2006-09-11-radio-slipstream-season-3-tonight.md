@@ -4,7 +4,7 @@ title: 'radio slipstream – SEASON 3 – tonight'
 date: 2006-09-11T20:04:30-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=67
+guid: /wp/?p=67
 permalink: /notes/announcements/2006/09/radio-slipstream-season-3-tonight/
 categories:
   - announcements

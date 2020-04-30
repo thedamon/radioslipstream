@@ -1,22 +1,21 @@
 ---
 id: 143
-title: 's03e22: cum stains are the new black'
+title: "s03e22: cum stains are the new black"
 date: 2007-03-12T18:12:19-05:00
 author: damon
-excerpt: 'Only 7 songs tonight!  But they are all rather long, so it balances out.'
+excerpt: "Only 7 songs tonight!  But they are all rather long, so it balances out."
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=143
+guid: /wp/?p=143
 permalink: /playlists/2007/03/s03e22-cum-stains-are-the-new-black/
-enclosure:
-  - |
-    http://www.radioslipstream.com/radio/slipstream-s3e22.mp3
-    28825600
-    audio/mpeg
-    a:2:{s:8:"duration";s:7:"1:56:47";s:5:"image";s:89:"http://www.radioslipstream.com/wp/wp-content/plugins/podpress//images/vpreview_center.png";}
+filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-s3e22.mp3
+grbg: 28825600
+  audio/mpeg
+  a:2:{s:8:"duration";s:7:"1:56:47";s:5:"image";s:89:"/images/vpreview_center.png";}
 categories:
   - PLAYLISTS
   - themes and specials
 ---
+
 <p class="note_content clearfix">
   originally aired from monday march 12 at midnight to 2am on tuesday on 93.3 CFMU
 </p>

@@ -4,7 +4,7 @@ title: zombies! (voodoo style)
 date: 2007-11-30T22:16:32-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=166
+guid: /wp/?p=166
 permalink: /notes/2007/11/zombies-voodoo-style/
 categories:
   - NOTES

@@ -4,7 +4,7 @@ title: Quannum. Kool Haus. Apr 12.
 date: 2004-04-12T21:00:00-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=32
+guid: /wp/?p=32
 permalink: /features/live-reviews/2004/04/tuesday-april-13/
 categories:
   - concerts

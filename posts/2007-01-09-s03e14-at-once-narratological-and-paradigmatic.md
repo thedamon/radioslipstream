@@ -1,23 +1,22 @@
 ---
 id: 52
-title: 's03e14: at once narratological and paradigmatic'
+title: "s03e14: at once narratological and paradigmatic"
 date: 2007-01-09T00:30:43-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=52
+guid: /wp/?p=52
 permalink: /playlists/2007/01/s03e14-at-once-narratological-and-paradigmatic/
-enclosure:
-  - |
-    http://radioslipstream.com/radio/slipstream-s3e14.mp3
-    30631936
-    audio/mpeg
+filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-s3e14.mp3
+grbg: 30631936
+  audio/mpeg
 categories:
   - faves
   - PLAYLISTS
 ---
+
 originally aired Monday January 8, midnight for 2 hours to 2am tuesday.
 
-([surprise](http://radioslipstream.com/radio/slipstream-s3e14.mp3)! (WARNING!!! ACHTUNG! SURPRISE MAY OR MAY NOT BE MP3 OF LAST NIGHT’S SHOW. THE OWNERS OF THIS WEBSITE ASSUME NO RESPONSIBILITY FOR ANY DAMAGES TO YOUR COMPUTER AS A RESULT OF DOWNLOADING OR LISTENING TO WHATEVER HAPPENS TO BE AT THE END OF THE PRECEDING LINK, OR FOR THE 2×4 THAT’S ABOUT TO HIT YOU IN THE.. OWW. OH. … WOW.))
+([surprise](https://storage.cloud.google.com/radioslipstream/radio/slipstream-s3e14.mp3)! (WARNING!!! ACHTUNG! SURPRISE MAY OR MAY NOT BE MP3 OF LAST NIGHT’S SHOW. THE OWNERS OF THIS WEBSITE ASSUME NO RESPONSIBILITY FOR ANY DAMAGES TO YOUR COMPUTER AS A RESULT OF DOWNLOADING OR LISTENING TO WHATEVER HAPPENS TO BE AT THE END OF THE PRECEDING LINK, OR FOR THE 2×4 THAT’S ABOUT TO HIT YOU IN THE.. OWW. OH. … WOW.))
 
 -midnight-  
 Anders Ilar / Clouds Are Made In Factories / Nightwidth (2006)  

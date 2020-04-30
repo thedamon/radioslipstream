@@ -4,7 +4,7 @@ title: a slight change of pace
 date: 2008-12-24T22:40:09-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/notes/announcements/2008/12/a-slight-change-of-pace/
+guid: /notes/announcements/2008/12/a-slight-change-of-pace/
 permalink: /notes/announcements/2008/12/a-slight-change-of-pace/
 categories:
   - announcements

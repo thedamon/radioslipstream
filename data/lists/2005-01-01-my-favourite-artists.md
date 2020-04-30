@@ -4,7 +4,7 @@ title: My Favourite Artists
 date: 2005-01-01T19:21:47-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=7
+guid: /wp/?p=7
 permalink: /features/lists/2005/01/my-favourite-artists/
 categories:
   - lists and countdowns

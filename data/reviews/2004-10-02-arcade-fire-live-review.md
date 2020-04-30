@@ -4,7 +4,7 @@ title: Arcade Fire live review
 date: 2004-10-02T21:00:00-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=25
+guid: /wp/?p=25
 permalink: /features/live-reviews/2004/10/arcade-fire-live-review/
 categories:
   - concerts

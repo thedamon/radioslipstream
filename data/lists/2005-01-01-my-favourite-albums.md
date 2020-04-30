@@ -4,7 +4,7 @@ title: My Favourite Albums
 date: 2005-01-01T19:37:10-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=6
+guid: /wp/?p=6
 permalink: /features/lists/2005/01/my-favourite-albums/
 categories:
   - lists and countdowns

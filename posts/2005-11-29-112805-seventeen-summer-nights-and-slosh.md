@@ -4,14 +4,14 @@ title: '112805: seventeen summer nights and slosh'
 date: 2005-11-29T02:52:56-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=92
+guid: /wp/?p=92
 permalink: /playlists/2005/11/112805-seventeen-summer-nights-and-slosh/
 categories:
   - PLAYLISTS
 ---
 originally aired 2-4am November 29, 2005 on CFMU
 
-[(mp3)](/radio/slipstream112805.mp3) 
+[(mp3)](https://storage.cloud.google.com/radioslipstream/radio/slipstream112805.mp3) 
 
 **2 am**  
 Thomas Brinkmann / Margins / Lucky Hands (2005)  

@@ -4,7 +4,7 @@ title: 'The Wrens – Meadowlands'
 date: 2004-08-23T22:19:37-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=19
+guid: /wp/?p=19
 permalink: /features/album-reviews/2004/08/the-wrens-meadowlands/
 categories:
   - album reviews

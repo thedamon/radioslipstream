@@ -1,17 +1,18 @@
 ---
 id: 103
-title: '031605 – Caught’n’Crushcrashed t’gether in an empty street (+angels with synthesizers)'
+title: "031605 – Caught’n’Crushcrashed t’gether in an empty street (+angels with synthesizers)"
 date: 2005-03-16T14:50:26-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=103
+guid: /wp/?p=103
 permalink: /playlists/2005/03/031605-caughtncrushcrashed-tgether-in-an-empty-street-angels-with-synthesizers/
 categories:
   - PLAYLISTS
 ---
-(<a href=“/radio/slipstream031605.mp3">MP3</a>)
 
-**6 am** 
+(<a href="/radio/slipstream031605.mp3">MP3</a>)
+
+**6 am**
 
 Animal Collective / Leaf House / Sung Tongs (2004)  
 Underworld / MMM… Skyscraper, I Love You / Dubnobasswithmyheadman (1994)  
@@ -22,7 +23,7 @@ T&eacute;l&eacute;popmusik / Hollywood on my Toothpaste/ / Angel Milk (2005)
 Nits / Dreams / Da Da Da (1995)  
 Talk Talk / Life’s What You Make It / The Colour Of Spring (1986)
 
-**7 am – Angels with Synthesizers** 
+**7 am – Angels with Synthesizers**
 
 Orbital / Halcyon & On & On / Orbital 2 (The Brown Album) (1992)  
 Lamb / Heaven / What Sound (2001)  
@@ -36,7 +37,7 @@ Vangelis / Rachel’s Song / Blade Runner OST (1992)
 Mandalay / Beautiful (7″ Canny Mix) / CD Single (1998)  
 Craig Armstrong w/ Liz Fraser / This Love / The Space Between Us (1998)
 
-**8 am** 
+**8 am**
 
 Daedelus / Thanatopsis / Exquisite Corpse (2005)  
 13+God / Soft Atlas / Men of Station EP (2005)  

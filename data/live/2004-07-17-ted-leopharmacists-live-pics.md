@@ -4,7 +4,7 @@ title: 'Ted Leo/Pharmacists – live pics'
 date: 2004-07-17T13:56:04-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=29
+guid: /wp/?p=29
 permalink: /features/live-reviews/2004/07/ted-leopharmacists-live-pics/
 categories:
   - concerts

@@ -4,18 +4,17 @@ title: THE CITRUS ADVANTAGE.
 date: 2009-01-17T17:04:16-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/playlists/2009/01/the-citrus-advantage/
+guid: /playlists/2009/01/the-citrus-advantage/
 permalink: /playlists/2009/01/the-citrus-advantage/
-enclosure:
-  - |
-    http://www.radioslipstream.com/radio/slipstream-108.mp3
-    1
-    audio/mpeg
-    a:2:{s:8:"duration";s:7:"0:59:48";s:5:"image";s:89:"http://www.radioslipstream.com/wp/wp-content/plugins/podpress//images/vpreview_center.png";}
+filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-108.mp3
+grbg: 1
+  audio/mpeg
+  a:2:{s:8:"duration";s:7:"0:59:48";s:5:"image";s:89:"/images/vpreview_center.png";}
 categories:
   - PLAYLISTS
 ---
-Episode 108. [mp3](/radio/slipstream-108.mp3). [cue](/radio/slipstream-108.cue). Released January 17, 2009.
+
+Episode 108. [mp3](https://storage.cloud.google.com/radioslipstream/radio/slipstream-108.mp3). [cue](https://storage.cloud.google.com/radioslipstream/radio/slipstream-108.cue). Released January 17, 2009.
 
 _Continuing right where we left off, 80s tinged synthpop gives way to strangely catchy psychedelic folkpop, and it all caps off with an opulent synthesizer soundtrack finish._
 

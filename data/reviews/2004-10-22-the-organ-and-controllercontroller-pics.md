@@ -4,7 +4,7 @@ title: The Organ and Controller.Controller pics
 date: 2004-10-22T14:23:25-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=23
+guid: /wp/?p=23
 permalink: /features/live-reviews/2004/10/the-organ-and-controllercontroller-pics/
 categories:
   - concerts

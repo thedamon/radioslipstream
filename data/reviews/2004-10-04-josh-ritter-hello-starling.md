@@ -4,7 +4,7 @@ title: 'Josh Ritter – Hello Starling'
 date: 2004-10-04T22:24:13-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=16
+guid: /wp/?p=16
 permalink: /features/album-reviews/2004/10/josh-ritter-hello-starling/
 categories:
   - album reviews

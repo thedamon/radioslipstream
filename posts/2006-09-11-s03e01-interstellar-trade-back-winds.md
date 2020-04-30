@@ -1,23 +1,22 @@
 ---
 id: 66
-title: 's03e01: interstellar trade-back winds'
+title: "s03e01: interstellar trade-back winds"
 date: 2006-09-11T23:23:22-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=66
+guid: /wp/?p=66
 permalink: /playlists/2006/09/s03e01-interstellar-trade-back-winds/
-enclosure:
-  - |
-    http://radioslipstream.com/radio/slipstream-s3e01.mp3
-    30820352
-    audio/mpeg
+filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-s3e01.mp3
+grbg: 30820352
+  audio/mpeg
 categories:
   - faves
   - PLAYLISTS
 ---
+
 _originally aired September 11, 2006 on [93.3 CFMU](http://cfmu.mcmaster.ca)_
 
-(you can now relive the moments in glorious low definition [“MP3″!](http://radioslipstream.com/radio/slipstream-s3e01.mp3))
+(you can now relive the moments in glorious low definition [“MP3″!](https://storage.cloud.google.com/radioslipstream/radio/slipstream-s3e01.mp3))
 
 -midnight-  
 Jürgen Paape / So Weit Wie Noch Nie / So Weit Wie Noch Nie (2003)  

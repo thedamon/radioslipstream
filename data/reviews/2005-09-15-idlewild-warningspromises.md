@@ -4,7 +4,7 @@ title: 'Idlewild – Warnings/Promises'
 date: 2005-09-15T12:27:01-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=9
+guid: /wp/?p=9
 permalink: /features/album-reviews/2005/09/idlewild-warningspromises/
 categories:
   - album reviews

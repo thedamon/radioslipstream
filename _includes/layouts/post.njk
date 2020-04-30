@@ -2,25 +2,33 @@
 layout: layouts/base.njk
 templateClass: tmpl-post
 ---
-<h1>{{ title }}</h1>
-
+<h1 class="post-title">{{ title }}</h1>
+<div class="post-meta">
+  <time>{{ date | readableDate}}</time>
+</div>
 {%- if mixcloud -%}
-  <iframe width="100%" height="400" src="https://www.mixcloud.com/widget/iframe/?light=1&feed=%2Fradioslipstream%2F{{ mixcloud }}%2F" frameborder="0"></iframe>
+<iframe width="100%" height="400"
+  src="https://www.mixcloud.com/widget/iframe/?light=1&feed=%2Fradioslipstream%2F{{ mixcloud }}%2F"
+  frameborder="0"></iframe>
+{%- endif -%}
+
+{%- if filename -%}
+<audio controls src="{{ filename }}"></audio>
 {%- endif -%}
 
 {{ content | safe }}
 
 <div class="post-footer">
-{% if prevPost.url %}
+  {% if prevPost.url %}
   <p class="pref">
-    <strong>← Previous</strong>: 
+    <strong>← Previous</strong>:
     <a class="previous" href="{{ prevPost.url }}">{{ prevPost.data.title }}</a>
   </p>
-{% endif %}
-{% if nextPost.url %}
+  {% endif %}
+  {% if nextPost.url %}
   <p class="next">
-    <strong>Next</strong>: 
+    <strong>Next</strong>:
     <a class="next" href="{{ nextPost.url }}">{{ nextPost.data.title }} </a> <strong>→</strong>
   </p>
-{% endif %}
+  {% endif %}
 </div>

@@ -4,41 +4,40 @@ title: FLOAT SOME. JET SOME.
 date: 2014-01-29T22:36:03-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/?p=403
+guid: 403
 mixcloud: float-some-jet-some
-enclosure:
-  - |
-    http://www.radioslipstream.com/radio/slipstream-140.mp3
-    110643193
-    audio/mpeg
-    a:1:{s:8:"duration";s:8:"01:16:50";}
+filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-140.mp3
+grbg: 110643193
+  audio/mpeg
+  a:1:{s:8:"duration";s:8:"01:16:50";}
 categories:
   - PLAYLISTS
 ---
-Episode 140. [mp3](/radio/slipstream-140.mp3). Released January 28, 2014.
+
+Episode 140. [mp3](https://storage.cloud.google.com/radioslipstream/radio/slipstream-140.mp3). Released January 28, 2014.
 
 Some of the best hip hop tracks from this past year and a bit. Also some stone cold motherfucking classics. Starts out hard, but the back 3 quarters or so is pretty chill and melodic. You can get down with that, right?
 
-  * Kanye West / Black Skinhead / Yeezus (2013)
-  * Pharoahe Monch / Damage (2012)
-  * A$AP Rocky / 1 Train (feat. Kendrick Lamar, Joey Bada$$, Yelawolf, Danny Brown, Action Bronson & Big K.R.I.T.) / Long.Live.A$AP (2013)
-  * Aesop Rock / Gopher Guts / Skelethon (2012)
-  * Ghostface Killah & Adrian Younge / The Rise of the Ghostface Killah (feat. Masta Killa & Killa Sin) / Twelve Reasons To Die (2013)
-  * De La Soul / Stakes Is High / Stakes Is High (1996)
-  * Slum Village / Get Dis Money / Fantastic Volume II (1998)
-  * Kendrick Lamar / Sing About Me, Im Dying Of Thirst / Good Kid M.A.A.D City (2012)
-  * Big Sean / Control (HOF) (feat. Kendrick Lamar & Jay Electronica) (2013)
-  * T.I. / Sorry (feat. Andre 3000) / Trouble Man: Heavy Is the Head (2012)
-  * Kevin Gates / 4:30am / Stranger Than Fiction (2013)
-  * Killer Mike / Willie Burke Sherwood / R.A.P. Music (2012)
-  * CunninLynguists / Predormitum (Prologue) / Oneirology (2011)
-  * Black Milk / Sunday’s Best / No Poison No Paradise (2013)
-  * Outkast / Myintrotoletuknow / Southernplayalisticadillacmuzik (1994)
-  * Danny Brown / Grown Up (2012)
-  * A Tribe Called Quest / Can I Kick It? / People’s Instinctive Travels and the Paths of Rhythm (1990)
-  * Black Star / Definition / Mos Def & Talib Kweli are Black Star (1998)
-  * Big K.R.I.T. / Shine On (feat. Bun B) / King Remembered In Time (2013)
-  * Chance The Rapper / Chain Smoker / Acid Rap (2013) 
+- Kanye West / Black Skinhead / Yeezus (2013)
+- Pharoahe Monch / Damage (2012)
+- A$AP Rocky / 1 Train (feat. Kendrick Lamar, Joey Bada$$, Yelawolf, Danny Brown, Action Bronson & Big K.R.I.T.) / Long.Live.A$AP (2013)
+- Aesop Rock / Gopher Guts / Skelethon (2012)
+- Ghostface Killah & Adrian Younge / The Rise of the Ghostface Killah (feat. Masta Killa & Killa Sin) / Twelve Reasons To Die (2013)
+- De La Soul / Stakes Is High / Stakes Is High (1996)
+- Slum Village / Get Dis Money / Fantastic Volume II (1998)
+- Kendrick Lamar / Sing About Me, Im Dying Of Thirst / Good Kid M.A.A.D City (2012)
+- Big Sean / Control (HOF) (feat. Kendrick Lamar & Jay Electronica) (2013)
+- T.I. / Sorry (feat. Andre 3000) / Trouble Man: Heavy Is the Head (2012)
+- Kevin Gates / 4:30am / Stranger Than Fiction (2013)
+- Killer Mike / Willie Burke Sherwood / R.A.P. Music (2012)
+- CunninLynguists / Predormitum (Prologue) / Oneirology (2011)
+- Black Milk / Sunday’s Best / No Poison No Paradise (2013)
+- Outkast / Myintrotoletuknow / Southernplayalisticadillacmuzik (1994)
+- Danny Brown / Grown Up (2012)
+- A Tribe Called Quest / Can I Kick It? / People’s Instinctive Travels and the Paths of Rhythm (1990)
+- Black Star / Definition / Mos Def & Talib Kweli are Black Star (1998)
+- Big K.R.I.T. / Shine On (feat. Bun B) / King Remembered In Time (2013)
+- Chance The Rapper / Chain Smoker / Acid Rap (2013)
 
 Notes:  
 – I was bound to play some Kanye, right? I feeel like I found Yeezus more underwhelming than most, but this track is toight.  

@@ -243,6 +243,16 @@ a[href].tag:visited {
 }
 
 /* Single posts */
+.post-title {
+  text-shadow: -4px 6px 0px rgba(0, 0, 0, 0.2);
+}
+
+.post-meta {
+  display: flex;
+  margin-top: -24px;
+  margin-bottom: 12px;
+}
+
 .post-footer {
   display: flex;
   justify-content: space-between;
@@ -254,4 +264,8 @@ a[href].tag:visited {
 .post-footer p {
   display: inline;
   margin: 0;
+}
+
+.post-meta {
+  font-family: 'Courier New', Courier, monospace;
 }

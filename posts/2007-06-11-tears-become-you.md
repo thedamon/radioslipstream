@@ -4,16 +4,15 @@ title: TEARS BECOME YOU.
 date: 2007-06-11T15:13:34-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=131
+guid: /wp/?p=131
 permalink: /playlists/2007/06/tears-become-you/
-enclosure:
-  - |
-    http://radioslipstream.com/radio/slipstream-s4e05.mp3
-    115163136
-    audio/mpeg
+filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-s4e05.mp3
+grbg: 115163136
+  audio/mpeg
 categories:
   - PLAYLISTS
 ---
+
 **originally aired June 11, 2007**
 
 Trentemoller / Take Me Into Your Skin / The Last Resort (2006)  

@@ -4,19 +4,18 @@ title: BENEATH THE CHILL AND WINDY.
 date: 2007-10-22T13:44:54-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=116
+guid: /wp/?p=116
 permalink: /playlists/2007/10/beneath-the-chill-and-windy/
-enclosure:
-  - |
-    http://www.radioslipstream.com/radio/slipstream-91.mp3
-    142918381
-    audio/mpeg
-    a:2:{s:8:"duration";s:7:"2:00:00";s:5:"image";s:89:"http://www.radioslipstream.com/wp/wp-content/plugins/podpress//images/vpreview_center.png";}
+filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-91.mp3
+grbg: 142918381
+  audio/mpeg
+  a:2:{s:8:"duration";s:7:"2:00:00";s:5:"image";s:89:"/images/vpreview_center.png";}
 categories:
   - faves
   - PLAYLISTS
 ---
-**[Episode 91](/radio/slipstream-91.mp3). originally aired October 22, 2007**
+
+**[Episode 91](https://storage.cloud.google.com/radioslipstream/radio/slipstream-91.mp3). originally aired October 22, 2007**
 
 Murcof / Reflejo / Remembranza (2005)  
 Polmo Polpo / Rottura / The Science of Breath (2002)

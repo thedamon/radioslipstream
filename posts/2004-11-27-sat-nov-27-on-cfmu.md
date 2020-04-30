@@ -4,7 +4,7 @@ title: 'Sat. Nov 27 – on CFMU!'
 date: 2004-11-27T18:35:26-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=114
+guid: /wp/?p=114
 permalink: /playlists/2004/11/sat-nov-27-on-cfmu/
 categories:
   - PLAYLISTS

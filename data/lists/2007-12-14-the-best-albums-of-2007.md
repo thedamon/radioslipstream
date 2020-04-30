@@ -4,7 +4,7 @@ title: the best albums of 2007
 date: 2007-12-14T18:21:46-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/notes/2007/12/the-best-albums-of-2007/
+guid: /notes/2007/12/the-best-albums-of-2007/
 permalink: /notes/2007/12/the-best-albums-of-2007/
 categories:
   - NOTES

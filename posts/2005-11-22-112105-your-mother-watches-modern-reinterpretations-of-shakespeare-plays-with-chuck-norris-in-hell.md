@@ -5,7 +5,7 @@ date: 2005-11-22T03:02:55-05:00
 author: damon
 excerpt: 'Various songs inspired by the McMaster Fall Major Production, Henry V.  Basically, it amounts to a few songs from the playitself and a lot of politically charged songs about war.'
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=93
+guid: /wp/?p=93
 permalink: /playlists/2005/11/112105-your-mother-watches-modern-reinterpretations-of-shakespeare-plays-with-chuck-norris-in-hell/
 categories:
   - PLAYLISTS
@@ -13,7 +13,7 @@ categories:
 ---
 originally aired 2-4am November 22, 2005 on CFMU
 
-[(mp3)](/radio/slipstream112105.mp3) 
+[(mp3)](https://storage.cloud.google.com/radioslipstream/radio/slipstream112105.mp3) 
 
 **2 am**  
 Rob Porter / The Designated Patient / Henry V (2005)  

@@ -4,7 +4,7 @@ title: 'Arists that I’ve seen live'
 date: 2007-01-01T19:43:02-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=5
+guid: /wp/?p=5
 permalink: /features/lists/2007/01/arists-that-ive-seen-live/
 categories:
   - lists and countdowns

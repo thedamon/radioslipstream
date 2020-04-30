@@ -1,21 +1,20 @@
 ---
 id: 139
-title: 's03e26: yet somehow, tomorrow was just like yesterday'
+title: "s03e26: yet somehow, tomorrow was just like yesterday"
 date: 2007-04-16T16:45:06-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=139
+guid: /wp/?p=139
 permalink: /playlists/2007/04/s03e26-yet-somehow-tomorrow-was-just-like-yesterday/
-enclosure:
-  - |
-    http://www.radioslipstream.com/radio/slipstream-s3e26.mp3
-    31324160
-    audio/mpeg
-    a:2:{s:8:"duration";s:7:"2:10:30";s:5:"image";s:89:"http://www.radioslipstream.com/wp/wp-content/plugins/podpress//images/vpreview_center.png";}
+filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-s3e26.mp3
+grbg: 31324160
+  audio/mpeg
+  a:2:{s:8:"duration";s:7:"2:10:30";s:5:"image";s:89:"/images/vpreview_center.png";}
 categories:
   - faves
   - PLAYLISTS
 ---
+
 Being the 26th episode of the 3rd season of the slipstream radio program. Originally aired from monday april 16 at midnight to 2am on tuesday on <a href="http://cfmu.mcmaster.ca" target="_blank" title="http://cfmu.mcmaster.ca">93.3 CFMU</a>.
 
 (Hrrrm. Marglespirt. Effrindaddlegibbet mick chooli. Spladgot oofen hyszen. … . <a href="/radio/slipstream-s3e26.mp3" target="_blank" title="/radio/slipstream-s3e26.mp3">Listen!</a>)  

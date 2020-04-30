@@ -1,23 +1,22 @@
 ---
 id: 54
-title: 's03e12: fuzzed out back and keening'
+title: "s03e12: fuzzed out back and keening"
 date: 2006-12-05T00:57:13-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=54
+guid: /wp/?p=54
 permalink: /playlists/2006/12/s03e12-fuzzed-out-back-and-keening/
-enclosure:
-  - |
-    http://radioslipstream.com/radio/slipstream-s3e12.mp3
-    30517248
-    audio/mpeg
-    
+filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-s3e12.mp3
+grbg: 30517248
+  audio/mpeg
+
 categories:
   - PLAYLISTS
 ---
+
 originally aired midnight Dec 4 to 2am Dec 5 on [93.3 CFMU](http://cfmu.mcmaster.ca)
 
-(Oh sorry ma’am, did you want an [mp3](http://radioslipstream.com/radio/slipstream-s3e12.mp3) with your sandwich?)
+(Oh sorry ma’am, did you want an [mp3](https://storage.cloud.google.com/radioslipstream/radio/slipstream-s3e12.mp3) with your sandwich?)
 
 Luomo / Really Don’t Mind / Paper Tigers (2006)  
 Herbert / Addiction / Bodily Functions (2001)  

@@ -4,7 +4,7 @@ title: 'Beneath Augusta: You Gotta Come Down Sometime'
 date: 2004-11-24T22:27:53-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=12
+guid: /wp/?p=12
 permalink: /features/album-reviews/2004/11/beneath-augusta-you-gotta-come-down-sometime/
 categories:
   - album reviews

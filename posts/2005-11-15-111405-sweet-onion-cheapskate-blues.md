@@ -4,14 +4,14 @@ title: '111405: sweet onion cheapskate blues'
 date: 2005-11-15T01:53:56-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=94
+guid: /wp/?p=94
 permalink: /playlists/2005/11/111405-sweet-onion-cheapskate-blues/
 categories:
   - PLAYLISTS
 ---
 originally aired 2-4am November 15, 2005 on CFMU
 
-[(mp3)](/radio/slipstream111405.mp3) 
+[(mp3)](https://storage.cloud.google.com/radioslipstream/radio/slipstream111405.mp3) 
 
 **2 am**  
 Omar Faruk Tekbilek / Shashkin (Hefner Remix) (2001)  

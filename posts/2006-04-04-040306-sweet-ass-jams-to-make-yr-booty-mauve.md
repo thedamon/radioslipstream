@@ -5,7 +5,7 @@ date: 2006-04-04T03:06:44-05:00
 author: damon
 excerpt: This is sorta based around the DJing gig I did for the theatre and film semi formal (with the help of Marco. or really it was more like I was helping him). Only about half the songs here actually got played, but the other half I would sure have liked to.
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=77
+guid: /wp/?p=77
 permalink: /playlists/2006/04/040306-sweet-ass-jams-to-make-yr-booty-mauve/
 categories:
   - PLAYLISTS
@@ -13,7 +13,7 @@ categories:
 ---
 originally aired 2-4am April 4, 2006 on 93.3 CFMU
 
-[(mp3)](/radio/slipstream040306.mp3)
+[(mp3)](https://storage.cloud.google.com/radioslipstream/radio/slipstream040306.mp3)
 
 **2 am**  
 Coldcut / Everything Is Under Control / Sound Mirrors (2006)  

@@ -1,26 +1,25 @@
 ---
 id: 97
-title: '102405: red embers remembered'
+title: "102405: red embers remembered"
 date: 2005-10-24T22:09:18-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=97
+guid: /wp/?p=97
 permalink: /playlists/2005/10/102405-red-embers-remembered/
-enclosure:
-  - |
-    http://www.radioslipstream.com/radio/slipstream102405.mp3
-    30941184
-    audio/mpeg
-    a:2:{s:8:"duration";s:7:"2:08:55";s:5:"image";s:89:"http://www.radioslipstream.com/wp/wp-content/plugins/podpress//images/vpreview_center.png";}
+filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream102405.mp3
+grbg: 30941184
+  audio/mpeg
+  a:2:{s:8:"duration";s:7:"2:08:55";s:5:"image";s:89:"/images/vpreview_center.png";}
 categories:
   - faves
   - PLAYLISTS
 ---
+
 originally aired 2-4am October 25, 2005 on CFMU
 
 oi, mates! it’s le season premiere! roast me a kipper and flay me a jambo!
 
-([mp3](/radio/slipstream102405.mp3)) [the file may be slightly mucked but should be fully usable]
+([mp3](https://storage.cloud.google.com/radioslipstream/radio/slipstream102405.mp3)) [the file may be slightly mucked but should be fully usable]
 
 **2 am**  
 U2 vs Lyrics Born / Callin’ On Sunday / Partyben (2004)  

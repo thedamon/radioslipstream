@@ -5,17 +5,16 @@ date: 2005-03-19T23:58:53-05:00
 author: damon
 excerpt: This may or may not have been made with someone in mind. Several months on down the road, that person is much less in mind, I have no particular regrets, and a really kickass mix cd came of it.
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=40
+guid: /wp/?p=40
 permalink: /mixes/2005/03/whenever-i-might-find-her/
-enclosure:
-  - |
-    http://www.radioslipstream.com/radio/mixes/whenever_i_might_find_her.mp3
-    90721288
-    audio/mpeg
-    a:2:{s:8:"duration";s:7:"1:19:36";s:5:"image";s:89:"http://www.radioslipstream.com/wp/wp-content/plugins/podpress//images/vpreview_center.png";}
+filename: https://storage.cloud.google.com/radioslipstream/radio/mixes/whenever_i_might_find_her.mp3
+grbg: 90721288
+  audio/mpeg
+  a:2:{s:8:"duration";s:7:"1:19:36";s:5:"image";s:89:"/images/vpreview_center.png";}
 categories:
   - MIXES
 ---
+
 This may or may not have been made with someone in mind. Several months on down the road, that person is much less in mind, I have no particular regrets, and a really kickass mix cd came of it.
 
 01 – Doves – Pounding [from The Last Broadcast, 2002]  

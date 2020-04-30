@@ -4,7 +4,7 @@ title: 'CunninLynguists – Dirty Acres'
 date: 2007-12-04T19:12:59-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/features/album-reviews/2007/12/cunninlynguists-dirty-acres/
+guid: /features/album-reviews/2007/12/cunninlynguists-dirty-acres/
 permalink: /features/album-reviews/2007/12/cunninlynguists-dirty-acres/
 categories:
   - album reviews

@@ -4,7 +4,7 @@ title: 'The Sadies – Favourite Colours'
 date: 2004-09-21T22:21:47-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=18
+guid: /wp/?p=18
 permalink: /features/album-reviews/2004/09/the-sadies-favourite-colours/
 categories:
   - album reviews

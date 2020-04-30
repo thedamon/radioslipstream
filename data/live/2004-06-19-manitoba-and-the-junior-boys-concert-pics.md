@@ -4,7 +4,7 @@ title: Manitoba and the Junior Boys concert pics
 date: 2004-06-19T14:57:14-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=30
+guid: /wp/?p=30
 permalink: /features/live-reviews/2004/06/manitoba-and-the-junior-boys-concert-pics/
 categories:
   - concerts

@@ -4,20 +4,13 @@ title: GOGGLEFLEX BONJOUR.
 date: 2007-06-18T15:12:55-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=130
+guid: /wp/?p=130
 permalink: /playlists/2007/06/goggleflex-bonjour/
-enclosure:
-  - |
-    http://radioslipstream.com/radio/slipstream-s4e06.mp3
-    113924096
-    audio/mpeg
-  - |
-    http://radioslipstream.com/radio/slipstream-s4e06.mp3
-    113924096
-    audio/mpeg
+filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-s4e06.mp3
 categories:
   - PLAYLISTS
 ---
+
 **originally aired June 18, 2007**
 
 Stars Of The Lid / Dungtitled (In A Major) / And Their Refinement Of The Decline (2007)  

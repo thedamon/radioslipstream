@@ -4,7 +4,7 @@ title: 'Citizen Cope – The Clarence Greenwood Recordings'
 date: 2004-09-26T22:23:07-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=17
+guid: /wp/?p=17
 permalink: /features/album-reviews/2004/09/citizen-cope-the-clarence-greenwood-recordings/
 categories:
   - album reviews

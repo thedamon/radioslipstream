@@ -4,7 +4,7 @@ title: the new www.radioslipstream.com
 date: 2007-12-05T21:59:48-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/notes/announcements/2007/12/the-new-wwwradioslipstreamcom/
+guid: /notes/announcements/2007/12/the-new-wwwradioslipstreamcom/
 permalink: /notes/announcements/2007/12/the-new-wwwradioslipstreamcom/
 categories:
   - announcements

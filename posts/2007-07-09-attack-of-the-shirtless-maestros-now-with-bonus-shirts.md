@@ -4,17 +4,16 @@ title: ATTACK OF THE SHIRTLESS MAESTROS! (NOW WITH BONUS SHIRTS)
 date: 2007-07-09T15:10:05-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=128
+guid: /wp/?p=128
 permalink: /playlists/2007/07/attack-of-the-shirtless-maestros-now-with-bonus-shirts/
-enclosure:
-  - |
-    http://www.radioslipstream.com/radio/slipstream-s4e08.mp3
-    116318208
-    audio/mpeg
-    a:2:{s:8:"duration";s:7:"2:01:10";s:5:"image";s:89:"http://www.radioslipstream.com/wp/wp-content/plugins/podpress//images/vpreview_center.png";}
+filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-s4e08.mp3
+grbg: 116318208
+  audio/mpeg
+  a:2:{s:8:"duration";s:7:"2:01:10";s:5:"image";s:89:"/images/vpreview_center.png";}
 categories:
   - PLAYLISTS
 ---
+
 **originally aired July 9, 2007**
 
 Interpol / Pioneer To The Falls / Our Love To Admire (2007)  

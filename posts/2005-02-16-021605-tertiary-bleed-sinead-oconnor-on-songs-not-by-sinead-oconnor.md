@@ -1,17 +1,18 @@
 ---
 id: 106
-title: '021605 – Tertiary Bleed (+sinead o’connor on songs not by sinead o’connor)'
+title: "021605 – Tertiary Bleed (+sinead o’connor on songs not by sinead o’connor)"
 date: 2005-02-16T14:56:28-05:00
 author: damon
 layout: post
-guid: http://www.radioslipstream.com/wp/?p=106
+guid: /wp/?p=106
 permalink: /playlists/2005/02/021605-tertiary-bleed-sinead-oconnor-on-songs-not-by-sinead-oconnor/
 categories:
   - PLAYLISTS
 ---
-(<a href=“/radio/slipstream021605.mp3">MP3</a>)
 
-**6 am** 
+(<a href="/radio/slipstream021605.mp3">MP3</a>)
+
+**6 am**
 
 Bloc Party / Like Eating Glass / Silent Alarm (2005)  
 The Decemberists / The Tain / The Tain (2004)  
@@ -39,7 +40,7 @@ Bono, Gavin Friday and Maurice Seezer / You Made Me the Thief of Your Heart / In
 Afro Celt Sound System / Release / Vol. 2: Release (1999)  
 <font color="#808000">Bomb the Bass / <font color="#808000">Empire / <font color="#808000">Clear (1995)
 
-**8 am** 
+**8 am**
 
 1 Giant Leap / Racing Away / 1 Giant Leap (2002)  
 Pale 3 feat. Franka Potente / Fly With Me / The Princess and the Warrior OST (2001)  
