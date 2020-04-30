@@ -19,7 +19,7 @@ categories:
 
 [NOTE: As of Jan 3, 2008, the mp3 has been fixed so it is no longer full of blips and artifacts]
 
-\_This one’s got a flow, yo! Bit of a counterpoint to the pop and rocking of the last episode… Starting electronic with some ambient and spacey stuff, then into some more thomping dancey tunes, easing back a bit and moving into some odd mellow/raw hip hop, and then into some more polished, poppy melodic hip hop, and why not cap it off with an absolute banger.</p>
+This one’s got a flow, yo! Bit of a counterpoint to the pop and rocking of the last episode… Starting electronic with some ambient and spacey stuff, then into some more thomping dancey tunes, easing back a bit and moving into some odd mellow/raw hip hop, and then into some more polished, poppy melodic hip hop, and why not cap it off with an absolute banger.</p>
 
 Happy Everything.</em>
 

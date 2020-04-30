@@ -269,3 +269,11 @@ a[href].tag:visited {
 .post-meta {
   font-family: 'Courier New', Courier, monospace;
 }
+
+/* ul + ul {
+  margin-top: 16px;
+} */
+
+audio {
+  width: clamp(200px, 540px, 100%);
+}

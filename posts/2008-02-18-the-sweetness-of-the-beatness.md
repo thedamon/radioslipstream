@@ -18,7 +18,7 @@ categories:
 
 [Episode 97](https://storage.cloud.google.com/radioslipstream/radio/slipstream-97.mp3). Released February 18, 2008
 
-\_This one: much less with the jibber jabber as it’s a 2 hour nonstop electronic dancing music experience! House, techno, breaks, some hip hop and pop, and a whole lot of goodness. Watch in astonishment as the songs flow together like orange juice and grape juice swirling in a river of fruity bliss!! Marvel at the sweetness of the beatness!!! OH! DEAR! GOD! YES! </p>
+This one: much less with the jibber jabber as it’s a 2 hour nonstop electronic dancing music experience! House, techno, breaks, some hip hop and pop, and a whole lot of goodness. Watch in astonishment as the songs flow together like orange juice and grape juice swirling in a river of fruity bliss!! Marvel at the sweetness of the beatness!!! OH! DEAR! GOD! YES! </p>
 
 That said, if you’re one of those people who can’t stand ‘electronic’ music, you might want to wait a couple weeks.
 
