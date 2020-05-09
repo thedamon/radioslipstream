@@ -4,6 +4,7 @@ title: THE SUNBLISSED PASSERSBEEN
 date: 2010-08-25T21:38:50-05:00
 author: damon
 layout: post
+image: sunblissed
 guid: /playlists/2010/08/the-sunblissed-passersbeen/
 mixcloud: the-sunblissed-passersbeen
 filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-117.mp3

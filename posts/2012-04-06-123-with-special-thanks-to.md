@@ -5,6 +5,8 @@ date: 2012-04-06T21:09:21-05:00
 author: damon
 layout: post
 guid: 262
+image: 123
+permalink: /playlists/2012/04/123-with-special-thanks-to
 mixcloud: with-special-thanks-to
 filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-123.mp3
 grbg: 114396176

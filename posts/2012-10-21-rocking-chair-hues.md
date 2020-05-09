@@ -6,6 +6,7 @@ author: damon
 layout: post
 guid: 314
 mixcloud: rocking-chair-hues
+image: rockingchair
 filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-131.mp3
 grbg: 115096966
   audio/mpeg

@@ -6,6 +6,7 @@ author: damon
 layout: post
 guid: 382
 mixcloud: sex-and-heavy-drinking
+image: sexnheavydrinking2
 filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-137.mp3
 grbg: 113255647
   audio/mpeg

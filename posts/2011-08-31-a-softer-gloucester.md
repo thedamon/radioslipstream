@@ -5,6 +5,7 @@ date: 2011-08-31T21:50:23-05:00
 author: damon
 layout: post
 guid: 226
+image: gloucester
 mixcloud: a-softer-gloucester
 filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-118.mp3
 grbg: 1

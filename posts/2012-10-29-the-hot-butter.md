@@ -6,6 +6,8 @@ author: damon
 layout: post
 guid: 316
 mixcloud: the-hot-butter
+image: thehotbutter
+permalink: /playlists/2012/10/the-hot-butter/
 filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-132.mp3
 grbg: 115055854
   audio/mpeg

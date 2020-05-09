@@ -6,6 +6,7 @@ author: damon
 layout: post
 guid: 278
 mixcloud: telegrams-from-the-mothership
+image: telegrams2
 filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-126.mp3
 grbg: 115024369
   audio/mpeg

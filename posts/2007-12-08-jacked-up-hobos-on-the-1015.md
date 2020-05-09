@@ -4,6 +4,7 @@ title: JACKED UP HOBOS ON THE 10:15.
 date: 2007-12-08T11:05:53-05:00
 author: damon
 layout: post
+image: jackeduphobos
 guid: /playlists/2007/12/jacked-up-hobos-on-the-1015/
 permalink: /playlists/2007/12/jacked-up-hobos-on-the-1015/
 filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-93.mp3

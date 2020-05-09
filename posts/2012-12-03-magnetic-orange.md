@@ -5,6 +5,7 @@ date: 2012-12-03T00:09:18-05:00
 author: damon
 layout: post
 guid: 330
+image: magneticorange
 mixcloud: magnetic-orange
 filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-133.mp3
 grbg: 1

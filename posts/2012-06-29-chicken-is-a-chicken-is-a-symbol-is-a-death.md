@@ -5,6 +5,7 @@ date: 2012-06-29T00:03:12-05:00
 author: damon
 layout: post
 guid: 287
+image: chicken3
 mixcloud: chicken-is-a-chicken-is-a-symbol-is-a-death
 filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-127.mp3
 grbg: 115050701

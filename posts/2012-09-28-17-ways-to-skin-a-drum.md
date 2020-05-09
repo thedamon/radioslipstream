@@ -6,6 +6,7 @@ author: damon
 layout: post
 guid: 306
 mixcloud: 17-ways-to-skin-a-drum
+image: skin-a-drum
 filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-130.mp3
 grbg: 113862524
   audio/mpeg

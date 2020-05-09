@@ -6,6 +6,7 @@ author: damon
 layout: post
 guid: 390
 mixcloud: turn-to-your-orbituary
+image: orbituary
 filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-138.mp3
 grbg: 114665632
   audio/mpeg

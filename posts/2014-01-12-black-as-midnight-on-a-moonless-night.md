@@ -5,6 +5,7 @@ date: 2014-01-12T10:46:33-05:00
 author: damon
 layout: post
 guid: 398
+image: midnight2
 mixcloud: black-as-midnight-on-a-moonless-night
 filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-139.mp3
 grbg: 111719020

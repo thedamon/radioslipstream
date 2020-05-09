@@ -7,6 +7,7 @@ layout: post
 guid: 293
 mixcloud: sailing-emergent-seas
 filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-128.mp3
+image: sailing
 grbg: 114834407
   audio/mpeg
   a:2:{s:8:"duration";s:7:"1:19:45";s:5:"image";s:88:"images/vpreview_center.png";}

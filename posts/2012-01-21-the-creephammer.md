@@ -6,6 +6,7 @@ author: damon
 layout: post
 guid: 248
 mixcloud: the-creephammer
+image: creephammer
 filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-122.mp3
 grbg: 115054720
   audio/mpeg

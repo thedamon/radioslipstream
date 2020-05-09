@@ -7,6 +7,7 @@ layout: post
 guid: 245
 permalink: /playlists/2011/12/nocturne-in-day-major/
 mixcloud: nocturne-in-day-major
+image: nocturne
 filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-121.mp3
 grbg: 114884562
   audio/mpeg

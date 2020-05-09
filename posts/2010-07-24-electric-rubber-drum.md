@@ -6,6 +6,7 @@ author: damon
 layout: post
 guid: /playlists/2010/07/electric-rubber-drum/
 mixcloud: electric-rubber-drum
+image: electricrubberdrum
 filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-116.mp3
 grbg: 1
   audio/mpeg

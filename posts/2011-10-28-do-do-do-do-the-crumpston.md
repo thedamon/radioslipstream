@@ -5,6 +5,7 @@ date: 2011-10-28T23:41:51-05:00
 author: damon
 layout: post
 guid: 239
+image: crumpston
 mixcloud: do-do-do-do-the-crumpston
 filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-120.mp3
 grbg: 1

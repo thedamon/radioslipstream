@@ -6,6 +6,7 @@ author: damon
 layout: post
 guid: 472
 mixcloud: the-retro-electro-loop-hole
+image: retroelectro
 filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-142.mp3
 grbg: 28506420
   audio/mpeg

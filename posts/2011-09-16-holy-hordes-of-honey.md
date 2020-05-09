@@ -5,6 +5,7 @@ date: 2011-09-16T22:23:25-05:00
 author: damon
 layout: post
 guid: 231
+image: hordes
 mixcloud: holy-hordes-of-honey
 filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-119.mp3
 grbg: 1

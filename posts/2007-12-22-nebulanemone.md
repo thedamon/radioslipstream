@@ -6,6 +6,7 @@ author: damon
 layout: post
 guid: /playlists/2007/12/nebulanemone/
 permalink: /playlists/2007/12/nebulanemone/
+image: nebulanemone
 filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-94.mp3
 grbg: 1
   audio/mpeg

@@ -4,6 +4,7 @@ title: WHAT THE SUNSET MEANT.
 date: 2014-04-03T21:19:44-05:00
 author: damon
 layout: post
+image: sunset2
 guid: 415
 mixcloud: what-the-sunset-meant
 categories:

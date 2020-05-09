@@ -4,6 +4,7 @@ title: Devils with Drum Machines II
 date: 2008-10-26T19:39:40-05:00
 author: damon
 layout: post
+image: devils2
 guid: /mixes/2008/10/devils-with-drum-machines-ii/
 permalink: /mixes/2008/10/devils-with-drum-machines-ii/
 filename: https://storage.cloud.google.com/radioslipstream/radio/mixes/devils_with_drum_machines2.mp3

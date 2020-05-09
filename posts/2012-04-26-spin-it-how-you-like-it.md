@@ -5,7 +5,9 @@ date: 2012-04-26T23:35:56-05:00
 author: damon
 layout: post
 guid: 267
+permalink: /playlists/2012/04/spin-it-how-you-like-it/
 mixcloud: spin-it-how-you-like-it
+image: spinit
 filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-124.mp3
 grbg: 114068914
   audio/mpeg

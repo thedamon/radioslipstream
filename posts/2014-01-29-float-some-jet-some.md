@@ -5,6 +5,7 @@ date: 2014-01-29T22:36:03-05:00
 author: damon
 layout: post
 guid: 403
+image: floatsome3
 mixcloud: float-some-jet-some
 filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-140.mp3
 grbg: 110643193

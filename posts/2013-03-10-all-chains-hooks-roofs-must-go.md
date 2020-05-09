@@ -5,6 +5,7 @@ date: 2013-03-10T22:12:09-05:00
 author: damon
 layout: post
 guid: 359
+image: chainshooks
 mixcloud: all-chains-hooks-roofs-must-go
 filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-135.mp3
 grbg: 112238752

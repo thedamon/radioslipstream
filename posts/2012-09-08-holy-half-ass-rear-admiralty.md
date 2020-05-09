@@ -5,6 +5,7 @@ date: 2012-09-08T22:52:45-05:00
 author: damon
 layout: post
 guid: 301
+image: admiralty
 mixcloud: holy-half-ass-rear-admiralty
 filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-129.mp3
 grbg: 114703875

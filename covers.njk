@@ -1,0 +1,13 @@
+---
+layout: layouts/home.njk
+eleventyNavigation:
+  key: Covers
+  order: 4
+---
+<div class="tiles">
+  {% for post in collections.posts  %}
+    {% if post.data.image %}
+    <a href="{{ post.url | url }}"><img src="/img/{{post.data.image}}.jpg"/></a>
+    {% endif %}
+  {% endfor %}
+</div>

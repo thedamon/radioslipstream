@@ -6,6 +6,8 @@ author: damon
 layout: post
 guid: 272
 mixcloud: halfway-back-to-loam
+image: backtoloam
+permalink: /playlists/2012/06/halfway-back-to-loam/
 filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-125.mp3
 grbg: 114187406
   audio/mpeg

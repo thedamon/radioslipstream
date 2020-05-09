@@ -22,7 +22,7 @@ This one: much less with the jibber jabber as it’s a 2 hour nonstop electronic
 
 That said, if you’re one of those people who can’t stand ‘electronic’ music, you might want to wait a couple weeks.
 
-Phil’s torrent of songs is [here](http://www.mininova.org/tor/1099864) (his 2006 one gave me the idea to do [my own](http://www.radioslipstream.com/features/lists/2008/01/my-top-101-songs-from-2007/)), and I’d also like to mention that this episode includes the 1000th (and 1001st!) unique artist to be featured on Radio Slipstream.</em>
+I’d also like to mention that this episode includes the 1000th (and 1001st!) unique artist to be featured on Radio Slipstream.</em>
 
 Prosumer and Murat Tepeli / Serenity / Serenity (2008)  
 Plej / Lay Of The Land / Electronic Music From The Swedish Left Coast (2003)  
@@ -42,7 +42,7 @@ Stephan Bodzin / Kerosene / Liebe Ist … (2007)
 Gebr. Teichmann / Whateverman / The Number Of The Beat (2007)  
 Mu / Out Of Breach / Out Of Breach (Manchester’s Revenge) (2005)  
 Jackson And His Computer Band / Utopia / Smash (2005)  
-Mouse on Mars / Bib / Iaora Tahiti (1995)  
+Mouse on Mars / Bib / Iaora Tahiti (1995)
 Boxcutter / Fieldtrip / Glyphic (2007)  
 Luke Vibert / Comphex / Chicago, Detroit, Redruth (2007)  
 Stendeck / Like Falling Crystals / Faces (2007)  

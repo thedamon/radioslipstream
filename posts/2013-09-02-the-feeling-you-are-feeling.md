@@ -6,6 +6,7 @@ author: damon
 layout: post
 guid: 372
 mixcloud: the-feeling-you-are-feeling
+image: thefeeling
 filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-136.mp3
 grbg: 112905815
   audio/mpeg
