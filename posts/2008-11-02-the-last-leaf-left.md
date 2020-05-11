@@ -5,6 +5,8 @@ date: 2008-11-02T00:29:44-05:00
 author: damon
 layout: post
 guid: /mixes/2008/11/the-last-leaf-left/
+image: lastleaf
+mixcloud: the-last-leaf-left
 permalink: /mixes/2008/11/the-last-leaf-left/
 filename: https://storage.cloud.google.com/radioslipstream/radio/mixes/thelastleafleft.mp3
 grbg: 1

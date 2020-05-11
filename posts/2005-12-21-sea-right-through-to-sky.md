@@ -7,6 +7,7 @@ excerpt: |
   A collection of some songs with a sort of delicate drive to 'em. Dare I say sensual? Well, sure. That would apply to most music wouldn't it?
   There was a bit of bum track in it originally, so two years later or so I took it upon myself to redo it slightly (tracks 8 and 9 are the additions)
 layout: post
+image: seatosky
 guid: /wp/?p=159
 permalink: /mixes/2005/12/sea-right-through-to-sky/
 filename: https://storage.cloud.google.com/radioslipstream/radio/mixes/sea_right_through_to_sky.mp3

@@ -3,7 +3,7 @@ id: 181
 title: THE SWEETNESS OF THE BEATNESS (mixedit)
 date: 2008-03-03T02:21:33-05:00
 author: damon
-excerpt: 4 entirely sweet episodes from late 2007/early 2008 condensed to fit onto 80 minute CDRs
+image: sweetbeatness
 layout: post
 guid: /mixes/2008/03/mix-cd-edits-vol-1/
 mixcloud: the-sweetness-of-the-beatness

@@ -6,6 +6,7 @@ author: damon
 layout: post
 image: devils2
 guid: /mixes/2008/10/devils-with-drum-machines-ii/
+mixcloud: devils-with-drum-machines-2
 permalink: /mixes/2008/10/devils-with-drum-machines-ii/
 filename: https://storage.cloud.google.com/radioslipstream/radio/mixes/devils_with_drum_machines2.mp3
 grbg: 1

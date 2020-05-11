@@ -3,6 +3,7 @@ id: 135
 title: sunstreak azure painted down (extended)
 date: 2007-05-15T15:43:03-05:00
 author: damon
+image: sunstreak
 excerpt: "This is an extended version of the mix CD of the same name.. yes! advanced goodness! 40 extra minutes!  (for those not into CD players anee more)"
 layout: post
 guid: /wp/?p=135

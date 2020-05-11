@@ -5,6 +5,7 @@ date: 2008-03-03T02:21:33-05:00
 author: damon
 layout: post
 guid: /mixes/2008/03/mix-cd-edits-vol-1/
+image: lesslasting
 mixcloud: always-less-like-lasting
 categories:
   - MIXES
