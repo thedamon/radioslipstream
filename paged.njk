@@ -14,21 +14,6 @@ permalink: /{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber }}/{% end
   <p>I've always loved finding music and standing songs up in delicate rows.</p>
   <p>Radio Slipstream broadcast in various timeslots on 93.3 — CFMU — McMaster's campus station from 2004-2007, then continued as increasingly sporadic self-released episodes/mixes. One day I just might do another.</p>
 </div>
-{% else %}
-<div class="page-nav post-footer">
-  {% if pagination.previousPageLink %}
-  <p class="pref">
-    <strong>←</strong>
-    <a class="previous" href="{{ pagination.href.previous | url  }}">Newier</a>
-  </p>
-  {% endif %}
-  {% if pagination.nextPageLink %}
-  <p class="next">
-    <a class="next" href="{{ pagination.href.next | url }}">Oldier</a>
-    <strong>→</strong>
-  </p>
-  {% endif %}
-</div>
 {% endif %}
 
 {% set postslist = posts %}
@@ -38,12 +23,12 @@ permalink: /{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber }}/{% end
   {% if pagination.previousPageLink %}
   <p class="pref">
     <strong>←</strong>
-    <a class="previous" href="{{ pagination.href.previous | url  }}">Newier</a>
+    <a class="previous" href="{{ pagination.href.previous | url  }}">Newer posts</a>
   </p>
   {% endif %}
   {% if pagination.nextPageLink %}
   <p class="next">
-    <a class="next" href="{{ pagination.href.next | url }}">Oldier</a>
+    <a class="next" href="{{ pagination.href.next | url }}">Older posts</a>
     <strong>→</strong>
   </p>
   {% endif %}

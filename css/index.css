@@ -41,9 +41,12 @@ iframe {
   padding: 24px 0;
   border-top: 1px dashed rgba(255, 255, 255, 0.4);
   position: relative;
-  /* max-height: 800px;
-  overflow: scroll; */
+  max-height: 600px;
+  overflow: hidden;
+  transition: max-height .6s;
 }
+
+
 .post-item::before {
   content: "";
   /* z-index: -1; */
@@ -65,6 +68,22 @@ iframe {
   align-items: baseline;
 }
 
+@supports (-webkit-background-clip: text) {
+  .clipped > .post-item-body {
+    
+    /* Clip background to the text */
+    -webkit-background-clip: text;
+    
+    /* Fading background gradient from the current text color */
+    background-image: 
+    linear-gradient( currentColor 400px, transparent 520px );
+    /* Set the text to transparent for the fading background to show through */
+    -webkit-text-fill-color: rgba(255,255,255,0.01);
+
+  }
+}
+
+
 .post-item-title {
   font-family: "Courier New", Courier, monospace;
   font-weight: 200;
@@ -72,6 +91,51 @@ iframe {
 .post-item-title a {
   text-decoration: none;
 }
+
+.post-item-footer {
+  position: absolute;
+  bottom: 0px;
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
+
+.cta-sm {
+  appearance: none;
+  border: 1px dashed rgba(255, 255, 255, 0.4);
+  border-bottom: none;
+  font-size: 14px;
+  cursor: pointer;
+  line-height: 1;
+  text-decoration: none;
+  padding: 8px;
+  padding-bottom: 0;
+  margin: 0 8px;
+  background-color: rgba(255, 255, 255, 0.1);
+  color: var(--darkgray);
+  transition: background .2s;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.cta-sm > :first-child {
+  font-weight: bold;
+}
+
+
+.cta-sm:hover .arw{
+  transition: transform .2s;
+}
+
+.cta-sm:hover {
+  background-color: rgba(255, 255, 255, 0.25);
+}
+
+.cta-sm:hover .arw{
+  transform: translateY(4px)
+}
+
 
 ul {
   padding: 0;
@@ -110,9 +174,9 @@ a[href]:visited {
   color: var(--navy);
 }
 main {
-  padding: 1rem;
+  padding: 0 1rem;
   max-width: 960px;
-  margin: 0 auto;
+  margin: 0 auto 100px;
 }
 main :first-child {
   margin-top: 0;
@@ -271,6 +335,27 @@ a[href].tag:visited {
 .post-meta {
   font-family: 'Courier New', Courier, monospace;
 }
+
+.page-nav {
+  border: none;
+  padding: 10px;
+  background: rgba(255, 255, 255, 0.4);
+  margin: 24px 0;
+  position: fixed;
+  bottom: 0;
+  right: 24px;
+  left: 24px;
+}
+
+.page-nav a {
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.page-nav a:hover {
+  text-decoration: underline;
+}
+
 
 /* ul + ul {
   margin-top: 16px;
