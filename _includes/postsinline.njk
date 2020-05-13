@@ -1,5 +1,5 @@
 {% for post in postslist %}
-
+<div class="post-item-wrap">
   <div 
     class="post-item{% if post.url == url %} postlist-item-active{% endif %}"
     x-bind:class="expanded ? 'expanded' : 'clipped'"
@@ -32,14 +32,19 @@
       <audio controls src="{{ post.data.filename }}"></audio>
     {%- endif -%}
     {{ post.templateContent | safe }}
+      <div class="post-item-body-footer">
+        <a class="cta-sm" href="{{ post.url | url }}">
+          <span>Visit</span>
+          <span class="arw right">→</span>
+        </a>
+      </div>
     </div>
     <div class="post-item-footer">
       <button x-show="!expanded" class="cta-sm" @click="expanded = !expanded" >
         <span>Expand</span>
-        <span class="arw">↓</span>
+        <span class="arw down">↓</span>
       </button>
-      {# <a class="cta-sm" href="{{ post.url | url }}">Visit</a> #}
     </div>
   </div>
-
+</div>
 {% endfor %}

@@ -17,15 +17,16 @@ permalink: /{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber }}/{% end
 {% endif %}
 
 {% set postslist = posts %}
+<div class="post-list">
 {% include "postsinline.njk" %}
-
+</div>
 <div class="page-nav post-footer">
-  {% if pagination.previousPageLink %}
   <p class="pref">
+  {% if pagination.previousPageLink %}
     <strong>←</strong>
     <a class="previous" href="{{ pagination.href.previous | url  }}">Newer posts</a>
-  </p>
   {% endif %}
+  </p>
   {% if pagination.nextPageLink %}
   <p class="next">
     <a class="next" href="{{ pagination.href.next | url }}">Older posts</a>
