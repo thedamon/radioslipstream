@@ -10,9 +10,9 @@ permalink: /{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber }}/{% end
 
 {% if pagination.pageNumber == 0 %}
 <div class="intro">
-  <p>This site is a record of a fiercely loved (but just by the DJ) indie university radio thing.</p>
+  <p>This site is a record of <a href="https://twitter.com/thedamon">my</a> indie university radio thing.</p>
   <p>I've always loved finding music and standing songs up in delicate rows.</p>
-  <p>Radio Slipstream broadcast in various timeslots on 93.3 — CFMU — McMaster's campus station from 2004-2007, then continued as increasingly sporadic self-released episodes/mixes. One day I just might do another.</p>
+  <p>Radio Slipstream broadcast in various timeslots on 93.3 — CFMU — McMaster's campus station from 2004-2007, then continued as increasingly sporadic self-released episodes/mixes. One day I just might do another. <a href="/about">more</a></p>
 </div>
 {% endif %}
 
@@ -21,16 +21,20 @@ permalink: /{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber }}/{% end
 {% include "postsinline.njk" %}
 </div>
 <div class="page-nav post-footer">
-  <p class="pref">
+  <p class="prev">
   {% if pagination.previousPageLink %}
-    <strong>←</strong>
-    <a class="previous" href="{{ pagination.href.previous | url  }}">Newer posts</a>
+    <a class="previous cta-sm cta-nav" href="{{ pagination.href.previous | url  }}">
+      <span>Newer posts</span>
+      <span class="arw">←</span>
+    </a>
   {% endif %}
   </p>
   {% if pagination.nextPageLink %}
   <p class="next">
-    <a class="next" href="{{ pagination.href.next | url }}">Older posts</a>
-    <strong>→</strong>
+    <a class="next cta-sm cta-nav" href="{{ pagination.href.next | url }}">
+      <span>Older posts</span> 
+      <span class="arw">→</span>
+    </a>
   </p>
   {% endif %}
 </div>

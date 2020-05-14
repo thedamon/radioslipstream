@@ -7,15 +7,26 @@ templateClass: tmpl-post
   <time>{{ date | readableDate}}</time>
 </div>
 {%- if mixcloud -%}
-<iframe width="100%" height="400"
-  src="https://www.mixcloud.com/widget/iframe/?light=1&feed=%2Fradioslipstream%2F{{ mixcloud }}%2F"
+<iframe width="100%" height="168"
+  src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&light=1&feed=%2Fradioslipstream%2F{{ mixcloud }}%2F"
   frameborder="0"></iframe>
 {%- elseif filename -%}
 <audio controls src="{{ filename }}"></audio>
 {%- endif -%}
 
 {% if image %}
-<img class="cover" src="/img/{{image}}.jpg" />
+<div 
+  class="cover" 
+  x-bind:class="expanded ? 'expanded' : ''"
+  x-data="{ expanded: false }"
+>
+  <img @click="expanded = !expanded" src="/img/{{image}}.jpg" />
+  <button class="cta-xs cta-widen" @click="expanded = !expanded" aria-label="toggle expanded view of cover image">
+    <span>←</span>
+    {# <span>+</span> #}
+    <span>→</span>
+  </button>
+</div>
 {% endif %}
 {{ content | safe }}
 
