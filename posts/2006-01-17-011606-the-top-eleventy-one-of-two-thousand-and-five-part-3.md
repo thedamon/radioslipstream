@@ -10,6 +10,7 @@ permalink: /playlists/2006/01/011606-the-top-eleventy-one-of-two-thousand-and-fi
 categories:
   - PLAYLISTS
   - themes and specials
+filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream011606.mp3
 ---
 originally aired 2-4am January 17, 2006 on [CFMU](http://cfmu.mcmaster.ca)
 

@@ -6,6 +6,7 @@ author: damon
 excerpt: This is sorta based around the DJing gig I did for the theatre and film semi formal (with the help of Marco. or really it was more like I was helping him). Only about half the songs here actually got played, but the other half I would sure have liked to.
 layout: post
 guid: /wp/?p=77
+filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream040306.mp3
 permalink: /playlists/2006/04/040306-sweet-ass-jams-to-make-yr-booty-mauve/
 categories:
   - PLAYLISTS

@@ -4,6 +4,7 @@ title: '030606: the dissollution salsa'
 date: 2006-03-07T16:07:08-05:00
 author: damon
 layout: post
+filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream060306.mp
 guid: /wp/?p=81
 permalink: /playlists/2006/03/030606-the-dissollution-salsa/
 categories:

@@ -5,6 +5,7 @@ date: 2006-02-28T04:27:20-05:00
 author: damon
 layout: post
 guid: /wp/?p=82
+filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream022706.mp3
 permalink: /playlists/2006/02/022706-bellerophon-hoodwinked/
 categories:
   - PLAYLISTS

@@ -5,6 +5,7 @@ date: 2006-03-28T04:01:00-05:00
 author: damon
 layout: post
 guid: /wp/?p=78
+filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream032706.mp3
 permalink: /playlists/2006/03/032706-mercy-played-bitter-seconds/
 categories:
   - PLAYLISTS

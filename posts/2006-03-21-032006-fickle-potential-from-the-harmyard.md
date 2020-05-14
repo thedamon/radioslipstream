@@ -5,6 +5,7 @@ date: 2006-03-21T03:43:34-05:00
 author: damon
 layout: post
 guid: /wp/?p=79
+filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream032006.mp3
 permalink: /playlists/2006/03/032006-fickle-potential-from-the-harmyard/
 categories:
   - PLAYLISTS

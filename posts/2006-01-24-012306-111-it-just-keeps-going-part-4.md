@@ -5,6 +5,7 @@ date: 2006-01-24T04:14:00-05:00
 author: damon
 excerpt: The top 111 of 2005 part 4
 layout: post
+filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream012306.mp3
 guid: /wp/?p=86
 permalink: /playlists/2006/01/012306-111-it-just-keeps-going-part-4/
 categories:

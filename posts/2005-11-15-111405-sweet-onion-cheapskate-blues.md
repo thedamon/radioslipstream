@@ -5,6 +5,7 @@ date: 2005-11-15T01:53:56-05:00
 author: damon
 layout: post
 guid: /wp/?p=94
+filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream111405.mp3
 permalink: /playlists/2005/11/111405-sweet-onion-cheapskate-blues/
 categories:
   - PLAYLISTS
