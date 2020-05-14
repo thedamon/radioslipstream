@@ -7,6 +7,7 @@
   --navy: #17050f;
   --blue: #082840;
   --white: #fff;
+  --lightgreen: hsl(169, 53%, 75%)
 }
 * {
   box-sizing: border-box;
@@ -19,7 +20,7 @@ body {
   color: var(--darkgray);
   background: linear-gradient(
     360deg,
-    rgba(194, 236, 228, 1) 0%,
+    hsl(169, 53%, 75%) 0%,
     rgba(196, 159, 207, 1) 100%
   );
   background-attachment: fixed;
@@ -381,7 +382,7 @@ main h1,
   width: 100%;
   position: absolute;
   bottom: -24px;
-  background: rgba(194, 236, 228, 1);
+  background: var(--lightgreen);
   border-top: 1px dashed rgba(255, 255, 255, 0.6);
 }
 
