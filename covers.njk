@@ -8,7 +8,9 @@ eleventyNavigation:
 <div class="tiles">
   {% for post in collections.posts  %}
     {% if post.data.image %}
-    <a href="{{ post.url | url }}"><img src="/img/{{post.data.image}}.jpg"/></a>
+    <a href="{{ post.url | url }}">
+      <img src="/img/480/{{post.data.image}}.jpg" loading="lazy"/>
+    </a>
     {% endif %}
   {% endfor %}
 </div>

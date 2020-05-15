@@ -6,6 +6,8 @@ author: damon
 excerpt: "Made this one around May, 2007. As a celebration of my university graduation? No, not particularly. It's just meant to capture the spirit of summer, those bloated crickety evenings sitting on the back porch with the hot sun feathering out into the lingering humidity. That kinda crap. In a way you could say it goes from morning to hot afternoon into the evening and night. I'm pretty darn pleased with it, though."
 layout: post
 guid: /wp/?p=158
+image: sunstreak
+mixcloud: sunstreak-azure-painted-down
 permalink: /mixes/2007/05/sunstreak-azure-painted-down-2/
 filename: https://storage.cloud.google.com/radioslipstream/radio/mixes/sunstreak_azure_painted_down.mp3
 grbg: 93766654
@@ -15,7 +17,7 @@ categories:
   - MIXES
 ---
 
-Made this one around May, 2007. As a celebration of my university graduation? No, not particularly. It’s just meant to capture the spirit of summer, those bloated crickety evenings sitting on the back porch with the hot sun feathering out into the lingering humidity. That kinda crap. In a way you could say it goes from morning to hot afternoon into the evening and night. I’m pretty darn pleased with it, though.
+Made this one around May, 2007. As a celebration of my university graduation? No, not particularly. It’s just meant to capture the spirit of summer, those bloated crickety evenings sitting on the back porch with the hot sun feathering out into the lingering humidity. That kinda crap. In a way you could say it goes from morning to hot afternoon into the evening and night. I’m pretty darn pleased with it, though. There's also an [extended version](/playlists/2007/05/sunstreak-azure-painted-down/)
 
 1. Blur – Sweet Song
 2. Ilya – Soleil Soleil

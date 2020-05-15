@@ -20,7 +20,7 @@ templateClass: tmpl-post
   x-bind:class="expanded ? 'expanded' : ''"
   x-data="{ expanded: false }"
 >
-  <img @click="expanded = !expanded" src="/img/{{image}}.jpg" />
+  <img @click="expanded = !expanded" src="/img/large/{{image}}.jpg" />
   <button class="cta-xs cta-widen" @click="expanded = !expanded" aria-label="toggle expanded view of cover image">
     <span>←</span>
     {# <span>+</span> #}
