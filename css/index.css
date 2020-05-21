@@ -7,7 +7,8 @@
   --navy: #17050f;
   --blue: #082840;
   --white: #fff;
-  --lightgreen: hsl(169, 53%, 75%)
+  --lightgreen: hsl(169, 53%, 75%);
+  --text: var(--darkgray);
 }
 * {
   box-sizing: border-box;
@@ -17,14 +18,22 @@ body {
   padding: 0;
   margin: 0;
   font-family: system-ui, sans-serif;
-  color: var(--darkgray);
+  color: var(--text);
+  min-height: 100vh;
+}
+
+body::before {
+  content: "";
   background: linear-gradient(
     360deg,
     hsl(169, 53%, 75%) 0%,
     rgba(196, 159, 207, 1) 100%
   );
-  background-attachment: fixed;
-  min-height: 100vh;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+  z-index: -1;
 }
 
 h1 {
@@ -63,7 +72,7 @@ iframe {
   border-right: 1px dashed rgba(255, 255, 255, 0.4);
 }
 .post-item-wrap:last-child {
-  border-bottom: 1px dashed rgba(255, 255, 255, 0.4);
+  border-bottom: 1px dashed #ffffff66;
 }
 
 .post-item-header {
@@ -71,21 +80,37 @@ iframe {
   align-items: baseline;
 }
 
-@supports (-webkit-background-clip: text) {
+@supports (-webkit-text-fill-color: #fff) {
   .clipped > .post-item-body {
     
     /* Clip background to the text */
     -webkit-background-clip: text;
+    background-clip: text;
     
     /* Fading background gradient from the current text color */
-    background-image: 
-    linear-gradient( currentColor 400px, transparent 520px );
-    /* Set the text to transparent for the fading background to show through */
+    background-image: linear-gradient( currentColor 400px, rgba(255,255,255,0.01) 520px );
+    max-height: 600px;
     -webkit-text-fill-color: rgba(255,255,255,0.01);
+  }
 
+/* stupid junk because safari doesn't actually work with text-fill-color despite claiming to support it */
+
+  _::-webkit-full-page-media, _:future, :root .clipped > .post-item-body {
+    -webkit-text-fill-color: initial;
+    -webkit-background-clip: none;
+    background-clip: none;
   }
 }
-
+_::-webkit-full-page-media, _:future, :root .post-item-body-footer,
+_::-webkit-full-page-media, _:future, :root .post-item-footer {
+  justify-content: flex-end
+}
+_::-webkit-full-page-media, _:future, :root .post-item-body li,_::-webkit-full-page-media, _:future, :root .post-item-body p {
+  max-width: 88%;
+}
+_::-webkit-full-page-media, _:future, :root .cta-sm {
+  background: rgba(255, 255, 255, 0.3);
+}
 
 .post-item-title {
   font-family: "Courier New", Courier, monospace;
