@@ -26,8 +26,22 @@ On [CFMU](https://cfmu.ca/), The Slipstream occupied the following timeslots:
 
 ## Me
 
-[Damon Muma](https://twitter.com/thedamon) is a UX loving web developer who occasionally moonlights as a writer and performer and _loves_ indie music.
+[Damon Muma](https://twitter.com/thedamon) is a UX loving web developer who occasionally moonlights as a [writer and performer](https://emergentseas.co) and _loves_ indie music.
 
 ## This site
 
-Has gone through some hilarious design changes and reorgs. In 2005 it was raw HTML; in 2007 it became Wordpress, and in 2020 it was rebuilt as a static [11ty](https://www.11ty.dev/) site hosted for free by [Netlify](https://www.netlify.com/) to save on server costs without having to call the whole thing off. The sourcecode is on [Github](https://github.com/thedamon/radioslipstream).
+Has gone through some hilarious design changes and reorgs. In 2005 it was raw HTML; in 2007 it became Wordpress and continued that way, suffering a few redesigns when responsive web design became a thing and my eyes hurt looking at the old one.
+
+<div class="tiles">
+
+[![basic black background plaintext website](/img/480/radioslipstreamcom-2006.png "Radio Slipstream website design 2006")](/img/large/radioslipstreamcom-2006.png) _2006_
+
+[![A garish, highly graphical website with an orange and purple colour scheme](/img/480/radioslipstreamcom-2007.png "Radio Slipstream website design 2007")](/img/large/radioslipstreamcom-2007.png) _2007_
+
+[![A more subtle version with a black background](/img/480/radioslipstreamcom-2011.png "Radio Slipstream website design 2011")](/img/large/radioslipstreamcom-2011.png) _2011_
+
+[![A more refined dark yet still clunky website with subtle background and orange accents](/img/480/radioslipstreamcom-2013.png "Radio Slipstream website design 2013")](/img/large/radioslipstreamcom-2013.png) _2013_
+
+</div>
+
+In 2020 it was rebuilt as a static [11ty](https://www.11ty.dev/) site hosted for free by [Netlify](https://www.netlify.com/) to save on server costs without having to call the whole thing off. The sourcecode is on [Github](https://github.com/thedamon/radioslipstream)

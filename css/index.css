@@ -257,6 +257,7 @@ header {
   font-size: 2em; /* 16px /16 */
   font-family: "Courier New", Courier, monospace;
   font-weight: 100;
+  max-width: 60%;
 }
 .home :link:not(:hover) {
   text-decoration: none;
@@ -454,6 +455,11 @@ audio {
 
 .tiles > * {
   max-width: 100%;
+  margin: 0;
+  display: flex;
+  place-items: center;
+  flex-direction: column;
+  position: relative;
 }
 
 .tiles img {
@@ -467,6 +473,13 @@ audio {
   padding: 0;
   position: relative;
   transition: transform 0.4s;
+}
+
+.tiles em {
+  bottom: 16px;
+  color: white;
+  position: absolute;
+  z-index: 1;
 }
 
 .tiles a:focus, 
