@@ -23,3 +23,11 @@ On [CFMU](https://cfmu.ca/), The Slipstream occupied the following timeslots:
  - October 2005—August 2006: Monday nights 2-4am
  - September 2006—October 2007: Monday nights 12-2am
  - November 2007—The Futurepast: On the internet and eventually on [mixcloud](https://www.mixcloud.com/radioslipstream/) with decreasing regularity
+
+## Me
+
+[Damon Muma](https://twitter.com/thedamon) is a UX loving web developer who occasionally moonlights as a writer and performer and _loves_ indie music.
+
+## This site
+
+Has gone through some hilarious design changes and reorgs. In 2005 it was raw HTML; in 2007 it became Wordpress, and in 2020 it was rebuilt as a static [11ty](https://www.11ty.dev/) site hosted for free by [Netlify](https://www.netlify.com/) to save on server costs without having to call the whole thing off. The sourcecode is on [Github](https://github.com/thedamon/radioslipstream).
