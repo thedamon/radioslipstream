@@ -444,12 +444,16 @@ audio {
 .tmpl-tiles {
   width: 90vw;
   max-width: none;
+  padding: 0;
 }
 
 .tiles {
   display: grid;
-  /* grid-template-columns: repeat(2, 1fr); */
-  grid-template-columns: repeat( auto-fill, minmax(350px, 1fr) );
+  grid-template-columns: repeat( auto-fill, minmax(calc(150px + 12vw), 1fr) );
+}
+
+.tiles > * {
+  max-width: 100%;
 }
 
 .tiles img {
