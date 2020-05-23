@@ -15,6 +15,8 @@ I put a fair amount of effort into making sure all the songs flow together real 
 
 I also put a fair amount of effort into ensuring I never played the same song more than once. I keep the giant playlist around as a "I thought this was a real rad track that I should play on my show!" and it's good listening.
 
+The cover art and titles are sort of free explorations of how the music of the episode "feels" in a sort of poetical slabby babby sort of way.
+
 ## Broadcast history
 
 On [CFMU](https://cfmu.ca/), The Slipstream occupied the following timeslots:
@@ -32,7 +34,7 @@ On [CFMU](https://cfmu.ca/), The Slipstream occupied the following timeslots:
 
 Has gone through some hilarious design changes and reorgs. In 2005 it was raw HTML; in 2007 it became Wordpress and continued that way, suffering a few redesigns when responsive web design became a thing and my eyes hurt looking at the old one.
 
-<div class="tiles">
+<div class="tiles old-sites">
 
 [![basic black background plaintext website](/img/480/radioslipstreamcom-2006.png "Radio Slipstream website design 2006")](/img/large/radioslipstreamcom-2006.png) _2006_
 

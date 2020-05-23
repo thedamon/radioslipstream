@@ -20,6 +20,7 @@ body {
   font-family: system-ui, sans-serif;
   color: var(--text);
   min-height: 100vh;
+  font-size: clamp(14px, calc(8px + .7vmin + .3vw), 18px);
 }
 
 body::before {
@@ -37,9 +38,15 @@ body::before {
 }
 
 h1 {
-  font-size: 3em;
+  font-size: calc(2.9em + 3vmin);
   font-weight: 900;
+  line-height: 1;
   text-shadow: 1px 1px 5px rgba(194, 236, 228, 0.5);
+  margin-bottom: .5em;
+}
+
+h2 {
+  font-size: calc(1.2em + 2vmin);
 }
 
 iframe {
@@ -78,6 +85,7 @@ iframe {
 .post-item-header {
   display: flex;
   align-items: baseline;
+  justify-content: space-between;
 }
 
 @supports (-webkit-text-fill-color: #fff) {
@@ -88,7 +96,7 @@ iframe {
     background-clip: text;
     
     /* Fading background gradient from the current text color */
-    background-image: linear-gradient( currentColor 400px, rgba(255,255,255,0.01) 520px );
+    background-image: linear-gradient( currentColor 330px, rgba(255,255,255,0.01) 490px );
     max-height: 600px;
     -webkit-text-fill-color: rgba(255,255,255,0.01);
   }
@@ -365,7 +373,6 @@ a[href].tag:visited {
 main h1,
 .post-title.post-title {
   text-shadow: -4px 6px 0px rgba(0, 0, 0, 0.2);
-  margin: 1em 0;
 }
 
 .post-meta {
@@ -484,7 +491,7 @@ audio {
 
 .tiles a:focus, 
 .tiles a:hover {
-  transform: scale(1.1);
+  transform: scale(1.05);
   z-index: 2;
 }
 
@@ -515,6 +522,11 @@ audio {
 
 .cover img {
   width: 100%;
+}
+
+.old-sites {
+  grid-template-columns: repeat( auto-fill, minmax(calc(250px + 5vmin), 1fr) );
+
 }
 
 @media screen and (max-width: 539px) {
