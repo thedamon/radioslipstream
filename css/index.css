@@ -457,7 +457,7 @@ audio {
 
 .tiles {
   display: grid;
-  grid-template-columns: repeat( auto-fill, minmax(calc(150px + 12vmin), 1fr) );
+  grid-template-columns: repeat( auto-fill, minmax(calc(150px + 6vmin + 6vw), 1fr) );
 }
 
 .tiles > * {
