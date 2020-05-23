@@ -235,7 +235,7 @@ a[href]:visited {
 }
 main {
   padding: 0 1.8rem;
-  max-width: 960px;
+  max-width: calc(950px + 10vw + 10vh);
   margin: 0 auto 100px;
 }
 main :first-child {
@@ -253,11 +253,18 @@ table th {
 /* Header */
 header {
   padding: 1rem 2rem;
-  display: flex;
   align-items: baseline;
   border-bottom: 1px dashed rgba(255, 255, 255, 0.4);
   background-color: rgba(255, 255, 255, 0.2);
   margin-bottom: 24px;
+}
+
+.header-content {
+  justify-content: space-between;
+  display: flex;
+  max-width: calc(1050px + 15vw + 15vh);
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .home {
@@ -457,7 +464,7 @@ audio {
 
 .tiles {
   display: grid;
-  grid-template-columns: repeat( auto-fill, minmax(calc(150px + 6vmin + 6vw), 1fr) );
+  grid-template-columns: repeat( auto-fill, minmax(min(calc(150px + 6vmin + 6vw), 100%), 1fr) );
 }
 
 .tiles > * {
