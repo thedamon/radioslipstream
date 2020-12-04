@@ -6,7 +6,7 @@ author: damon
 layout: post
 guid: /wp/?p=95
 permalink: /playlists/2005/11/110705-blohole-bloomers-injustice-flavoured-beets/
-filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream110705.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/slipstream110705.mp3
 grbg: 29435904
   audio/mpeg
   a:2:{s:8:"duration";s:7:"2:00:35";s:5:"image";s:89:"/images/vpreview_center.png";}
@@ -17,7 +17,7 @@ categories:
 
 originally aired 2-4am November 8, 2005 on CFMU
 
-[(mp3)](https://storage.cloud.google.com/radioslipstream/radio/slipstream110705.mp3)
+[(mp3)](https://storage.googleapis.com/radioslipstream/radio/slipstream110705.mp3)
 
 **2 am**  
 Doves / The Storm / Some Cities (2005)  

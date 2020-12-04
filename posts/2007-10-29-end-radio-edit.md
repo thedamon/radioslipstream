@@ -7,7 +7,7 @@ excerpt: The final episode of Radio Slipstream aired on CFMU. Nothing new here (
 layout: post
 guid: /wp/?p=115
 permalink: /playlists/2007/10/end-radio-edit/
-filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-92.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/slipstream-92.mp3
 grbg: 1
   audio/mpeg
   a:2:{s:8:"duration";s:7:"2:00:46";s:5:"image";s:89:"/images/vpreview_center.png";}
@@ -17,7 +17,7 @@ categories:
   - themes and specials
 ---
 
-**[Episode 92](https://storage.cloud.google.com/radioslipstream/radio/slipstream-92.mp3). originally aired October 29, 2007**
+**[Episode 92](https://storage.googleapis.com/radioslipstream/radio/slipstream-92.mp3). originally aired October 29, 2007**
 
 _The final episode of Radio Slipstream aired on CFMU. Nothing new here (except one old favourite that somehow never got featured on the show), just a selection of my most favourite songs. Like a flashback episode I suppose. I worked pretty hard on this, both the show in general, and on squeezing down 3 and a half hours of music into 2 for my final radio program. I hope you like it._
 

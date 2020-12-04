@@ -6,7 +6,7 @@ author: damon
 layout: post
 guid: /wp/?p=70
 permalink: /playlists/2006/07/061206-sorry-were-out-tryklickling-the-voomdor/
-filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-2006-06-18.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/slipstream-2006-06-18.mp3
 grbg: 169127936
   audio/mpeg
   a:2:{s:8:"duration";s:7:"2:00:01";s:5:"image";s:89:"/images/vpreview_center.png";}
@@ -16,7 +16,7 @@ categories:
 
 aired 2-4am July 11, 2006 on [93.3 CFMU](http://cfmu.mcmaster.ca). and then again from 3-5am August 8, for no particular reason.
 
-[(mp3)](https://storage.cloud.google.com/radioslipstream/radio/upload/slipstream-2006-06-19.mp3)
+[(mp3)](https://storage.googleapis.com/radioslipstream/radio/upload/slipstream-2006-06-19.mp3)
 
 **2 am**  
 Underworld / Dirty Epic / Dubnobasswithmyheadman (1993)  

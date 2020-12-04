@@ -7,7 +7,7 @@ layout: post
 guid: /playlists/2010/07/electric-rubber-drum/
 mixcloud: electric-rubber-drum
 image: electricrubberdrum
-filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-116.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/slipstream-116.mp3
 grbg: 1
   audio/mpeg
   a:2:{s:8:"duration";s:7:"1:19:59";s:5:"image";s:89:"/images/vpreview_center.png";}
@@ -16,7 +16,7 @@ categories:
   - PLAYLISTS
 ---
 
-Episode 116. [mp3](https://storage.cloud.google.com/radioslipstream/radio/slipstream-116.mp3). [cue](https://storage.cloud.google.com/radioslipstream/radio/slipstream-116.cue). Released July 24, 2010.
+Episode 116. [mp3](https://storage.googleapis.com/radioslipstream/radio/slipstream-116.mp3). [cue](https://storage.googleapis.com/radioslipstream/radio/slipstream-116.cue). Released July 24, 2010.
 
 Ok. A few bits of news: First! New Radioslipstream finally after more than a year. Good. Second! No narration on this puppy, just music. Having some sound issues with the PC right now and not bothering with hooking up a mic. Would rather just get you the music. Because there’s no talking, I made this episode perfect length for a CD, so I guess it’s also a mix CD. Third! This is not the history of hip hop episode. Don’t worry about that. It’ll come when I feel like it and is dependent on resolving some issues with my hard drive. In the meantime we pick up right where we left off.
 

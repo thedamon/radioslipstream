@@ -6,7 +6,7 @@ author: damon
 layout: post
 guid: /wp/?p=75
 permalink: /playlists/2006/05/050806-wake-wash-dress-eat-listen-hum-drum-dream/
-filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-2006-05-08.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/slipstream-2006-05-08.mp3
 grbg: 173303808
   audio/mpeg
   a:2:{s:8:"duration";s:7:"2:02:46";s:5:"image";s:89:"/images/vpreview_center.png";}
@@ -17,7 +17,7 @@ categories:
 
 originally aired 2-4am May 16, 2006 on 93.3 CFMU; but this its debut, i guess.
 
-[(mp3)](https://storage.cloud.google.com/radioslipstream/radio/slipstream-2006-05-08.mp3)
+[(mp3)](https://storage.googleapis.com/radioslipstream/radio/slipstream-2006-05-08.mp3)
 
 **2 am**  
 Alex Smoke / Intro, 6am / Incommunicado (2005)  

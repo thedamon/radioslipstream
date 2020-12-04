@@ -6,7 +6,7 @@ author: damon
 layout: post
 guid: /wp/?p=122
 permalink: /playlists/2007/08/out-into-dead-air/
-filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-s4e14.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/slipstream-s4e14.mp3
 grbg: 112144384
   audio/mpeg
   a:2:{s:8:"duration";s:7:"1:55:33";s:5:"image";s:89:"/images/vpreview_center.png";}

@@ -7,7 +7,7 @@ excerpt: The second annual Halloween special!
 layout: post
 guid: /wp/?p=59
 permalink: /playlists/2006/10/s3e08-weaned-in-the-tepid-hollows-of-hell/
-filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-s3e08.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/slipstream-s3e08.mp3
 grbg: 29935616
   audio/mpeg
 categories:
@@ -17,7 +17,7 @@ categories:
 
 Originally aired in the first moments of Halloween, 2006.
 
-([This](https://storage.cloud.google.com/radioslipstream/radio/slipstream-s3e08.mp3) is a special edition mp3 (”emm-pea-threa”) that features, or rather doesn’t feature depending on how you look at it, a missing section that occurs at 74′51.83 (59%). I would also like to apologize for my speaking being way too loud compared with the music on the recording, and blame the mixer at the station which seems to not quite be displaying everything right)  
+([This](https://storage.googleapis.com/radioslipstream/radio/slipstream-s3e08.mp3) is a special edition mp3 (”emm-pea-threa”) that features, or rather doesn’t feature depending on how you look at it, a missing section that occurs at 74′51.83 (59%). I would also like to apologize for my speaking being way too loud compared with the music on the recording, and blame the mixer at the station which seems to not quite be displaying everything right)  
 (I fixed the link now so it’s actually linking to the right show.. whoo! -nov 4)
 
 -12:18-  

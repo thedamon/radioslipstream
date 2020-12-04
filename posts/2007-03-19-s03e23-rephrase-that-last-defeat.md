@@ -6,7 +6,7 @@ author: damon
 layout: post
 guid: /wp/?p=142
 permalink: /playlists/2007/03/s03e23-rephrase-that-last-defeat/
-filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-s3e23.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/slipstream-s3e23.mp3
 grbg: 31557632
   audio/mpeg
   a:2:{s:8:"duration";s:7:"2:11:29";s:5:"image";s:89:"/images/vpreview_center.png";}

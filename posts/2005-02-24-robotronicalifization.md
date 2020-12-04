@@ -7,7 +7,7 @@ excerpt: "A full CD's length of songs about robots.  People seem to really like 
 layout: post
 guid: /wp/?p=41
 permalink: /mixes/2005/02/robotronicalifization/
-filename: https://storage.cloud.google.com/radioslipstream/radio/mixes/Robotronicalifization.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/mixes/Robotronicalifization.mp3
 grbg: 88466923
   audio/mpeg
   a:2:{s:8:"duration";s:7:"1:17:02";s:5:"image";s:89:"/images/vpreview_center.png";}

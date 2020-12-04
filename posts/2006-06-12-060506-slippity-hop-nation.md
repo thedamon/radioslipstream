@@ -7,7 +7,7 @@ excerpt: "A collection of hip hop joints and jams for to keep your body movin'?"
 layout: post
 guid: /wp/?p=72
 permalink: /playlists/2006/06/060506-slippity-hop-nation/
-filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-2006-06-05.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/slipstream-2006-06-05.mp3
 grbg: 151384064
   audio/mpeg
   a:2:{s:8:"duration";s:7:"2:01:33";s:5:"image";s:89:"/images/vpreview_center.png";}
@@ -18,7 +18,7 @@ categories:
 
 originally aired 3-5 am June 6, 2006 on 93.3 CFMU, or so I was told. May also have aired June 13, 2006. This uncertainty brought to you by the unreliability of the show being aired at the correct time and my inability to listen to CFMU while sleeping to determine if a given episode aired at the right time, or at some other time, or at all.
 
-[(mp3)](https://storage.cloud.google.com/radioslipstream/radio/upload/slipstream-2006-06-05.mp3)
+[(mp3)](https://storage.googleapis.com/radioslipstream/radio/upload/slipstream-2006-06-05.mp3)
 
 **2 am**  
 Outkast / Atliens / ATLiens (1996)  

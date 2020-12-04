@@ -6,7 +6,7 @@ author: damon
 layout: post
 guid: /playlists/2008/12/2-bit-sunshine-and-256-bits-of-snow/
 permalink: /playlists/2008/12/2-bit-sunshine-and-256-bits-of-snow/
-filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-106.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/slipstream-106.mp3
 grbg: 147239828
   audio/mpeg
   a:2:{s:8:"duration";s:7:"2:02:41";s:5:"image";s:89:"/images/vpreview_center.png";}
@@ -14,7 +14,7 @@ categories:
   - PLAYLISTS
 ---
 
-Episode 106. [mp3](https://storage.cloud.google.com/radioslipstream/radio/slipstream-106.mp3). [cue](https://storage.cloud.google.com/radioslipstream/radio/slipstream-106.cue). Released December 19, 2008
+Episode 106. [mp3](https://storage.googleapis.com/radioslipstream/radio/slipstream-106.mp3). [cue](https://storage.googleapis.com/radioslipstream/radio/slipstream-106.cue). Released December 19, 2008
 
 _So a new computer and the semi-annual end of term procrastinator-punishment-derby may have contributed to this most unprecedented of podcast interims. But fuck that. Cause now it’s up! This guy is my sham summer within this dullest of seasons… you will find blissed out psychedelia, hard-hitting dub grooves, hip hop chills and flows, club beats (not as dangerous as it sounds), and quirky catchy experimental chamber pop. All for the price of 2 hours in the background of whatever vastly important business you’re involved with on the internet/your ipod today._
 

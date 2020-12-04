@@ -9,7 +9,7 @@ permalink: /playlists/2005/04/041305-sunstroke-academy-presents-the-tricentannua
 categories:
   - PLAYLISTS
 ---
-([terrible quality MP3](https://storage.cloud.google.com/radioslipstream/radio/slipstream041305.mp3))
+([terrible quality MP3](https://storage.googleapis.com/radioslipstream/radio/slipstream041305.mp3))
 
 **6 am – In honour of the rising sun** 
 

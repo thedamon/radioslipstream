@@ -7,7 +7,7 @@ layout: post
 guid: 301
 image: admiralty
 mixcloud: holy-half-ass-rear-admiralty
-filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-129.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/slipstream-129.mp3
 grbg: 114703875
   audio/mpeg
   a:2:{s:8:"duration";s:7:"1:19:39";s:5:"image";s:88:"images/vpreview_center.png";}
@@ -15,7 +15,7 @@ categories:
   - PLAYLISTS
 ---
 
-Episode 129. [mp3](https://storage.cloud.google.com/radioslipstream/radio/slipstream-129.mp3). Released September 8, 2012.
+Episode 129. [mp3](https://storage.googleapis.com/radioslipstream/radio/slipstream-129.mp3). Released September 8, 2012.
 
 Just flat out rocking, really.
 

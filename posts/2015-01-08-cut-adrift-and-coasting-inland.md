@@ -7,7 +7,7 @@ layout: post
 guid: 474
 image: coastinginland
 mixcloud: cut-adrift-and-coasting-inland
-filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-143.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/slipstream-143.mp3
 grbg: 115180976
   audio/mpeg
   a:1:{s:8:"duration";s:7:"1:19:59";}

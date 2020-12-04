@@ -7,7 +7,7 @@ layout: post
 guid: 306
 mixcloud: 17-ways-to-skin-a-drum
 image: skin-a-drum
-filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-130.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/slipstream-130.mp3
 grbg: 113862524
   audio/mpeg
   a:2:{s:8:"duration";s:7:"1:19:04";s:5:"image";s:88:"images/vpreview_center.png";}
@@ -15,7 +15,7 @@ categories:
   - PLAYLISTS
 ---
 
-Episode 130. [mp3](https://storage.cloud.google.com/radioslipstream/radio/slipstream-130.mp3). Released September 28, 2012.
+Episode 130. [mp3](https://storage.googleapis.com/radioslipstream/radio/slipstream-130.mp3). Released September 28, 2012.
 
 A lot of songs on parade here that have been in the queue for a long time (Yea, I got a queue of songa waiting for their time to shine. It goes back 5 years, and not as much has been coming out of it lately; you could say there was a bit of a blockage, but please don’t).
 

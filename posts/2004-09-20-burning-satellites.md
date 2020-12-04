@@ -6,7 +6,7 @@ author: damon
 layout: post
 guid: /wp/?p=43
 permalink: /mixes/2004/09/burning-satellites/
-filename: https://storage.cloud.google.com/radioslipstream/radio/mixes/burning_satellites.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/mixes/burning_satellites.mp3
 grbg: 94497967
   audio/mpeg
   a:2:{s:8:"duration";s:7:"1:19:41";s:5:"image";s:89:"/images/vpreview_center.png";}

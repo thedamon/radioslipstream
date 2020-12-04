@@ -6,7 +6,7 @@ author: damon
 layout: post
 guid: /wp/?p=76
 permalink: /playlists/2006/04/042406-once-more-what-the-pelican-sees/
-filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream042406.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/slipstream042406.mp3
 grbg: 31254528
   audio/mpeg
   a:2:{s:8:"duration";s:7:"2:10:13";s:5:"image";s:89:"/images/vpreview_center.png";}
@@ -17,7 +17,7 @@ categories:
 
 originally aired 2-4am April 25, 2006 on 93.3 CFMU
 
-[(mp3)](https://storage.cloud.google.com/radioslipstream/radio/slipstream042406.mp3)
+[(mp3)](https://storage.googleapis.com/radioslipstream/radio/slipstream042406.mp3)
 
 **2 am**  
 Infantjoy / Departure / Where the Night Goes (2005)  

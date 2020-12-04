@@ -7,7 +7,7 @@ excerpt: "The hidden classics, the forgotten gems. My favourite tracks that neve
 layout: post
 guid: /wp/?p=83
 permalink: /playlists/2006/02/021306-toward-and-down-the-uparounds-b-sides/
-filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream021306.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/slipstream021306.mp3
 grbg: 1
   audio/mpeg
   a:2:{s:8:"duration";s:7:"2:05:20";s:5:"image";s:89:"/images/vpreview_center.png";}
@@ -19,7 +19,7 @@ categories:
 
 originally aired 2-4am February 14, 2006 on CFMU
 
-[(mp3)](https://storage.cloud.google.com/radioslipstream/radio/slipstream021306.mp3)
+[(mp3)](https://storage.googleapis.com/radioslipstream/radio/slipstream021306.mp3)
 
 **2 am**  
 Elbow / Strangeways To Holcombe Hill In 4.20 / Forget Myself (2005)  

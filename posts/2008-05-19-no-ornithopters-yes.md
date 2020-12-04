@@ -6,7 +6,7 @@ author: damon
 layout: post
 guid: /playlists/2008/05/no-ornithopters-yes/
 permalink: /playlists/2008/05/no-ornithopters-yes/
-filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-101.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/slipstream-101.mp3
 grbg: 1
   audio/mpeg
   a:2:{s:8:"duration";s:7:"2:00:00";s:5:"image";s:89:"/images/vpreview_center.png";}
@@ -14,7 +14,7 @@ categories:
   - PLAYLISTS
 ---
 
-Episode 101. [mp3](https://storage.cloud.google.com/radioslipstream/radio/slipstream-101.mp3). [cue](https://storage.cloud.google.com/radioslipstream/radio/slipstream-101.cue). Released May 19, 2008
+Episode 101. [mp3](https://storage.googleapis.com/radioslipstream/radio/slipstream-101.mp3). [cue](https://storage.googleapis.com/radioslipstream/radio/slipstream-101.cue). Released May 19, 2008
 
 _What better way to spend my birthday than slaving away in the basement on my podcast, with an ear infection? That was a rhetorical question! But it’s sweet. y’all… some melty, spacey, stuff after the git go, then it all goes south. What does that mean? Just listen, aight._
 

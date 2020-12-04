@@ -6,7 +6,7 @@ author: damon
 layout: post
 guid: /wp/?p=128
 permalink: /playlists/2007/07/attack-of-the-shirtless-maestros-now-with-bonus-shirts/
-filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-s4e08.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/slipstream-s4e08.mp3
 grbg: 116318208
   audio/mpeg
   a:2:{s:8:"duration";s:7:"2:01:10";s:5:"image";s:89:"/images/vpreview_center.png";}

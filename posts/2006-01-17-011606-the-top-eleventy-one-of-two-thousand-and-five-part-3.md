@@ -10,11 +10,11 @@ permalink: /playlists/2006/01/011606-the-top-eleventy-one-of-two-thousand-and-fi
 categories:
   - PLAYLISTS
   - themes and specials
-filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream011606.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/slipstream011606.mp3
 ---
 originally aired 2-4am January 17, 2006 on [CFMU](http://cfmu.mcmaster.ca)
 
-[(mp3)](https://storage.cloud.google.com/radioslipstream/radio/slipstream011606.mp3)
+[(mp3)](https://storage.googleapis.com/radioslipstream/radio/slipstream011606.mp3)
 
 Still? Yes goddamnit. This guy is nuts. Part 3 of the 111 album countdown.. and we all know the significance of 111 divided by 3! (not particularly anything, but absence is as important as presence). and Heeeeere we go!
 

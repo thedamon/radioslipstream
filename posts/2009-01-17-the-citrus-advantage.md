@@ -6,7 +6,7 @@ author: damon
 layout: post
 guid: /playlists/2009/01/the-citrus-advantage/
 permalink: /playlists/2009/01/the-citrus-advantage/
-filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-108.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/slipstream-108.mp3
 grbg: 1
   audio/mpeg
   a:2:{s:8:"duration";s:7:"0:59:48";s:5:"image";s:89:"/images/vpreview_center.png";}
@@ -14,7 +14,7 @@ categories:
   - PLAYLISTS
 ---
 
-Episode 108. [mp3](https://storage.cloud.google.com/radioslipstream/radio/slipstream-108.mp3). [cue](https://storage.cloud.google.com/radioslipstream/radio/slipstream-108.cue). Released January 17, 2009.
+Episode 108. [mp3](https://storage.googleapis.com/radioslipstream/radio/slipstream-108.mp3). [cue](https://storage.googleapis.com/radioslipstream/radio/slipstream-108.cue). Released January 17, 2009.
 
 _Continuing right where we left off, 80s tinged synthpop gives way to strangely catchy psychedelic folkpop, and it all caps off with an opulent synthesizer soundtrack finish._
 

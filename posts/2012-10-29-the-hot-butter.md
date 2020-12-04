@@ -8,7 +8,7 @@ guid: 316
 mixcloud: the-hot-butter
 image: thehotbutter
 permalink: /playlists/2012/10/the-hot-butter/
-filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-132.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/slipstream-132.mp3
 grbg: 115055854
   audio/mpeg
   a:2:{s:8:"duration";s:7:"1:19:54";s:5:"image";s:88:"images/vpreview_center.png";}
@@ -16,7 +16,7 @@ categories:
   - PLAYLISTS
 ---
 
-Episode 132. [mp3](https://storage.cloud.google.com/radioslipstream/radio/slipstream-132.mp3). Released October 29, 2012.
+Episode 132. [mp3](https://storage.googleapis.com/radioslipstream/radio/slipstream-132.mp3). Released October 29, 2012.
 Hip to the hop to the women spitting fire, to the grimy indie NY, hi concept trippin’, waxing political over smooth soulful grooves, harsh or melodic, driving hard and fast, drug dealing and inhaling, jailing, banging bangers and introspective next level mind bending horny bullishittt. Sexy, dangerous and sometimes weird.
 
 And you don’t stop.

@@ -7,7 +7,7 @@ layout: post
 guid: 403
 image: floatsome3
 mixcloud: float-some-jet-some
-filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-140.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/slipstream-140.mp3
 grbg: 110643193
   audio/mpeg
   a:1:{s:8:"duration";s:8:"01:16:50";}
@@ -15,7 +15,7 @@ categories:
   - PLAYLISTS
 ---
 
-Episode 140. [mp3](https://storage.cloud.google.com/radioslipstream/radio/slipstream-140.mp3). Released January 28, 2014.
+Episode 140. [mp3](https://storage.googleapis.com/radioslipstream/radio/slipstream-140.mp3). Released January 28, 2014.
 
 Some of the best hip hop tracks from this past year and a bit. Also some stone cold motherfucking classics. Starts out hard, but the back 3 quarters or so is pretty chill and melodic. You can get down with that, right?
 

@@ -7,7 +7,7 @@ excerpt: Warming up the winter with the sleek glow of dancefloor colours and ext
 layout: post
 guid: /wp/?p=162
 permalink: /mixes/2006/12/the-neon-drift/
-filename: https://storage.cloud.google.com/radioslipstream/radio/mixes/neon_drift.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/mixes/neon_drift.mp3
 grbg: 1
   audio/mpeg
   a:2:{s:8:"duration";s:7:"1:19:10";s:5:"image";s:89:"/images/vpreview_center.png";}
@@ -17,7 +17,7 @@ categories:
 
 Warming up the winter with the sleek glow of dancefloor colours and extreme bouts of catchiness. A bunch of shiny, catchy, warm electro/indiedance/house tunes to put a smile on your face and a rhythm in your step. Enjoy!
 
-[cue file](https://storage.cloud.google.com/radioslipstream/radio/mixes/neon_drift.cue)
+[cue file](https://storage.googleapis.com/radioslipstream/radio/mixes/neon_drift.cue)
 
 1. Firefox AK – The Draft
 2. Love Is All – Felt Tip

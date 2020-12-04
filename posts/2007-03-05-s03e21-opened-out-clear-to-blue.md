@@ -6,7 +6,7 @@ author: damon
 layout: post
 guid: /wp/?p=144
 permalink: /playlists/2007/03/s03e21-opened-out-clear-to-blue/
-filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-s3e21.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/slipstream-s3e21.mp3
 grbg: 30418944
   audio/mpeg
   a:2:{s:8:"duration";s:7:"2:01:14";s:5:"image";s:89:"/images/vpreview_center.png";}

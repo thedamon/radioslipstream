@@ -6,7 +6,7 @@ author: damon
 layout: post
 guid: /wp/?p=80
 permalink: /playlists/2006/03/060313-tarry-not-in-the-off-white-beige/
-filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream031306.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/slipstream031306.mp3
 grbg: 30816256
   audio/mpeg
   a:2:{s:8:"duration";s:7:"2:08:33";s:5:"image";s:89:"/images/vpreview_center.png";}
@@ -17,7 +17,7 @@ categories:
 
 originally aired 2-4am March 14, 2006 on CFMU
 
-[(mp3)](https://storage.cloud.google.com/radioslipstream/radio/slipstream031306.mp3)
+[(mp3)](https://storage.googleapis.com/radioslipstream/radio/slipstream031306.mp3)
 
 **2 am**  
 Peace Orchestra / Who Am I / Peace Orchestra (1999)  

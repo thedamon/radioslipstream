@@ -8,7 +8,7 @@ layout: post
 guid: /wp/?p=96
 permalink: /playlists/2005/11/103105-skulk-acres-of-frightened-grey/
 filename:
-  https://storage.cloud.google.com/radioslipstream/radio//radio/slipstream103105.mp3
+  https://storage.googleapis.com/radioslipstream/radio//radio/slipstream103105.mp3
 
   audio/mpeg
   a:1:{s:5:"image";s:89:"/images/vpreview_center.png";}
@@ -19,7 +19,7 @@ categories:
 
 originally aired 2-4am November 1, 2005 on CFMU
 
-([mp3](https://storage.cloud.google.com/radioslipstream/radio/slipstream103105.mp3))
+([mp3](https://storage.googleapis.com/radioslipstream/radio/slipstream103105.mp3))
 
 **2 am**  
 Amon Tobin | Four Ton Mantis | Supermodified (2000)  

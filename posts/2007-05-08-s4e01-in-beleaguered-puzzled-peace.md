@@ -6,7 +6,7 @@ author: damon
 layout: post
 guid: /wp/?p=136
 permalink: /playlists/2007/05/s4e01-in-beleaguered-puzzled-peace/
-filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-s4e01.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/slipstream-s4e01.mp3
 grbg: 32364544
   audio/mpeg
   a:2:{s:8:"duration";s:7:"2:04:50";s:5:"image";s:89:"/images/vpreview_center.png";}

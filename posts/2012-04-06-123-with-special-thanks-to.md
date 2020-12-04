@@ -8,7 +8,7 @@ guid: 262
 image: 123
 permalink: /playlists/2012/04/123-with-special-thanks-to
 mixcloud: with-special-thanks-to
-filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-123.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/slipstream-123.mp3
 grbg: 114396176
   audio/mpeg
   a:2:{s:8:"duration";s:7:"1:19:26";s:5:"image";s:88:"images/vpreview_center.png";}
@@ -16,7 +16,7 @@ categories:
   - PLAYLISTS
 ---
 
-Episode 123. [mp3](https://storage.cloud.google.com/radioslipstream/radio/slipstream-123.mp3). Released April 06, 2012.
+Episode 123. [mp3](https://storage.googleapis.com/radioslipstream/radio/slipstream-123.mp3). Released April 06, 2012.
 
 The electronic synthesizer  
 Highways  

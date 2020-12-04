@@ -7,7 +7,7 @@ layout: post
 guid: 353
 image: pummeled3
 mixcloud: pummeled-into-epiphany
-filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-134.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/slipstream-134.mp3
 grbg: 115048692
   audio/mpeg
   a:2:{s:8:"duration";s:7:"1:19:53";s:5:"image";s:88:"images/vpreview_center.png";}
@@ -15,7 +15,7 @@ categories:
   - PLAYLISTS
 ---
 
-Episode 134. [mp3](https://storage.cloud.google.com/radioslipstream/radio/slipstream-134.mp3). Released January 29, 2013.
+Episode 134. [mp3](https://storage.googleapis.com/radioslipstream/radio/slipstream-134.mp3). Released January 29, 2013.
 
 some jazzy soulful kinda stuff off the top, echoing off into some creepier fare – like if you could dance to a nightmare, then waking into some glistening dancepop, with a bit of soul. This one’s a keeper, folks.
 

@@ -8,7 +8,7 @@ image: devils2
 guid: /mixes/2008/10/devils-with-drum-machines-ii/
 mixcloud: devils-with-drum-machines-2
 permalink: /mixes/2008/10/devils-with-drum-machines-ii/
-filename: https://storage.cloud.google.com/radioslipstream/radio/mixes/devils_with_drum_machines2.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/mixes/devils_with_drum_machines2.mp3
 grbg: 1
   audio/mpeg
   a:2:{s:8:"duration";s:7:"1:19:26";s:5:"image";s:89:"/images/vpreview_center.png";}
@@ -21,7 +21,7 @@ There is no originality in the world.
 
 This is a dark, grimy, evil, frightening, loud, intense collection of songs. Best served with satanic rituals, vampire raves, maniac yells, grisly deaths, and that which man was never meant to know. It also has some beats of the musical variety, so feel free to see if you maybe can’t get your partially severed arm to twitch along in the groove.
 
-If you haven’t had your Halloween party yet, you know what to do! Get the [mp3](https://storage.cloud.google.com/radioslipstream/radio/mixes/devils_with_drum_machines2.mp3), get the [cue](https://storage.cloud.google.com/radioslipstream/radio/mixes/devils_with_drum_machines2.cue) file (tells your music player where the track breaks are) and get evil.
+If you haven’t had your Halloween party yet, you know what to do! Get the [mp3](https://storage.googleapis.com/radioslipstream/radio/mixes/devils_with_drum_machines2.mp3), get the [cue](https://storage.googleapis.com/radioslipstream/radio/mixes/devils_with_drum_machines2.cue) file (tells your music player where the track breaks are) and get evil.
 
 1. Crystal Castles – Courtship Dating
 2. Tomas Andersson – The Other Day

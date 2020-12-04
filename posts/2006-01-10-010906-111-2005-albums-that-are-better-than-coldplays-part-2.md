@@ -7,14 +7,14 @@ excerpt: The top 111 of 2005 part 2
 layout: post
 guid: /wp/?p=88
 permalink: /playlists/2006/01/010906-111-2005-albums-that-are-better-than-coldplays-part-2/
-filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream010906.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/slipstream010906.mp3
 categories:
   - PLAYLISTS
   - themes and specials
 ---
 originally aired 2-4am January 10, 2006 on CFMU
 
-[(mp3)](https://storage.cloud.google.com/radioslipstream/radio/slipstream010906.mp3)
+[(mp3)](https://storage.googleapis.com/radioslipstream/radio/slipstream010906.mp3)
 
 The second part of our tiny little downcounting of musical albumens.
 

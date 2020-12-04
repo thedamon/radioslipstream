@@ -6,7 +6,7 @@ author: damon
 layout: post
 guid: /wp/?p=131
 permalink: /playlists/2007/06/tears-become-you/
-filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-s4e05.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/slipstream-s4e05.mp3
 grbg: 115163136
   audio/mpeg
 categories:

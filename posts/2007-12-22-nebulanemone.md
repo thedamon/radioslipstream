@@ -7,7 +7,7 @@ layout: post
 guid: /playlists/2007/12/nebulanemone/
 permalink: /playlists/2007/12/nebulanemone/
 image: nebulanemone
-filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-94.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/slipstream-94.mp3
 grbg: 1
   audio/mpeg
   a:2:{s:8:"duration";s:7:"2:00:00";s:5:"image";s:89:"/images/vpreview_center.png";}
@@ -16,7 +16,7 @@ categories:
   - PLAYLISTS
 ---
 
-[Episode 94](https://storage.cloud.google.com/radioslipstream/radio/slipstream-94.mp3). Released December 22, 2007
+[Episode 94](https://storage.googleapis.com/radioslipstream/radio/slipstream-94.mp3). Released December 22, 2007
 
 [NOTE: As of Jan 3, 2008, the mp3 has been fixed so it is no longer full of blips and artifacts]
 

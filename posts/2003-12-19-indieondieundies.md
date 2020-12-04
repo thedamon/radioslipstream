@@ -7,7 +7,7 @@ excerpt: This here had its inception because the hiphop mix I was working on was
 layout: post
 guid: /wp/?p=47
 permalink: /mixes/2003/12/indieondieundies/
-filename: https://storage.cloud.google.com/radioslipstream/radio/mixes/indie_ondie_undies.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/mixes/indie_ondie_undies.mp3
 grbg: 88987420
   audio/mpeg
   a:2:{s:8:"duration";s:7:"1:18:33";s:5:"image";s:89:"/images/vpreview_center.png";}

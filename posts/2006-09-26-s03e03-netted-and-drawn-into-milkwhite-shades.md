@@ -6,7 +6,7 @@ author: damon
 layout: post
 guid: /wp/?p=64
 permalink: /playlists/2006/09/s03e03-netted-and-drawn-into-milkwhite-shades/
-filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-s3e03.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/slipstream-s3e03.mp3
 grbg: 29179904
   audio/mpeg
 
@@ -16,7 +16,7 @@ categories:
 
 _originally aired September 25th, 2006 on [CFMU](http://cfmu.mcmaster.ca)_
 
-(New, exciting, compressed audio, technology allows you to [“re-experience” episode](https://storage.cloud.google.com/radioslipstream/radio/slipstream-s3e03.mp3))
+(New, exciting, compressed audio, technology allows you to [“re-experience” episode](https://storage.googleapis.com/radioslipstream/radio/slipstream-s3e03.mp3))
 
 -midnightish-  
 Junior Boys / Under the Sun / Last Exit (2004)  

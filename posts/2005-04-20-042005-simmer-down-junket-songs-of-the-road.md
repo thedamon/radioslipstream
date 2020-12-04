@@ -6,7 +6,7 @@ author: damon
 layout: post
 guid: /wp/?p=98
 permalink: /playlists/2005/04/042005-simmer-down-junket-songs-of-the-road/
-filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream042005.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/slipstream042005.mp3
 grbg: 45174784
   audio/mpeg
   a:2:{s:8:"duration";s:7:"3:02:34";s:5:"image";s:89:"/images/vpreview_center.png";}
@@ -14,7 +14,7 @@ categories:
   - PLAYLISTS
 ---
 
-([MP3](https://storage.cloud.google.com/radioslipstream/radio/slipstream042005.mp3))
+([MP3](https://storage.googleapis.com/radioslipstream/radio/slipstream042005.mp3))
 
 <strong>6 am</strong>
 

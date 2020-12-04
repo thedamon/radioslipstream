@@ -6,7 +6,7 @@ author: damon
 excerpt: The top 111 of 2005 part 5
 layout: post
 guid: /wp/?p=85
-filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream012306.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/slipstream012306.mp3
 permalink: /playlists/2006/01/013006-tiptop-of-countdown-mountain-the-ze-big-111-of-05-part-5/
 categories:
   - PLAYLISTS
@@ -14,7 +14,7 @@ categories:
 ---
 originally aired 2-4am January 31, 2006 on [CFMU](http://cfmu.mcmaster.ca)
 
-[(mp3)](https://storage.cloud.google.com/radioslipstream/radio/slipstream012306.mp3)
+[(mp3)](https://storage.googleapis.com/radioslipstream/radio/slipstream012306.mp3)
 
 One last kick at the can…
 

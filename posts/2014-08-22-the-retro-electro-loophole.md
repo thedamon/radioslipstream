@@ -7,7 +7,7 @@ layout: post
 guid: 472
 mixcloud: the-retro-electro-loop-hole
 image: retroelectro
-filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-142.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/slipstream-142.mp3
 grbg: 28506420
   audio/mpeg
   a:1:{s:8:"duration";s:7:"0:19:48";}

@@ -6,7 +6,7 @@ author: damon
 layout: post
 guid: 293
 mixcloud: sailing-emergent-seas
-filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-128.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/slipstream-128.mp3
 image: sailing
 grbg: 114834407
   audio/mpeg
@@ -15,7 +15,7 @@ categories:
   - PLAYLISTS
 ---
 
-Episode 128. [mp3](https://storage.cloud.google.com/radioslipstream/radio/slipstream-128.mp3). Released July 14, 2012.
+Episode 128. [mp3](https://storage.googleapis.com/radioslipstream/radio/slipstream-128.mp3). Released July 14, 2012.
 
 As far as invalidating genres, there’s two types of rather divergent ‘garage’ music on here. Mostly though it’s a half of dubby techno and a half of darkish hip hop bookended by proto and posto punkishness. The overall feeling is a bit heavy and unnerving. In a good way of course.</p>
 

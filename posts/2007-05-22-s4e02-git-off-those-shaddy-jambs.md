@@ -6,7 +6,7 @@ author: damon
 layout: post
 guid: /wp/?p=134
 permalink: /playlists/2007/05/s4e02-git-off-those-shaddy-jambs/
-filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-s4e02.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/slipstream-s4e02.mp3
 grbg: 31199232
   audio/mpeg
   a:2:{s:8:"duration";s:7:"2:06:26";s:5:"image";s:89:"/images/vpreview_center.png";}

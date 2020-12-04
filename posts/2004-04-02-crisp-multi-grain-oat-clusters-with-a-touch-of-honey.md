@@ -7,7 +7,7 @@ excerpt: In the two weeks before this CD was made I discovered a lot of really a
 layout: post
 guid: /wp/?p=45
 permalink: /mixes/2004/04/crisp-multi-grain-oat-clusters-with-a-touch-of-honey/
-filename: https://storage.cloud.google.com/radioslipstream/radio/mixes/crisp_multigrain_out_clusters_with_a_touch_of_honey.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/mixes/crisp_multigrain_out_clusters_with_a_touch_of_honey.mp3
 grbg: 92433169
   audio/mpeg
   a:2:{s:8:"duration";s:7:"1:19:55";s:5:"image";s:89:"/images/vpreview_center.png";}

@@ -13,7 +13,7 @@ categories:
 ---
 originally aired 2-4am December 6, 2005 on CFMU
 
-[(mp3)](https://storage.cloud.google.com/radioslipstream/radio/slipstream120505.mp3) 
+[(mp3)](https://storage.googleapis.com/radioslipstream/radio/slipstream120505.mp3) 
 
 Tonight! All is music pertaining to scoring the movement of picture or body.
 

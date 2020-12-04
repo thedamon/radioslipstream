@@ -7,7 +7,7 @@ layout: post
 guid: 278
 mixcloud: telegrams-from-the-mothership
 image: telegrams2
-filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-126.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/slipstream-126.mp3
 grbg: 115024369
   audio/mpeg
   a:2:{s:8:"duration";s:7:"1:19:53";s:5:"image";s:88:"images/vpreview_center.png";}
@@ -15,7 +15,7 @@ categories:
   - PLAYLISTS
 ---
 
-Episode 126. [mp3](https://storage.cloud.google.com/radioslipstream/radio/slipstream-126.mp3). Released June 19, 2012.
+Episode 126. [mp3](https://storage.googleapis.com/radioslipstream/radio/slipstream-126.mp3). Released June 19, 2012.
 
 Dreamy space women, then some tender dubstep and some classic post-punk. Then a couple more dreamy space women.
 

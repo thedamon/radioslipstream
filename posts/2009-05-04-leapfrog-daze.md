@@ -6,7 +6,7 @@ author: damon
 layout: post
 guid: /playlists/2009/05/leapfrog-daze/
 permalink: /playlists/2009/05/leapfrog-daze/
-filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-111.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/slipstream-111.mp3
 grbg: 78255975
   audio/mpeg
   a:2:{s:8:"duration";s:7:"1:05:17";s:5:"image";s:89:"/images/vpreview_center.png";}
@@ -14,7 +14,7 @@ categories:
   - PLAYLISTS
 ---
 
-Episode 111. [mp3](https://storage.cloud.google.com/radioslipstream/radio/slipstream-111.mp3). [cue](https://storage.cloud.google.com/radioslipstream/radio/slipstream-111.cue). Released May 4, 2009.
+Episode 111. [mp3](https://storage.googleapis.com/radioslipstream/radio/slipstream-111.mp3). [cue](https://storage.googleapis.com/radioslipstream/radio/slipstream-111.cue). Released May 4, 2009.
 
 _Thought we missed it, but Spring is in the air. Chartreuse is gradually taking over the palette outside my window. So today the sounds are light (as in lumens) and wispy and/or buoyant. Some great glittering oldies, a few delicate shimmery numbers in the vein of folk, and then some positive, gleeful hip hop (not two words normally associated with the genre, huh). So do please grab a hammock, a pencil and a book of blank pages, and an earful of blooming… Radio Slipstream style._
 

@@ -7,7 +7,7 @@ excerpt: Tending towards a bit more of an eclectic angle than some of my efforts
 layout: post
 guid: /wp/?p=42
 permalink: /mixes/2004/12/the-titillating-sounds-of-ipswitch/
-filename: https://storage.cloud.google.com/radioslipstream/radio/mixes/titillating_tones_of_ipswitch.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/mixes/titillating_tones_of_ipswitch.mp3
 grbg: 88840347
   audio/mpeg
   a:2:{s:8:"duration";s:7:"1:17:49";s:5:"image";s:89:"/images/vpreview_center.png";}

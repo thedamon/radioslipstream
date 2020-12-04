@@ -7,7 +7,7 @@ layout: post
 guid: 330
 image: magneticorange
 mixcloud: magnetic-orange
-filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-133.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/slipstream-133.mp3
 grbg: 1
   audio/mpeg
   a:2:{s:8:"duration";s:7:"1:17:43";s:5:"image";s:88:"images/vpreview_center.png";}
@@ -15,7 +15,7 @@ categories:
   - PLAYLISTS
 ---
 
-Episode 133. [mp3](https://storage.cloud.google.com/radioslipstream/radio/slipstream-133.mp3). Released December 03, 2012.
+Episode 133. [mp3](https://storage.googleapis.com/radioslipstream/radio/slipstream-133.mp3). Released December 03, 2012.
 
 Call me Casey Kasem. These here tunes are downright high-energy! catchy! melodic! mostly-with-vocals! spunky! accessible! (except for the darker, more intense kinda stuff grooving at the beginning, the extended “electronic techno type” tunes in the middle, and the end _is_ poppy… but it’s art poppy.)
 

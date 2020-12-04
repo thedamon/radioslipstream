@@ -7,7 +7,7 @@ layout: post
 guid: 382
 mixcloud: sex-and-heavy-drinking
 image: sexnheavydrinking2
-filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-137.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/slipstream-137.mp3
 grbg: 113255647
   audio/mpeg
   a:1:{s:8:"duration";s:8:"01:18:39";}
@@ -15,7 +15,7 @@ categories:
   - PLAYLISTS
 ---
 
-Episode 137. [mp3](https://storage.cloud.google.com/radioslipstream/radio/slipstream-137.mp3). Released September 29, 2013.
+Episode 137. [mp3](https://storage.googleapis.com/radioslipstream/radio/slipstream-137.mp3). Released September 29, 2013.
 
   
 This plays like a night of debauchery that’s had a heavy gaussian blur applied to it. </p>

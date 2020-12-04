@@ -6,7 +6,7 @@ author: damon
 layout: post
 guid: /wp/?p=127
 permalink: /playlists/2007/07/david-suzuki-hates-toast/
-filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-s4e09.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/slipstream-s4e09.mp3
 grbg: 123625472
   audio/mpeg
 categories:
@@ -15,7 +15,7 @@ categories:
   - themes and specials
 ---
 
-**(feat. Val and Kristen).**[ \*\*\*\*](https://storage.cloud.google.com/radioslipstream/radio/slipstream-s4e09.mp3)**[MP3.](https://storage.cloud.google.com/radioslipstream/radio/slipstream-s4e09.mp3) originally aired July 16, 2007**
+**(feat. Val and Kristen).**[ \*\*\*\*](https://storage.googleapis.com/radioslipstream/radio/slipstream-s4e09.mp3)**[MP3.](https://storage.googleapis.com/radioslipstream/radio/slipstream-s4e09.mp3) originally aired July 16, 2007**
 
 Motiivi Tuntematon / Mankind Failed / Speicher 46 (2007)
 

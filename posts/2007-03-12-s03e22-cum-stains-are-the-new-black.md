@@ -7,7 +7,7 @@ excerpt: "Only 7 songs tonight!  But they are all rather long, so it balances ou
 layout: post
 guid: /wp/?p=143
 permalink: /playlists/2007/03/s03e22-cum-stains-are-the-new-black/
-filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-s3e22.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/slipstream-s3e22.mp3
 grbg: 28825600
   audio/mpeg
   a:2:{s:8:"duration";s:7:"1:56:47";s:5:"image";s:89:"/images/vpreview_center.png";}

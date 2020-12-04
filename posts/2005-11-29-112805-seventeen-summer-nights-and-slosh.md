@@ -11,7 +11,7 @@ categories:
 ---
 originally aired 2-4am November 29, 2005 on CFMU
 
-[(mp3)](https://storage.cloud.google.com/radioslipstream/radio/slipstream112805.mp3) 
+[(mp3)](https://storage.googleapis.com/radioslipstream/radio/slipstream112805.mp3) 
 
 **2 am**  
 Thomas Brinkmann / Margins / Lucky Hands (2005)  

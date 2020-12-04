@@ -6,7 +6,7 @@ author: damon
 layout: post
 guid: /wp/?p=66
 permalink: /playlists/2006/09/s03e01-interstellar-trade-back-winds/
-filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-s3e01.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/slipstream-s3e01.mp3
 grbg: 30820352
   audio/mpeg
 categories:
@@ -16,7 +16,7 @@ categories:
 
 _originally aired September 11, 2006 on [93.3 CFMU](http://cfmu.mcmaster.ca)_
 
-(you can now relive the moments in glorious low definition [“MP3″!](https://storage.cloud.google.com/radioslipstream/radio/slipstream-s3e01.mp3))
+(you can now relive the moments in glorious low definition [“MP3″!](https://storage.googleapis.com/radioslipstream/radio/slipstream-s3e01.mp3))
 
 -midnight-  
 Jürgen Paape / So Weit Wie Noch Nie / So Weit Wie Noch Nie (2003)  

@@ -6,7 +6,7 @@ author: damon
 layout: post
 guid: /wp/?p=71
 permalink: /playlists/2006/06/062606-the-middling-lord-krazo-of-nednetron/
-filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-2006-06-26.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/slipstream-2006-06-26.mp3
 grbg: 160917504
   audio/mpeg
   a:2:{s:8:"duration";s:7:"2:00:33";s:5:"image";s:89:"/images/vpreview_center.png";}
@@ -16,7 +16,7 @@ categories:
 
 aired 2-4am June 27, 2006 on [93.3 CFMU](http://cfmu.mcmaster.ca)
 
-[(mp3)](https://storage.cloud.google.com/radioslipstream/radio/upload/slipstream-2006-06-26.mp3)
+[(mp3)](https://storage.googleapis.com/radioslipstream/radio/upload/slipstream-2006-06-26.mp3)
 
 **2 am**  
 Earth Leakage Trip / No Idea / Psychotronic EP (1991)  

@@ -8,7 +8,7 @@ layout: post
 guid: /wp/?p=46
 permalink: /mixes/2003/12/hiphop-for-people-who-think-they-dont-like-hip-hop/
 filename:
-  https://storage.cloud.google.com/radioslipstream/radio/mixes/hiphoppingfortheunhiphopped.mp3
+  https://storage.googleapis.com/radioslipstream/radio/mixes/hiphoppingfortheunhiphopped.mp3
 grbg: 83399237
   audio/mpeg
   a:2:{s:8:"duration";s:7:"1:19:59";s:5:"image";s:89:"/images/vpreview_center.png";}

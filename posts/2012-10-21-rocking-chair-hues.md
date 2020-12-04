@@ -7,7 +7,7 @@ layout: post
 guid: 314
 mixcloud: rocking-chair-hues
 image: rockingchair
-filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-131.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/slipstream-131.mp3
 grbg: 115096966
   audio/mpeg
   a:2:{s:8:"duration";s:7:"1:19:56";s:5:"image";s:88:"images/vpreview_center.png";}
@@ -15,7 +15,7 @@ categories:
   - PLAYLISTS
 ---
 
-Episode 131. [mp3](https://storage.cloud.google.com/radioslipstream/radio/slipstream-131.mp3). Released October 21, 2012.
+Episode 131. [mp3](https://storage.googleapis.com/radioslipstream/radio/slipstream-131.mp3). Released October 21, 2012.
 
 It’s autumn. Falling leaves brush guitar strings as some hippy sings about his bursting heart. twank twank twank. OH GAWD I CAN HAS EMOTIONS. Good for you!(?). It starts to rain and the wind turns cold. Cloud grey, dying leaf yellow, deadleaf rot brown. Misery, hope and ennui. Together in this slow dance of tired metaphors (<-- laaaame). AKA. Autumn birthed folk music and that mmm deep feeling of suspended nostalgia and disembodied sadness.
 

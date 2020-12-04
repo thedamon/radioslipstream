@@ -6,7 +6,7 @@ author: damon
 layout: post
 guid: /wp/?p=62
 permalink: /playlists/2006/10/s03e05-terribly-chuffed-milord-ave-another-canape/
-filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-s3e05.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/slipstream-s3e05.mp3
 grbg: 30470144
   audio/mpeg
 
@@ -16,7 +16,7 @@ categories:
 
 _originally aired October 9th, 2006 on [CFMU](http://cfmu.mcmaster.ca)_
 
-([This](https://storage.cloud.google.com/radioslipstream/radio/slipstream-s3e05.mp3) is where you listen when you want to listen to this show when it is not when it is on)
+([This](https://storage.googleapis.com/radioslipstream/radio/slipstream-s3e05.mp3) is where you listen when you want to listen to this show when it is not when it is on)
 
 David Holmes / Out Run / Bow Down To The Exit Sign (2000)  
 St. Germain / Land Of… / Tourist (2001)  

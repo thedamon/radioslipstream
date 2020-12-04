@@ -7,7 +7,7 @@ excerpt: "Every song on this episode is simply named after a girl or woman. That
 layout: post
 guid: /wp/?p=125
 permalink: /playlists/2007/07/cry-her-name-into-the-rosy-dawn/
-filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-s4e11.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/slipstream-s4e11.mp3
 grbg: 127059968
   audio/mpeg
   a:2:{s:8:"duration";s:7:"2:04:16";s:5:"image";s:89:"/images/vpreview_center.png";}

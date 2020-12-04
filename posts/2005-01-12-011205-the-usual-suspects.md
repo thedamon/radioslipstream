@@ -12,7 +12,7 @@ categories:
 ---
 The first ever Slipstream Radio Three-hour
 
-([MP3](https://storage.cloud.google.com/radioslipstream/radio/slipstream011205.mp3))
+([MP3](https://storage.googleapis.com/radioslipstream/radio/slipstream011205.mp3))
 
 <strong>6 am</strong>
 

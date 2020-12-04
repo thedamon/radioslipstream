@@ -8,7 +8,7 @@ guid: 245
 permalink: /playlists/2011/12/nocturne-in-day-major/
 mixcloud: nocturne-in-day-major
 image: nocturne
-filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-121.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/slipstream-121.mp3
 grbg: 114884562
   audio/mpeg
   a:2:{s:8:"duration";s:7:"1:19:46";s:5:"image";s:89:"/images/vpreview_center.png";}
@@ -16,7 +16,7 @@ categories:
   - PLAYLISTS
 ---
 
-Episode 121. [mp3](https://storage.cloud.google.com/radioslipstream/radio/slipstream-121.mp3). Released December 05, 2011.
+Episode 121. [mp3](https://storage.googleapis.com/radioslipstream/radio/slipstream-121.mp3). Released December 05, 2011.
 
 Cheezy synthsophone introduces a liquid languid squiddy sent surreal sandwich (Sp? Sic!). A layer of dark and purple spooky glowing tentacles under a layer of bright and pulsing sunshine ventricles. A sauce made of tears, heath gas and the sweat off forlorn entrails. All of this rapped between a solid old school kaiser top and a fresh twisted hip hop beat or two. Ingredients harvested fresh from the solitary rays of sunshine at the edge of a nightmare.
 

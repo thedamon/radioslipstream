@@ -6,7 +6,7 @@ author: damon
 layout: post
 guid: /wp/?p=130
 permalink: /playlists/2007/06/goggleflex-bonjour/
-filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-s4e06.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/slipstream-s4e06.mp3
 categories:
   - PLAYLISTS
 ---

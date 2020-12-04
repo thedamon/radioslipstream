@@ -6,7 +6,7 @@ author: damon
 layout: post
 guid: /playlists/2009/03/the-oak-leaf-hustle/
 permalink: /playlists/2009/03/the-oak-leaf-hustle/
-filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-110.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/slipstream-110.mp3
 grbg: 1
   audio/mpeg
   a:2:{s:8:"duration";s:7:"1:14:44";s:5:"image";s:89:"/images/vpreview_center.png";}
@@ -14,7 +14,7 @@ categories:
   - PLAYLISTS
 ---
 
-Episode 110. [mp3](https://storage.cloud.google.com/radioslipstream/radio/slipstream-110.mp3). [cue](https://storage.cloud.google.com/radioslipstream/radio/slipstream-110.cue). Released March 29, 2009.
+Episode 110. [mp3](https://storage.googleapis.com/radioslipstream/radio/slipstream-110.mp3). [cue](https://storage.googleapis.com/radioslipstream/radio/slipstream-110.cue). Released March 29, 2009.
 
 _On today’s show, we mainly look at another side of folk music; a side that is defined as such only for having minimal distortion on its guitars. That, of course, is indie-folk. Since genres mean little, there are a variety of tinges here; from country, to psych, to avant and… beyond?_
 

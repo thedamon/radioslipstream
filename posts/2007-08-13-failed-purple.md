@@ -6,7 +6,7 @@ author: damon
 layout: post
 guid: /wp/?p=123
 permalink: /playlists/2007/08/failed-purple/
-filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-s4e13.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/slipstream-s4e13.mp3
 grbg: 120688640
   audio/mpeg
   a:2:{s:8:"duration";s:7:"2:01:01";s:5:"image";s:89:"/images/vpreview_center.png";}

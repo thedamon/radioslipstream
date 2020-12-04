@@ -6,7 +6,7 @@ author: damon
 layout: post
 guid: /playlists/2009/06/out-of-aardvark-hearts/
 permalink: /playlists/2009/06/out-of-aardvark-hearts/
-filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-113.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/slipstream-113.mp3
 grbg: 82448840
   audio/mpeg
   a:2:{s:8:"duration";s:7:"1:08:42";s:5:"image";s:89:"/images/vpreview_center.png";}
@@ -14,7 +14,7 @@ categories:
   - PLAYLISTS
 ---
 
-Episode 113. [mp3](https://storage.cloud.google.com/radioslipstream/radio/slipstream-113.mp3). [cue](https://storage.cloud.google.com/radioslipstream/radio/slipstream-113.cue). Released June 3, 2009.
+Episode 113. [mp3](https://storage.googleapis.com/radioslipstream/radio/slipstream-113.mp3). [cue](https://storage.googleapis.com/radioslipstream/radio/slipstream-113.cue). Released June 3, 2009.
 
 _Witness! The fastest turnaround since going off the air of CFMU on 10/27/07. Some stranger sounds kicking things off. Dense, odd and awesome, then some slightly experimental folky sort of things, moving toward some general pop rocking. A bit of an eclectic beast for you this time, but if you keep it fed it will give you years of joy._
 

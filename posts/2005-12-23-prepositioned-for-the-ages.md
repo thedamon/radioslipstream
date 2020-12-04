@@ -7,7 +7,7 @@ excerpt: "A rather enjoyable collection of tunes from the first (short) half of 
 layout: post
 guid: /wp/?p=165
 permalink: /mixes/2005/12/prepositioned-for-the-ages/
-filename: https://storage.cloud.google.com/radioslipstream/radio/mixes/prepositioned_for_the_ages.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/mixes/prepositioned_for_the_ages.mp3
 grbg: 93237185
   audio/mpeg
   a:2:{s:8:"duration";s:7:"1:19:31";s:5:"image";s:89:"/images/vpreview_center.png";}

@@ -6,7 +6,7 @@ author: damon
 layout: post
 guid: /wp/?p=55
 permalink: /playlists/2006/11/s03e11-chimney-stained-toast-for-tea/
-filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-s3e11.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/slipstream-s3e11.mp3
 grbg: 30244864
   audio/mpeg
 
@@ -16,7 +16,7 @@ categories:
 
 originally aired midnight nov 27 to 2am nov 28. (on [cfmu](http://cfmu.mcmaster.ca) of course!)
 
-(If you look, you might not see. If you fill two, you’ll [mp3](https://storage.cloud.google.com/radioslipstream/radio/slipstream-s3e11.mp3). I’m obtuse.)
+(If you look, you might not see. If you fill two, you’ll [mp3](https://storage.googleapis.com/radioslipstream/radio/slipstream-s3e11.mp3). I’m obtuse.)
 
 -midnight-  
 Murcof / Recuerdos / Remembranza (2005)  

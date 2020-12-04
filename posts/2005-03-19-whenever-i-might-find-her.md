@@ -7,7 +7,7 @@ excerpt: This may or may not have been made with someone in mind. Several months
 layout: post
 guid: /wp/?p=40
 permalink: /mixes/2005/03/whenever-i-might-find-her/
-filename: https://storage.cloud.google.com/radioslipstream/radio/mixes/whenever_i_might_find_her.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/mixes/whenever_i_might_find_her.mp3
 grbg: 90721288
   audio/mpeg
   a:2:{s:8:"duration";s:7:"1:19:36";s:5:"image";s:89:"/images/vpreview_center.png";}

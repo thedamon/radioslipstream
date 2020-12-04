@@ -6,7 +6,7 @@ author: damon
 layout: post
 guid: /wp/?p=120
 permalink: /playlists/2007/09/fivrius-tepistem/
-filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-87.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/slipstream-87.mp3
 grbg: 134045696
   audio/mpeg
   a:2:{s:8:"duration";s:7:"1:59:54";s:5:"image";s:89:"/images/vpreview_center.png";}
@@ -14,7 +14,7 @@ categories:
   - PLAYLISTS
 ---
 
-**[Episode 87.](https://storage.cloud.google.com/radioslipstream/radio/slipstream-87.mp3) originally aired September 17, 2007**
+**[Episode 87.](https://storage.googleapis.com/radioslipstream/radio/slipstream-87.mp3) originally aired September 17, 2007**
 
 Si Begg / River (Featuring Jinadu) / Director’s Cut (2003)  
 Orang / Little Brother / Herd Of Instinct (1995)  

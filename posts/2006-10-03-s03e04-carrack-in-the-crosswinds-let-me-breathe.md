@@ -6,7 +6,7 @@ author: damon
 layout: post
 guid: /wp/?p=63
 permalink: /playlists/2006/10/s03e04-carrack-in-the-crosswinds-let-me-breathe/
-filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-s3e04.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/slipstream-s3e04.mp3
 grbg: 29935616
   audio/mpeg
 categories:
@@ -16,7 +16,7 @@ categories:
 
 _originally aired October 2, 2006 on [CFMU](http://cfmu.mcmaster.ca)_
 
-(One Time and ONE time only. MP3! [Mp3!](https://storage.cloud.google.com/radioslipstream/radio/slipstream-s3e04.mp3) MP3!)
+(One Time and ONE time only. MP3! [Mp3!](https://storage.googleapis.com/radioslipstream/radio/slipstream-s3e04.mp3) MP3!)
 
 Various / Today / The World is Gone (2006)  
 Portishead / Only You / Portishead (1997)  

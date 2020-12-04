@@ -7,7 +7,7 @@ layout: post
 guid: 398
 image: midnight2
 mixcloud: black-as-midnight-on-a-moonless-night
-filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-139.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/slipstream-139.mp3
 grbg: 111719020
   audio/mpeg
   a:1:{s:8:"duration";s:8:"01:17:35";}
@@ -15,7 +15,7 @@ categories:
   - PLAYLISTS
 ---
 
-Episode 139. [mp3](https://storage.cloud.google.com/radioslipstream/radio/slipstream-139.mp3). Released January 12, 2014.
+Episode 139. [mp3](https://storage.googleapis.com/radioslipstream/radio/slipstream-139.mp3). Released January 12, 2014.
 
 Radio Slipstream is 9 years old today.  
 That’s fucked.  

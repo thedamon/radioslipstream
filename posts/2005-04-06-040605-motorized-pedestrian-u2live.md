@@ -9,7 +9,7 @@ permalink: /playlists/2005/04/040605-motorized-pedestrian-u2live/
 categories:
   - PLAYLISTS
 ---
-(<a href=“https://storage.cloud.google.com/radioslipstream/radio/slipstream040605.mp3">MP3</a>)
+(<a href=“https://storage.googleapis.com/radioslipstream/radio/slipstream040605.mp3">MP3</a>)
 
 **6 am** 
 

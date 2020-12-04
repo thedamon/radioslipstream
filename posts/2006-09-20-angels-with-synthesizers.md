@@ -7,7 +7,7 @@ excerpt: A companion of sorts to Devils with Drum Machines. Ethereal would be th
 layout: post
 guid: /wp/?p=164
 permalink: /mixes/2006/09/angels-with-synthesizers/
-filename: https://storage.cloud.google.com/radioslipstream/radio/mixes/angels_with_synthesizers.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/mixes/angels_with_synthesizers.mp3
 grbg: 92901651
   audio/mpeg
   a:2:{s:8:"duration";s:7:"1:19:57";s:5:"image";s:89:"/images/vpreview_center.png";}

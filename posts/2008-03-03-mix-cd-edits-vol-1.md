@@ -19,7 +19,7 @@ Perhaps this is a lame excuse for not having a show ready.. but in my defense I�
 ## The Sweetness of the Beatness (mix cd edit)
 
 _all sweet beats, all the time_  
-[mp3](https://storage.cloud.google.com/radioslipstream/radio/mixes/sweetnessofthebeatness.mp3) | [cue](https://storage.cloud.google.com/radioslipstream/radio/mixes/sweetnessofthebeatness.cue)
+[mp3](https://storage.googleapis.com/radioslipstream/radio/mixes/sweetnessofthebeatness.mp3) | [cue](https://storage.googleapis.com/radioslipstream/radio/mixes/sweetnessofthebeatness.cue)
 
 1. Prosumer and Murat Tepeli – Serenity  
 2. Plej – Lay Of The Land
@@ -47,7 +47,7 @@ _all sweet beats, all the time_
 ## Always Less Like Lasting (mix cd edit) 
 
 _maybe mostly midtempo indie rock, but starts dancey, moves to spacey and then sparser anthemic stuff, before going a bit grimey._  
-[mp3](https://storage.cloud.google.com/radioslipstream/radio/mixes/alwayslesslikelasting.mp3) | [cue](https://storage.cloud.google.com/radioslipstream/radio/mixes/alwayslesslikelasting.cue)
+[mp3](https://storage.googleapis.com/radioslipstream/radio/mixes/alwayslesslikelasting.mp3) | [cue](https://storage.googleapis.com/radioslipstream/radio/mixes/alwayslesslikelasting.cue)
 
 1. Simian Mobile Disco – I Believe  
 2. DJ Mehdi – I Am Somebody (feat. Chromeo)  
@@ -73,7 +73,7 @@ _maybe mostly midtempo indie rock, but starts dancey, moves to spacey and then s
 ## Nebulanemone (mix cd edit) 
 
 _a smooth, trippy start, then some rockin beats, before a lot of hip hop_  
-[mp3](https://storage.cloud.google.com/radioslipstream/radio/mixes/nebulanemone.mp3) | [cue](https://storage.cloud.google.com/radioslipstream/radio/mixes/nebulanemone.cue)
+[mp3](https://storage.googleapis.com/radioslipstream/radio/mixes/nebulanemone.mp3) | [cue](https://storage.googleapis.com/radioslipstream/radio/mixes/nebulanemone.cue)
 
 1. Biosphere – Kobresia  
 2. Future Sound Of London – Everyone In The World Is Doing  
@@ -100,7 +100,7 @@ _a smooth, trippy start, then some rockin beats, before a lot of hip hop_
 ## Jacked Up Hobos on the 10:15 (mix cd edit)
 
 _Rock n roll moving from raw kinda stuff to uppity indie rock pop_  
-[mp3](https://storage.cloud.google.com/radioslipstream/radio/mixes/jackeduphobos.mp3) | [cue](https://storage.cloud.google.com/radioslipstream/radio/mixes/jackeduphobos.cue)
+[mp3](https://storage.googleapis.com/radioslipstream/radio/mixes/jackeduphobos.mp3) | [cue](https://storage.googleapis.com/radioslipstream/radio/mixes/jackeduphobos.cue)
 
 1. Les Savy Fav – Brace Yourself  
 2. 12 Rods – Red  

@@ -12,7 +12,7 @@ categories:
 ---
 
 _maybe mostly midtempo indie rock, but starts dancey, moves to spacey and then sparser anthemic stuff, before going a bit grimey._  
-[mp3](https://storage.cloud.google.com/radioslipstream/radio/mixes/alwayslesslikelasting.mp3) | [cue](https://storage.cloud.google.com/radioslipstream/radio/mixes/alwayslesslikelasting.cue)
+[mp3](https://storage.googleapis.com/radioslipstream/radio/mixes/alwayslesslikelasting.mp3) | [cue](https://storage.googleapis.com/radioslipstream/radio/mixes/alwayslesslikelasting.cue)
 
 1. Simian Mobile Disco – I Believe  
 2. DJ Mehdi – I Am Somebody (feat. Chromeo)  

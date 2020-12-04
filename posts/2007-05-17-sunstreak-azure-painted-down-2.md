@@ -9,7 +9,7 @@ guid: /wp/?p=158
 image: sunstreak
 mixcloud: sunstreak-azure-painted-down
 permalink: /mixes/2007/05/sunstreak-azure-painted-down-2/
-filename: https://storage.cloud.google.com/radioslipstream/radio/mixes/sunstreak_azure_painted_down.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/mixes/sunstreak_azure_painted_down.mp3
 grbg: 93766654
   audio/mpeg
   a:2:{s:8:"duration";s:7:"1:19:32";s:5:"image";s:89:"/images/vpreview_center.png";}

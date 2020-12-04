@@ -6,7 +6,7 @@ author: damon
 layout: post
 guid: /mixes/2008/07/plastikspastik/
 permalink: /mixes/2008/07/plastikspastik/
-filename: https://storage.cloud.google.com/radioslipstream/radio/mixes/plastikspastik.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/mixes/plastikspastik.mp3
 grbg: 1
   audio/mpeg
   a:2:{s:8:"duration";s:7:"1:18:47";s:5:"image";s:89:"/images/vpreview_center.png";}
@@ -16,7 +16,7 @@ categories:
 
 If there’s one thing Valerie doesn’t like, it’s driving in the car with measured or meandering music blaring outta tha speakers. This mix CD was designed expressly to neutralize such occurences. Mixed and beaten from only the most energetic of ingredients, this delightful musical confection will surely stir you to “dance-action”(tm)! Balls to the wall, son!
 
-So what are you waiting for? Grab the [mp3 file](https://storage.cloud.google.com/radioslipstream/radio/mixes/plastikspastik.mp3) and the [cue file](https://storage.cloud.google.com/radioslipstream/radio/mixes/plastikspastik.cue), throw ’em on a CD burning app, pop that disc in your car, and drive around town <strike>dangerously</strike> enthusiastically!
+So what are you waiting for? Grab the [mp3 file](https://storage.googleapis.com/radioslipstream/radio/mixes/plastikspastik.mp3) and the [cue file](https://storage.googleapis.com/radioslipstream/radio/mixes/plastikspastik.cue), throw ’em on a CD burning app, pop that disc in your car, and drive around town <strike>dangerously</strike> enthusiastically!
 
 1. Pendulum – Fasten Your Seltbelt (feat. The Freestylers)
 2. The Klaxons – Golden Skans (SebastiAn Version 1.2.0 Remix)

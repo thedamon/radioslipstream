@@ -9,7 +9,7 @@ excerpt: |
 layout: post
 guid: /wp/?p=36
 permalink: /mixes/2006/12/grasping-how-to-reach/
-filename: https://storage.cloud.google.com/radioslipstream/radio/mixes/grasping_how_to_reach.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/mixes/grasping_how_to_reach.mp3
 grbg: 93571655
   audio/mpeg
 categories:
@@ -22,7 +22,7 @@ This disc sort of has a theme, but definitely has a flow. It starts off gentle, 
 
 I also found that a lot of the songtitles seem to go together… having to do with time and loss and new beginnings. but that is almost purely coincidental. Also, in retrospect, this is not my most favourite of mixes at all, but all the songs are good!
 
-[MP3](https://storage.cloud.google.com/radioslipstream/radio/mixes/grasping_how_to_reach.mp3) – [CUE](https://storage.cloud.google.com/radioslipstream/radio/mixes/grasping_how_to_reach.cue)
+[MP3](https://storage.googleapis.com/radioslipstream/radio/mixes/grasping_how_to_reach.mp3) – [CUE](https://storage.googleapis.com/radioslipstream/radio/mixes/grasping_how_to_reach.cue)
 
 1. Shearwater – Nobody
 2. Califone – The Orchids

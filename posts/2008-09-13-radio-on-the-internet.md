@@ -6,7 +6,7 @@ author: damon
 layout: post
 guid: /playlists/2008/09/radio-on-the-internet/
 permalink: /playlists/2008/09/radio-on-the-internet/
-filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-104.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/slipstream-104.mp3
 grbg: 1
   audio/mpeg
   a:2:{s:8:"duration";s:7:"1:59:58";s:5:"image";s:89:"/images/vpreview_center.png";}
@@ -14,11 +14,11 @@ categories:
   - PLAYLISTS
 ---
 
-Episode 104. [mp3](https://storage.cloud.google.com/radioslipstream/radio/slipstream-104.mp3). [cue](https://storage.cloud.google.com/radioslipstream/radio/slipstream-104.cue). Released September 13, 2008
+Episode 104. [mp3](https://storage.googleapis.com/radioslipstream/radio/slipstream-104.mp3). [cue](https://storage.googleapis.com/radioslipstream/radio/slipstream-104.cue). Released September 13, 2008
 
 Hellohihey.. time for some more MUSIC. This baby is muchamore synthesized than the last episode. It starts out tempered and dreamy, then layers on serious doses of funk. Then it scurries around the world, goes into the future and has a little apocalypse (albeit a fairly funky one) before sitting under a tree in the late evening and thinking about what its done.</p>
 
-Also just because I can, I thought it would be neat to give you the option of hearing the show with only the music. An instrumental version of the program if you will… so if you’re interested in that, click on the corresponding little box up top there, or get the file [here](https://storage.cloud.google.com/radioslipstream/radio/slipstream-104-inst.mp3), along with the [cue sheet](https://storage.cloud.google.com/radioslipstream/radio/slipstream-104-inst.cue).</em>
+Also just because I can, I thought it would be neat to give you the option of hearing the show with only the music. An instrumental version of the program if you will… so if you’re interested in that, click on the corresponding little box up top there, or get the file [here](https://storage.googleapis.com/radioslipstream/radio/slipstream-104-inst.mp3), along with the [cue sheet](https://storage.googleapis.com/radioslipstream/radio/slipstream-104-inst.cue).</em>
 
 Klute / Hell Hath No Fury / The Emperor’s New Clothes (2007)
 

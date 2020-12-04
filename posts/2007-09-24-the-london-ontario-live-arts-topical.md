@@ -7,7 +7,7 @@ excerpt: "This past weekend I trawled around the sights and sounds of the LOLA f
 layout: post
 guid: /wp/?p=119
 permalink: /playlists/2007/09/the-london-ontario-live-arts-topical/
-filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-88.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/slipstream-88.mp3
 grbg: 1
   audio/mpeg
   a:2:{s:8:"duration";s:7:"1:59:32";s:5:"image";s:89:"/images/vpreview_center.png";}
@@ -17,7 +17,7 @@ categories:
   - themes and specials
 ---
 
-**[Episode 88](https://storage.cloud.google.com/radioslipstream/radio/slipstream-88.mp3). originally aired September 24, 2007**
+**[Episode 88](https://storage.googleapis.com/radioslipstream/radio/slipstream-88.mp3). originally aired September 24, 2007**
 
 _With apologies for the late update of the site, here is probably the most unique and potentially most exciting episode of the slipstream to date. This past weekend I trawled around the sights and sounds of the [LOLA festival](http://www.lolafest.com), with my digital camera in tow, which turned out to have a sound recorder for its damn decent mic. So as it turned out I used my status as a community radio host to get some interviews with various folks. The interviews are occasionally of subpar quality, but I did learn a lot about the process from a technical and theoretical standpoint. I also managed to record a few special LOLA performances, which crop up also (see tracklisting for details of course). And just to keep things lively, behind my inane ramblings, you can hear snatches of many live performances recorded throughout the weekend at Victoria Park. It was thrown together in a bit of a mad panic on Sunday as I was leaving in the evening for Toronto, but I think it’s still worth a listen, and hope you will to. So what are you waiting for.. check it out (on the podcast, or the link above). Also, LOLAfest is a really exciting event and one of my most favourite things of a long while, so it’s worth looking into and encouraging similar endeavours._
 

@@ -7,7 +7,7 @@ excerpt: This was my first all out grand production of a mix CD with cover and e
 layout: post
 guid: /wp/?p=48
 permalink: /mixes/2003/08/macewensongs/
-filename: https://storage.cloud.google.com/radioslipstream/radio/mixes/songs_MACEWEN.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/mixes/songs_MACEWEN.mp3
 grbg: 89088557
   audio/mpeg
   a:2:{s:8:"duration";s:7:"1:19:57";s:5:"image";s:89:"/images/vpreview_center.png";}

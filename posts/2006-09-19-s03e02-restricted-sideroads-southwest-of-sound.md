@@ -6,7 +6,7 @@ author: damon
 layout: post
 guid: /wp/?p=65
 permalink: /playlists/2006/09/s03e02-restricted-sideroads-southwest-of-sound/
-filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-s3e02.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/slipstream-s3e02.mp3
 grbg: 30525440
   audio/mpeg
 
@@ -16,7 +16,7 @@ categories:
 
 _originally aired September 18th, 2006 on [CFMU](http://cfmu.mcmaster.ca)_
 
-(available for your listening pleasure, [digitally downloadbly](https://storage.cloud.google.com/radioslipstream/radio/slipstream-s3e02.mp3))
+(available for your listening pleasure, [digitally downloadbly](https://storage.googleapis.com/radioslipstream/radio/slipstream-s3e02.mp3))
 
 -midnight-  
 Superpitcher / Even Angels / Here Comes Love (2004)  

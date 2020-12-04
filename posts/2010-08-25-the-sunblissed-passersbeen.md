@@ -7,7 +7,7 @@ layout: post
 image: sunblissed
 guid: /playlists/2010/08/the-sunblissed-passersbeen/
 mixcloud: the-sunblissed-passersbeen
-filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-117.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/slipstream-117.mp3
 grbg: 115140608
   audio/mpeg
   a:2:{s:8:"duration";s:7:"1:19:57";s:5:"image";s:89:"/images/vpreview_center.png";}
@@ -15,7 +15,7 @@ categories:
   - PLAYLISTS
 ---
 
-Episode 117. [mp3](https://storage.cloud.google.com/radioslipstream/radio/slipstream-117.mp3). [cue](https://storage.cloud.google.com/radioslipstream/radio/slipstream-117.cue). Released August 25, 2010.
+Episode 117. [mp3](https://storage.googleapis.com/radioslipstream/radio/slipstream-117.mp3). [cue](https://storage.googleapis.com/radioslipstream/radio/slipstream-117.cue). Released August 25, 2010.
 
 Back for more! Still without the use of adequate microphone, this episode continues the trend of letting the music speak for itself.
 

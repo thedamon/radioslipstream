@@ -17,7 +17,7 @@ categories:
 
 _all sweet beats, all the time. A CD length version of [the episode](/playlists/2008/02/the-sweetness-of-the-beatness/)_  
 
-[mp3](https://storage.cloud.google.com/radioslipstream/radio/mixes/sweetnessofthebeatness.mp3) | [cue](https://storage.cloud.google.com/radioslipstream/radio/mixes/sweetnessofthebeatness.cue)
+[mp3](https://storage.googleapis.com/radioslipstream/radio/mixes/sweetnessofthebeatness.mp3) | [cue](https://storage.googleapis.com/radioslipstream/radio/mixes/sweetnessofthebeatness.cue)
 
 1. Prosumer and Murat Tepeli – Serenity  
 2. Plej – Lay Of The Land

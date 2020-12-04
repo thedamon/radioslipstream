@@ -7,7 +7,7 @@ layout: post
 guid: 239
 image: crumpston
 mixcloud: do-do-do-do-the-crumpston
-filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-120.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/slipstream-120.mp3
 grbg: 1
   audio/mpeg
   a:1:{s:5:"image";s:89:"/images/vpreview_center.png";}
@@ -15,7 +15,7 @@ categories:
   - PLAYLISTS
 ---
 
-Episode 120. [mp3](https://storage.cloud.google.com/radioslipstream/radio/slipstream-120.mp3). Released October 29, 2011.
+Episode 120. [mp3](https://storage.googleapis.com/radioslipstream/radio/slipstream-120.mp3). Released October 29, 2011.
 
 You are at a raucous party hosted by a troupe of schizophrenic gnomes who can’t stop hitting things and tossing multicolored rags at you amidst unintelligible freakouts. The host, J-jjj-johntanon, demonstrates how everything in the world is a drum and it doesn’t matter if you have to shatter it to make it beat. The guests join in and the cacophony is thrilling.
 

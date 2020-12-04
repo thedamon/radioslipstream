@@ -6,7 +6,7 @@ author: damon
 layout: post
 guid: /wp/?p=146
 permalink: /playlists/2007/02/s3e19-the-bird-is-the-glue/
-filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-s3e19.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/slipstream-s3e19.mp3
 grbg: 29599744
   audio/mpeg
   a:2:{s:8:"duration";s:7:"2:03:54";s:5:"image";s:89:"/images/vpreview_center.png";}
@@ -16,7 +16,7 @@ categories:
 
 originally aired from Monday February 12th at midnight for 2 hours until 2am on Tuesday
 
-[mp3](https://storage.cloud.google.com/radioslipstream/radio/slipstream-s3e19.mp3)
+[mp3](https://storage.googleapis.com/radioslipstream/radio/slipstream-s3e19.mp3)
 
 Hooverphonic / Magenta / Blue Wonder Power Milk (1998)  
 Booka Shade / In White Rooms / Movements (2006)  

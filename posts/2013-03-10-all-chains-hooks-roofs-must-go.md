@@ -7,7 +7,7 @@ layout: post
 guid: 359
 image: chainshooks
 mixcloud: all-chains-hooks-roofs-must-go
-filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-135.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/slipstream-135.mp3
 grbg: 112238752
   audio/mpeg
   a:1:{s:8:"duration";s:8:"01:17:56";}
@@ -15,7 +15,7 @@ categories:
   - PLAYLISTS
 ---
 
-Episode 135. [mp3](https://storage.cloud.google.com/radioslipstream/radio/slipstream-135.mp3). Released March 10, 2013.
+Episode 135. [mp3](https://storage.googleapis.com/radioslipstream/radio/slipstream-135.mp3). Released March 10, 2013.
 
 HOLY donkey crap.
 

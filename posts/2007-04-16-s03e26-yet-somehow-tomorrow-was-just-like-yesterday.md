@@ -6,7 +6,7 @@ author: damon
 layout: post
 guid: /wp/?p=139
 permalink: /playlists/2007/04/s03e26-yet-somehow-tomorrow-was-just-like-yesterday/
-filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-s3e26.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/slipstream-s3e26.mp3
 grbg: 31324160
   audio/mpeg
   a:2:{s:8:"duration";s:7:"2:10:30";s:5:"image";s:89:"/images/vpreview_center.png";}

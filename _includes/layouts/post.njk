@@ -11,7 +11,7 @@ templateClass: tmpl-post
   src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&light=1&feed=%2Fradioslipstream%2F{{ mixcloud }}%2F"
   frameborder="0"></iframe>
 {%- elseif filename -%}
-<audio controls src="{{ filename }}"></audio>
+<audio controls preload="none"><source src="{{ filename }}" type="audio/mpeg"></audio>
 {%- endif -%}
 
 {% if image %}

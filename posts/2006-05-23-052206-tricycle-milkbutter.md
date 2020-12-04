@@ -6,7 +6,7 @@ author: damon
 layout: post
 guid: /wp/?p=74
 permalink: /playlists/2006/05/052206-tricycle-milkbutter/
-filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-2006-05-22.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/slipstream-2006-05-22.mp3
 grbg: 165457920
   audio/mpeg
   a:2:{s:8:"duration";s:7:"2:00:09";s:5:"image";s:89:"/images/vpreview_center.png";}
@@ -16,7 +16,7 @@ categories:
 
 originally aired 2-4am May 23, 2006 on 93.3 CFMU
 
-[(mp3)](https://storage.cloud.google.com/radioslipstream/radio/upload/slipstream-2006-05-22.mp3)
+[(mp3)](https://storage.googleapis.com/radioslipstream/radio/upload/slipstream-2006-05-22.mp3)
 
 **2 am**  
 Booka Shade / Night falls / Movements (2006)  

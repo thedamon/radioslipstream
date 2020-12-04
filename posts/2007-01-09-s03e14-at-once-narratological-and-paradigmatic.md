@@ -6,7 +6,7 @@ author: damon
 layout: post
 guid: /wp/?p=52
 permalink: /playlists/2007/01/s03e14-at-once-narratological-and-paradigmatic/
-filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-s3e14.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/slipstream-s3e14.mp3
 grbg: 30631936
   audio/mpeg
 categories:
@@ -16,7 +16,7 @@ categories:
 
 originally aired Monday January 8, midnight for 2 hours to 2am tuesday.
 
-([surprise](https://storage.cloud.google.com/radioslipstream/radio/slipstream-s3e14.mp3)! (WARNING!!! ACHTUNG! SURPRISE MAY OR MAY NOT BE MP3 OF LAST NIGHT’S SHOW. THE OWNERS OF THIS WEBSITE ASSUME NO RESPONSIBILITY FOR ANY DAMAGES TO YOUR COMPUTER AS A RESULT OF DOWNLOADING OR LISTENING TO WHATEVER HAPPENS TO BE AT THE END OF THE PRECEDING LINK, OR FOR THE 2×4 THAT’S ABOUT TO HIT YOU IN THE.. OWW. OH. … WOW.))
+([surprise](https://storage.googleapis.com/radioslipstream/radio/slipstream-s3e14.mp3)! (WARNING!!! ACHTUNG! SURPRISE MAY OR MAY NOT BE MP3 OF LAST NIGHT’S SHOW. THE OWNERS OF THIS WEBSITE ASSUME NO RESPONSIBILITY FOR ANY DAMAGES TO YOUR COMPUTER AS A RESULT OF DOWNLOADING OR LISTENING TO WHATEVER HAPPENS TO BE AT THE END OF THE PRECEDING LINK, OR FOR THE 2×4 THAT’S ABOUT TO HIT YOU IN THE.. OWW. OH. … WOW.))
 
 -midnight-  
 Anders Ilar / Clouds Are Made In Factories / Nightwidth (2006)  

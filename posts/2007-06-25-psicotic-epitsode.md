@@ -6,7 +6,7 @@ author: damon
 layout: post
 guid: /wp/?p=129
 permalink: /playlists/2007/06/psicotic-epitsode/
-filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-s4e07.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/slipstream-s4e07.mp3
 grbg: 125952000
   audio/mpeg
   a:2:{s:8:"duration";s:7:"2:09:15";s:5:"image";s:89:"/images/vpreview_center.png";}

@@ -6,7 +6,7 @@ author: damon
 layout: post
 guid: /wp/?p=69
 permalink: /playlists/2006/07/071706-bequeath-unto-me-the-hold-of-eternity/
-filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-2006-07-17.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/slipstream-2006-07-17.mp3
 grbg: 161236992
   audio/mpeg
   a:2:{s:8:"duration";s:7:"2:01:25";s:5:"image";s:89:"/images/vpreview_center.png";}
@@ -17,7 +17,7 @@ categories:
 
 aired August 29th. 4:30-6:30am. No one really knows why.
 
-[(mp3)](https://storage.cloud.google.com/radioslipstream/radio/slipstream-2006-07-17.mp3)
+[(mp3)](https://storage.googleapis.com/radioslipstream/radio/slipstream-2006-07-17.mp3)
 
 **2 am**  
 Boards of Canada / Olson / Music Has The Right To Children (1998)  

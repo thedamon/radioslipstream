@@ -6,7 +6,7 @@ author: damon
 layout: post
 guid: /wp/?p=50
 permalink: /playlists/2007/01/s03e16-the-estonian-anti-tourism-trust/
-filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-s3e16.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/slipstream-s3e16.mp3
 grbg: 29546496
   audio/mpeg
   a:2:{s:8:"duration";s:7:"2:01:04";s:5:"image";s:89:"/images/vpreview_center.png";}
@@ -16,7 +16,7 @@ categories:
 
 originally aired from Monday January 23 at midnight for 2 hours until 2am on Tuesday.
 
-(I’d like to see Ülo record webstreams and post [mp3s](https://storage.cloud.google.com/radioslipstream/radio/slipstream-s3e16.mp3) of them on a website. What a little shit.)
+(I’d like to see Ülo record webstreams and post [mp3s](https://storage.googleapis.com/radioslipstream/radio/slipstream-s3e16.mp3) of them on a website. What a little shit.)
 
 Doves / Firesuite / Lost Souls (2000)  
 The Cinematic Orchestra / All That You Give / Every Day (2002)  

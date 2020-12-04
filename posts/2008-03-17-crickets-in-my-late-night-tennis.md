@@ -6,7 +6,7 @@ author: damon
 layout: post
 guid: /playlists/2008/03/crickets-in-my-late-night-tennis/
 permalink: /playlists/2008/03/crickets-in-my-late-night-tennis/
-filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-98.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/slipstream-98.mp3
 grbg: 1
   audio/mpeg
   a:2:{s:8:"duration";s:7:"2:00:00";s:5:"image";s:89:"/images/vpreview_center.png";}
@@ -15,7 +15,7 @@ categories:
   - PLAYLISTS
 ---
 
-Episode 98. [mp3](https://storage.cloud.google.com/radioslipstream/radio/slipstream-98.mp3). [cue](https://storage.cloud.google.com/radioslipstream/radio/slipstream-98.cue). Released March 17, 2008
+Episode 98. [mp3](https://storage.googleapis.com/radioslipstream/radio/slipstream-98.mp3). [cue](https://storage.googleapis.com/radioslipstream/radio/slipstream-98.cue). Released March 17, 2008
 
 Apologies for the delay… working 8.5 hour days really reduces the amount of time I have to comb through old music and listen to new tunes and carefully (+ocd-ishly) arrange them into podcast playlists. Don’t you wish I was still a bum? At any rate, until I find a job where I can bring in my own tunes, I’m not fully confident I can keep up the bi-weekly episodes. But I will try!
 

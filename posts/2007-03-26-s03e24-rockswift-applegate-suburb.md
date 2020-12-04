@@ -6,7 +6,7 @@ author: damon
 layout: post
 guid: /wp/?p=141
 permalink: /playlists/2007/03/s03e24-rockswift-applegate-suburb/
-filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-s3e24.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/slipstream-s3e24.mp3
 grbg: 30226432
   audio/mpeg
   a:2:{s:8:"duration";s:7:"2:05:56";s:5:"image";s:89:"/images/vpreview_center.png";}

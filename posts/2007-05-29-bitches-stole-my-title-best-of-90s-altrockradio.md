@@ -7,7 +7,7 @@ excerpt: "In my youth, these songs on London's FM96 shaped my appreciation of mu
 layout: post
 guid: /wp/?p=133
 permalink: /playlists/2007/05/bitches-stole-my-title-best-of-90s-altrockradio/
-filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-s4e03.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/slipstream-s4e03.mp3
 grbg: 1
   audio/mpeg
   a:2:{s:8:"duration";s:7:"2:03:55";s:5:"image";s:89:"/images/vpreview_center.png";}

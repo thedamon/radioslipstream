@@ -8,7 +8,7 @@ guid: 272
 mixcloud: halfway-back-to-loam
 image: backtoloam
 permalink: /playlists/2012/06/halfway-back-to-loam/
-filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-125.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/slipstream-125.mp3
 grbg: 114187406
   audio/mpeg
   a:2:{s:8:"duration";s:7:"1:19:18";s:5:"image";s:88:"images/vpreview_center.png";}
@@ -16,7 +16,7 @@ categories:
   - PLAYLISTS
 ---
 
-Episode 125. [mp3](https://storage.cloud.google.com/radioslipstream/radio/slipstream-125.mp3). Released June 03, 2012.
+Episode 125. [mp3](https://storage.googleapis.com/radioslipstream/radio/slipstream-125.mp3). Released June 03, 2012.
 
 This episode is about:  
 The damp  

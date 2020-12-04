@@ -10,7 +10,7 @@ layout: post
 image: seatosky
 guid: /wp/?p=159
 permalink: /mixes/2005/12/sea-right-through-to-sky/
-filename: https://storage.cloud.google.com/radioslipstream/radio/mixes/sea_right_through_to_sky.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/mixes/sea_right_through_to_sky.mp3
 grbg: 95693980
   audio/mpeg
   a:2:{s:8:"duration";s:7:"1:19:54";s:5:"image";s:89:"/images/vpreview_center.png";}

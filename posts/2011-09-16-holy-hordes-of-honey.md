@@ -7,7 +7,7 @@ layout: post
 guid: 231
 image: hordes
 mixcloud: holy-hordes-of-honey
-filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-119.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/slipstream-119.mp3
 grbg: 1
   audio/mpeg
   a:2:{s:8:"duration";s:7:"1:19:57";s:5:"image";s:89:"/images/vpreview_center.png";}
@@ -15,7 +15,7 @@ categories:
   - PLAYLISTS
 ---
 
-Episode 119. [mp3](https://storage.cloud.google.com/radioslipstream/radio/slipstream-119.mp3). Released September 16, 2011.
+Episode 119. [mp3](https://storage.googleapis.com/radioslipstream/radio/slipstream-119.mp3). Released September 16, 2011.
 
 _Ugh. Last episode was way majorly too slick. This one is dirty. Twangy. Plucky. Plurpy. Gutted. Raw. Ecstatic._
 

@@ -7,7 +7,7 @@ layout: post
 guid: 226
 image: gloucester
 mixcloud: a-softer-gloucester
-filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-118.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/slipstream-118.mp3
 grbg: 1
   audio/mpeg
   a:2:{s:8:"duration";s:7:"1:16:27";s:5:"image";s:89:"/images/vpreview_center.png";}
@@ -15,7 +15,7 @@ categories:
   - PLAYLISTS
 ---
 
-Episode 118. [mp3](https://storage.cloud.google.com/radioslipstream/radio/slipstream-118.mp3). [cue](https://storage.cloud.google.com/radioslipstream/radio/slipstream-118.cue) Released August 31, 2011.
+Episode 118. [mp3](https://storage.googleapis.com/radioslipstream/radio/slipstream-118.mp3). [cue](https://storage.googleapis.com/radioslipstream/radio/slipstream-118.cue) Released August 31, 2011.
 
 _More saxaphones than normal, that’s for sure. This episode is a little bit sexy in parts; at least I think so. Oh.. and hey. That’s me. Still existing now and then!_
 

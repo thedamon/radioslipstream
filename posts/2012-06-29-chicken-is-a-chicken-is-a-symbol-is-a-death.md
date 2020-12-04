@@ -7,7 +7,7 @@ layout: post
 guid: 287
 image: chicken3
 mixcloud: chicken-is-a-chicken-is-a-symbol-is-a-death
-filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-127.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/slipstream-127.mp3
 grbg: 115050701
   audio/mpeg
   a:2:{s:8:"duration";s:7:"1:19:54";s:5:"image";s:88:"images/vpreview_center.png";}
@@ -15,7 +15,7 @@ categories:
   - PLAYLISTS
 ---
 
-Episode 127. [mp3](https://storage.cloud.google.com/radioslipstream/radio/slipstream-127.mp3). Released June 29, 2012.
+Episode 127. [mp3](https://storage.googleapis.com/radioslipstream/radio/slipstream-127.mp3). Released June 29, 2012.
 
 Just think about the title intently as you listen to each song on this. It will all eventually make sense. No. Not that.
 

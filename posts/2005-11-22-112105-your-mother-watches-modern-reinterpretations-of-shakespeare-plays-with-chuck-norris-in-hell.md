@@ -13,7 +13,7 @@ categories:
 ---
 originally aired 2-4am November 22, 2005 on CFMU
 
-[(mp3)](https://storage.cloud.google.com/radioslipstream/radio/slipstream112105.mp3) 
+[(mp3)](https://storage.googleapis.com/radioslipstream/radio/slipstream112105.mp3) 
 
 **2 am**  
 Rob Porter / The Designated Patient / Henry V (2005)  

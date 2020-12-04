@@ -6,7 +6,7 @@ author: damon
 layout: post
 guid: /wp/?p=60
 permalink: /playlists/2006/10/s03e07-apoplexy-dont-come-easy/
-filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-s3e07.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/slipstream-s3e07.mp3
 grbg: 32108544
   audio/mpeg
 
@@ -16,7 +16,7 @@ categories:
 
 _originally aired October 23rd, 2006 on [CFMU](http://cfmu.mcmaster.ca)_
 
-(Want it? Can’t have it! Want it? Can’t ha.. oh [fine](https://storage.cloud.google.com/radioslipstream/radio/slipstream-s3e07.mp3) [eesta mp3, meesta])
+(Want it? Can’t have it! Want it? Can’t ha.. oh [fine](https://storage.googleapis.com/radioslipstream/radio/slipstream-s3e07.mp3) [eesta mp3, meesta])
 
 -midnight-  
 Max Richter / Song / Songs From Before (2006)  

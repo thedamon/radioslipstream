@@ -6,7 +6,7 @@ author: damon
 layout: post
 guid: /mixes/2009/05/the-great-aughtnine-part-threemix/
 permalink: /mixes/2009/05/the-great-aughtnine-part-threemix/
-filename: https://storage.cloud.google.com/radioslipstream/radio/mixes/2009-3mix.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/mixes/2009-3mix.mp3
 grbg: 214907419
   audio/mpeg
   a:1:{s:5:"image";s:89:"/images/vpreview_center.png";}
@@ -61,4 +61,4 @@ YES!
  - Underworld / Rez/Cowgirl / Everything, Everything (2000)
  - Zazen Boys / Asobi / Zazen Boys 4 (2008)
 
-(here’s a [cue](https://storage.cloud.google.com/radioslipstream/radio/mixes/2009-3mix.cue) file, and an [mp3](https://storage.cloud.google.com/radioslipstream/radio/mixes/2009-3mix.mp3))
+(here’s a [cue](https://storage.googleapis.com/radioslipstream/radio/mixes/2009-3mix.cue) file, and an [mp3](https://storage.googleapis.com/radioslipstream/radio/mixes/2009-3mix.mp3))

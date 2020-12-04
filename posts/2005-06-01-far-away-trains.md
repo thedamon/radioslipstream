@@ -7,7 +7,7 @@ excerpt: "This mix was inspired by and supposed, in turn, to be inspiration for 
 layout: post
 guid: /wp/?p=38
 permalink: /mixes/2005/06/far-away-trains/
-filename: https://storage.cloud.google.com/radioslipstream/radio/mixes/far_away_trains.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/mixes/far_away_trains.mp3
 grbg: 87684114
   audio/mpeg
   a:2:{s:8:"duration";s:7:"1:15:41";s:5:"image";s:89:"/images/vpreview_center.png";}

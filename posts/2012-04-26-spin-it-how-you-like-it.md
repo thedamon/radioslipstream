@@ -8,7 +8,7 @@ guid: 267
 permalink: /playlists/2012/04/spin-it-how-you-like-it/
 mixcloud: spin-it-how-you-like-it
 image: spinit
-filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-124.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/slipstream-124.mp3
 grbg: 114068914
   audio/mpeg
   a:2:{s:8:"duration";s:7:"1:19:12";s:5:"image";s:88:"images/vpreview_center.png";}
@@ -16,7 +16,7 @@ categories:
   - PLAYLISTS
 ---
 
-Episode 124. [mp3](https://storage.cloud.google.com/radioslipstream/radio/slipstream-124.mp3). Released April 27, 2012.
+Episode 124. [mp3](https://storage.googleapis.com/radioslipstream/radio/slipstream-124.mp3). Released April 27, 2012.
 
 hip hop hip hop hip hop hip
 

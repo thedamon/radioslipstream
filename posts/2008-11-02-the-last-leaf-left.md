@@ -8,7 +8,7 @@ guid: /mixes/2008/11/the-last-leaf-left/
 image: lastleaf
 mixcloud: the-last-leaf-left
 permalink: /mixes/2008/11/the-last-leaf-left/
-filename: https://storage.cloud.google.com/radioslipstream/radio/mixes/thelastleafleft.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/mixes/thelastleafleft.mp3
 grbg: 1
   audio/mpeg
   a:2:{s:8:"duration";s:7:"1:19:57";s:5:"image";s:89:"/images/vpreview_center.png";}
@@ -18,7 +18,7 @@ categories:
 
 For one reason or another Autumn is the season that resonates most for many people. Leaves go from smooth green to crinkled red husks. Coats and mitts must be dug out from closets as breaths begin to show. Lives must be dug up and moved as students are forced out of their summer solitude, leave home for school, or are thrown kicking and screaming into the real world when the first September without school comes to call. To me there has always been a great sense of nostalgia with the season, and an explicit longing for nothing in particular. To that end The Last Leaf Left is not a raucous affair. It’s been cut down from a shortlist of 150 tracks and filled with sparse, often plaintive songs, layered with hushed acoustic strums and dry, chilled textures. It might make you want to put on a sweater and buckle down for snow, but there’s still a hint of the warmth of freshly decomposing leaves and those last warm rays of golden sun to balance out the cold.
 
-So uhhh. Check it out. See if I was successful in bottling up a bit of the latter days of fall. [mp3](https://storage.cloud.google.com/radioslipstream/radio/mixes/thelastleafleft.mp3) / [cue](https://storage.cloud.google.com/radioslipstream/radio/mixes/thelastleafleft.cue)
+So uhhh. Check it out. See if I was successful in bottling up a bit of the latter days of fall. [mp3](https://storage.googleapis.com/radioslipstream/radio/mixes/thelastleafleft.mp3) / [cue](https://storage.googleapis.com/radioslipstream/radio/mixes/thelastleafleft.cue)
 
 1. Azeda Booth – Big Fists
 2. Beach House – Tokyo Witch

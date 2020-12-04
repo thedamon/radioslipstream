@@ -7,7 +7,7 @@ excerpt: This lovely plot of musical perfection began as an attempt to put all t
 layout: post
 guid: /wp/?p=44
 permalink: /mixes/2004/08/slippy-ducks/
-filename: https://storage.cloud.google.com/radioslipstream/radio/mixes/slippy_ducks.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/mixes/slippy_ducks.mp3
 grbg: 84443659
   audio/mpeg
   a:2:{s:8:"duration";s:7:"1:19:57";s:5:"image";s:89:"/images/vpreview_center.png";}

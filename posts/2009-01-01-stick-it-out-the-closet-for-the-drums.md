@@ -6,7 +6,7 @@ author: damon
 layout: post
 guid: /playlists/2009/01/stick-it-out-the-closet-for-the-drums/
 permalink: /playlists/2009/01/stick-it-out-the-closet-for-the-drums/
-filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-107.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/slipstream-107.mp3
 grbg: 1
   audio/mpeg
   a:2:{s:8:"duration";s:7:"1:03:21";s:5:"image";s:89:"/images/vpreview_center.png";}
@@ -14,7 +14,7 @@ categories:
   - PLAYLISTS
 ---
 
-Episode 107. [mp3](https://storage.cloud.google.com/radioslipstream/radio/slipstream-107.mp3). [cue](https://storage.cloud.google.com/radioslipstream/radio/slipstream-107.cue). Released January 01, 2009.
+Episode 107. [mp3](https://storage.googleapis.com/radioslipstream/radio/slipstream-107.mp3). [cue](https://storage.googleapis.com/radioslipstream/radio/slipstream-107.cue). Released January 01, 2009.
 
 _The first episode of 2009 and the first episode featuring brand new fractionized length! Content-wise wes is tying up some loose ends of 2008. And you know when the last episode is all dancing and electronics that you’re soon due for some REAL pounding drums and some scratchy guitars and bellowed vocals. So today it gets down pretty gritty at first but it does mellow out to the middle and eventually even betrays faint whiffs of synth-pop, chamber-pop and doo-wop._
 

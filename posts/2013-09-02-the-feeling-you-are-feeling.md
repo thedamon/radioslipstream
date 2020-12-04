@@ -7,7 +7,7 @@ layout: post
 guid: 372
 mixcloud: the-feeling-you-are-feeling
 image: thefeeling
-filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-136.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/slipstream-136.mp3
 grbg: 112905815
   audio/mpeg
   a:1:{s:8:"duration";s:8:"01:18:24";}
@@ -15,7 +15,7 @@ categories:
   - PLAYLISTS
 ---
 
-Episode 136. [mp3](https://storage.cloud.google.com/radioslipstream/radio/slipstream-136.mp3). Released September 02, 2013.
+Episode 136. [mp3](https://storage.googleapis.com/radioslipstream/radio/slipstream-136.mp3). Released September 02, 2013.
 
 Some great tunes in here, all pushing at a feeling. The feeling of a turning page. A change in the air. Air heavy and muggy but cooling and drifting with a sharp billowing wind. Blowing out of somewhere for the last time and pausing for a second to remember.</p>
 

@@ -7,7 +7,7 @@ layout: post
 guid: 390
 mixcloud: turn-to-your-orbituary
 image: orbituary
-filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-138.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/slipstream-138.mp3
 grbg: 114665632
   audio/mpeg
   a:1:{s:8:"duration";s:8:"01:19:38";}
@@ -15,7 +15,7 @@ categories:
   - PLAYLISTS
 ---
 
-Episode 138. [mp3](https://storage.cloud.google.com/radioslipstream/radio/slipstream-138.mp3). Released October 22, 2013.
+Episode 138. [mp3](https://storage.googleapis.com/radioslipstream/radio/slipstream-138.mp3). Released October 22, 2013.
 
 Picks up just where we left off. We’re not there yet.  
 Sultry –> quirky –> unnerving –> intense –> that other word that describes the last 4 tracks.

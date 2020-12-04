@@ -6,7 +6,7 @@ author: damon
 layout: post
 guid: /wp/?p=140
 permalink: /playlists/2007/04/s03e25-tear-away-stains/
-filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-s3e25.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/slipstream-s3e25.mp3
 grbg: 30812160
   audio/mpeg
   a:2:{s:8:"duration";s:7:"2:04:41";s:5:"image";s:89:"/images/vpreview_center.png";}

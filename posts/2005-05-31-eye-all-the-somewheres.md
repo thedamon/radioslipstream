@@ -7,7 +7,7 @@ excerpt: A few little songs that are, well, worth putting on a mix cd, as it tur
 layout: post
 guid: /wp/?p=39
 permalink: /mixes/2005/05/eye-all-the-somewheres/
-filename: https://storage.cloud.google.com/radioslipstream/radio/mixes/eye_all_the_somewheres.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/mixes/eye_all_the_somewheres.mp3
 grbg: 90696310
   audio/mpeg
   a:2:{s:8:"duration";s:7:"1:19:13";s:5:"image";s:89:"/images/vpreview_center.png";}

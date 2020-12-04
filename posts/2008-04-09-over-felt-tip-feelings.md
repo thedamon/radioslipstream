@@ -6,7 +6,7 @@ author: damon
 layout: post
 guid: /playlists/2008/04/over-felt-tip-feelings/
 permalink: /playlists/2008/04/over-felt-tip-feelings/
-filename: https://storage.cloud.google.com/radioslipstream/radio/slipstream-99.mp3
+filename: https://storage.googleapis.com/radioslipstream/radio/slipstream-99.mp3
 grbg: 1
   audio/mpeg
   a:2:{s:8:"duration";s:7:"1:59:31";s:5:"image";s:89:"/images/vpreview_center.png";}
@@ -14,7 +14,7 @@ categories:
   - PLAYLISTS
 ---
 
-Episode 99. [mp3](https://storage.cloud.google.com/radioslipstream/radio/slipstream-99.mp3). [cue](https://storage.cloud.google.com/radioslipstream/radio/slipstream-99.cue). Released April 9, 2008
+Episode 99. [mp3](https://storage.googleapis.com/radioslipstream/radio/slipstream-99.mp3). [cue](https://storage.googleapis.com/radioslipstream/radio/slipstream-99.cue). Released April 9, 2008
 
 _Another one for y’all, finally. This puppy starts off drenched in 80s synths and melodrama, shakes that off at a circus and then wanders around in seasons of languid acoustics before briefly assaulting a cowboy._
 
