@@ -13,6 +13,9 @@
 * {
   box-sizing: border-box;
 }
+html {
+  background-color: #D0B2D8;
+}
 html,
 body {
   padding: 0;
@@ -32,7 +35,6 @@ body::before {
   );
   position: fixed;
   top: 0;
-  bottom: 0;
   width: 100%;
   z-index: -1;
 }
@@ -230,6 +232,9 @@ p,
 a[href] {
   color: var(--blue);
 }
+main a[href]:hover {
+  text-decoration-thickness: 2px;
+}
 a[href]:visited {
   color: var(--navy);
 }
@@ -302,12 +307,13 @@ header {
 /* Nav */
 .nav {
   padding: 0;
+  display: flex;
+  align-items: center;
   list-style: none;
   margin: 0;
   margin-left: 2em;
 }
 .nav-item {
-  display: inline-block;
   margin-right: 1em;
 }
 .nav-item a[href]:not(:hover) {

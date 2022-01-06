@@ -10,7 +10,7 @@ templateClass: tmpl-post
 <iframe width="100%" height="168"
   src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&light=1&feed=%2Fradioslipstream%2F{{ mixcloud }}%2F"
   frameborder="0"></iframe>
-{%- if spotify -%}
+{%- elseif spotify -%}
 <iframe src="https://open.spotify.com/embed/playlist/{{ spotify }}?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 {%- elseif filename -%}
 <audio controls preload="none"><source src="{{ filename }}" type="audio/mpeg"></audio>

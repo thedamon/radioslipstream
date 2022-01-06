@@ -1,11 +1,12 @@
 ---
 id: heathmagic
 title: Heath Magic
-date: 2015-01-08T19:52:45-05:00
+date: 2021-12-29T19:52:45-05:00
 author: damon
 layout: post
 guid: heathmagic
 image: heathmagic
+number: 149
 spotify: 6HOHkPr8WUtCumV9j1Q00h
 # mixcloud: cut-adrift-and-coasting-inland
 # filename: https://storage.googleapis.com/radioslipstream/radio/slipstream-143.mp3
@@ -13,9 +14,7 @@ categories:
   - PLAYLISTS
 ---
 
-Episode #149.
-
-A bit spooky.
+Witches on the moor under the full moon, but the witches are connected to the internet. A set of darker, atmospheric but a bit intense stuff.
 
  - DEBBY FRIDAY - Runnin
  - Backxwash; Devi McCallion - Spells

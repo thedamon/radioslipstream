@@ -1,6 +1,6 @@
 ---
 id: 500
-title: The (Pre) History of Hip Hop. Part 0 — 1930-1978
+title: "The (Pre)History of HipHop 0: 1930-1978"
 date: 2015-01-22T19:52:45-05:00
 layout: post
 image: hiphop0
