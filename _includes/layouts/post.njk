@@ -4,13 +4,16 @@ templateClass: tmpl-post
 ---
 <h1 class="post-title">{{ title }}</h1>
 <div class="post-meta">
-  <time>{{ date | readableDate}}</time>
+  {%- if number -%}
+    <span> Episode {{ number }}.</span>
+  {%- endif -%}
+  <time>{{ date | readableDate}}. </time>
 </div>
 {%- if mixcloud -%}
 <iframe width="100%" height="168"
   src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&light=1&feed=%2Fradioslipstream%2F{{ mixcloud }}%2F"
   frameborder="0"></iframe>
-{%- if spotify -%}
+{%- elseif spotify -%}
 <iframe src="https://open.spotify.com/embed/playlist/{{ spotify }}?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 {%- elseif filename -%}
 <audio controls preload="none"><source src="{{ filename }}" type="audio/mpeg"></audio>

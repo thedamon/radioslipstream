@@ -14,10 +14,19 @@
   <body>
     <header>
       <div class="header-content">
-        <h1 class="home">
+        {%- if page.url == '/'%}
+          <h1 class="home">
+        {% else %}
+          <p class="home">
+        {% endif %}
           <a href="{{ '/' | url }}">radio&nbsp;
-            <span class="sss">S</span><span class="ss">lipstream</span></a>
-        </h1>
+            <span class="sss">S</span><span class="ss">lipstream</span>
+          </a>
+        {%- if page.url == '/'%}
+          </h1>
+        {% else %}
+          </p>
+        {% endif %}
 
         {#- Read more about `eleventy-navigation` at https://www.11ty.dev/docs/plugins/navigation/ #}
         <ul class="nav">
@@ -30,11 +39,9 @@
       </div>
     </header>
 
-    <main{% if templateClass %} class="{{ templateClass }}" {% endif %}>
+    <main {% if templateClass %} class="{{ templateClass }}" {% endif %}>
       {{ content | safe }}
     </main>
-
-    <footer></footer>
 
     <!-- Current page: {{ page.url | url }} -->
   </body>

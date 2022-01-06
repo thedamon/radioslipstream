@@ -1,11 +1,12 @@
 ---
 id: heathmagic
 title: Heath Magic
-date: 2015-01-08T19:52:45-05:00
+date: 2021-12-29T19:52:45-05:00
 author: damon
 layout: post
 guid: heathmagic
 image: heathmagic
+number: 149
 spotify: 6HOHkPr8WUtCumV9j1Q00h
 # mixcloud: cut-adrift-and-coasting-inland
 # filename: https://storage.googleapis.com/radioslipstream/radio/slipstream-143.mp3
@@ -13,27 +14,25 @@ categories:
   - PLAYLISTS
 ---
 
-Episode #149.
+Witches on the moor under the full moon, but the witches are connected to the internet. A set of darker, atmospheric but fairly intense stuff.
 
-A bit spooky.
-
- - DEBBY FRIDAY - Runnin
- - Backxwash; Devi McCallion - Spells
- - Smerz - Believer
- - JPEGMAFIA - REBOUND!
- - Jenny Hval - High Alice
- - The Notwist - Into Love / Stars
- - DARKSIDE - The Limit
- - Moor Mother; billy woods; Wolf Weston - The Blues Remembers Everything the Country Forgot
- - Madlib - Road Of The Lonely Ones
- - Boldy James; Real Bad Man - Held Me Down
- - FKA twigs; Headie One; Fred again.. - Don't Judge Me
- - Sampha - Blood on Me
- - Chromatics - Light As A Feather
- - Vallens - While You Are Still Waiting
- - Circuit des Yeux - Dogma
- - John Glacier - Some Other Thing
- - MATTIE; Black Taffy - Human Thing
- - Georgia - Move Systems
- - Ela Minus - el cielo no es de nadie
- - Kae Tempest - Perfect Coffee
+ 1. DEBBY FRIDAY - Runnin
+ 1. Backxwash; Devi McCallion - Spells
+ 1. Smerz - Believer
+ 1. JPEGMAFIA - REBOUND!
+ 1. Jenny Hval - High Alice
+ 1. The Notwist - Into Love / Stars
+ 1. DARKSIDE - The Limit
+ 1. Moor Mother and billy woods - The Blues Remembers Everything the Country Forgot (feat. Wolf Weston)
+ 1. Madlib - Road Of The Lonely Ones
+ 1. Boldy James; Real Bad Man - Held Me Down
+ 1. FKA twigs; Headie One; Fred again.. - Don't Judge Me
+ 1. Sampha - Blood on Me
+ 1. Chromatics - Light As A Feather
+ 1. Vallens - While You Are Still Waiting
+ 1. Circuit des Yeux - Dogma
+ 1. John Glacier - Some Other Thing
+ 1. MATTIE; Black Taffy - Human Thing
+ 1. Georgia - Move Systems
+ 1. Ela Minus - el cielo no es de nadie
+ 1. Kae Tempest - Perfect Coffee
