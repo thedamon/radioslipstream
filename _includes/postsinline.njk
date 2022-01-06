@@ -26,9 +26,9 @@
       {%- endif -%}
     {% endfor %}
     {%- if post.data.mixcloud -%}
-      <iframe width="100%" height="168" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&light=1&feed=%2Fradioslipstream%2F{{ post.data.mixcloud }}%2F" frameborder="0" loading="lazy"></iframe>
+      <div class="iframe"><iframe width="100%" height="122" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&light=1&feed=%2Fradioslipstream%2F{{ post.data.mixcloud }}%2F" frameborder="0" loading="lazy"></iframe></div>
     {%- elseif post.data.spotify -%}
-      <iframe src="https://open.spotify.com/embed/playlist/{{ post.data.spotify }}?utm_source=generator" width="100%" height="128" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+      <div class="iframe"><iframe src="https://open.spotify.com/embed/playlist/{{ post.data.spotify }}?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe></div>
     {%- elseif post.data.filename -%}
       <audio controls preload="none"><source src="{{ post.data.filename }}" type="audio/mpeg" /></audio>
     {%- endif -%}

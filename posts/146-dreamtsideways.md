@@ -14,21 +14,23 @@ categories:
   - PLAYLISTS
 ---
 
- - Camille - Seeds
- - Apparat; Soap&Skin - Goodbye
- - PJ Harvey; Harry Escott - An Acre of Land - Edit
- - Mary Lattimore - It Feels Like Floating
- - AKUA - Offering
- - FKA twigs - cellophane
- - Jenny Hval - Ashes to Ashes
- - Caroline Polachek - Door
- - Let's Eat Grandma - Falling Into Me
- - U.S. Girls - Rosebud
- - Hundred Waters - Wave to Anchor
- - Beach House - Lemon Glow
- - 0171 - SMTHN RL
- - Real Lies - You Were in Love - Unreal Mix
- - Channel Tres - Topdown
- - Masego - Big Girls
- - Valee; Jeremih - Womp Womp
- - ABRA - Roses
+A long festering delight, this playlist is dreamy and a little bit lush and wistful, before getting a little sultrier toward the end once the sun goes down (plays real nice in before #145)
+
+ 1. Camille - Seeds
+ 1. Apparat; Soap&Skin - Goodbye
+ 1. PJ Harvey; Harry Escott - An Acre of Land - Edit
+ 1. Mary Lattimore - It Feels Like Floating
+ 1. AKUA - Offering
+ 1. FKA twigs - cellophane
+ 1. Jenny Hval - Ashes to Ashes
+ 1. Caroline Polachek - Door
+ 1. Let's Eat Grandma - Falling Into Me
+ 1. U.S. Girls - Rosebud
+ 1. Hundred Waters - Wave to Anchor
+ 1. Beach House - Lemon Glow
+ 1. 0171 - SMTHN RL
+ 1. Real Lies - You Were in Love - Unreal Mix
+ 1. Channel Tres - Topdown
+ 1. Masego - Big Girls
+ 1. Valee; Jeremih - Womp Womp
+ 1. ABRA - Roses

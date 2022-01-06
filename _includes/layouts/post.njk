@@ -4,7 +4,10 @@ templateClass: tmpl-post
 ---
 <h1 class="post-title">{{ title }}</h1>
 <div class="post-meta">
-  <time>{{ date | readableDate}}</time>
+  {%- if number -%}
+    <span> Episode {{ number }}.</span>
+  {%- endif -%}
+  <time>{{ date | readableDate}}. </time>
 </div>
 {%- if mixcloud -%}
 <iframe width="100%" height="168"

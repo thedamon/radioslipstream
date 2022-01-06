@@ -52,9 +52,14 @@ h2 {
   font-size: calc(1.2em + 2vmin);
 }
 
-iframe {
-  padding: 24px;
+.iframe {
   background: rgba(255, 255, 255, 0.2);
+}
+
+@media (min-width: 700px) {
+  .iframe {
+    padding: 1em;
+  }
 }
 
 .post-item {
@@ -209,11 +214,13 @@ ul:last-child {
   margin-bottom: 0;
 }
 
+ol li,
 ul li {
   margin: 0.5em 0;
   letter-spacing: 0.1em;
 }
 
+ol li:hover,
 ul li:hover {
   text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.4);
 }
@@ -268,6 +275,7 @@ header {
 .header-content {
   justify-content: space-between;
   display: flex;
+  gap: 2em;
   max-width: calc(1050px + 15vw + 15vh);
   margin-left: auto;
   margin-right: auto;
@@ -309,6 +317,7 @@ header {
 .nav {
   padding: 0;
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
   list-style: none;
   margin: 0;
@@ -328,6 +337,10 @@ header {
 .intro {
   font-style: italic;
   margin-bottom: 2em;
+}
+
+.intro em {
+  background-color: rgba(167, 96, 189, .3);
 }
 
 /* Posts list */
@@ -391,8 +404,10 @@ main h1,
 
 .post-meta {
   display: flex;
+  font-family: 'Courier New', Courier, monospace;
   margin-top: -24px;
   margin-bottom: 12px;
+  gap: 12px;
 }
 
 .post-footer {
@@ -406,10 +421,6 @@ main h1,
 .post-footer p {
   display: inline;
   margin: 0;
-}
-
-.post-meta {
-  font-family: 'Courier New', Courier, monospace;
 }
 
 .page-nav {

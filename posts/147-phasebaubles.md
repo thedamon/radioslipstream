@@ -14,25 +14,25 @@ categories:
   - PLAYLISTS
 ---
 
-Smooth and bubbly and nooooice.
+Disco dancing and then relaxing and then getting introspective.
 
- - Jessie Ware - Spotlight
- - Shura - religion (u can lay your hands on me)
- - Magdalena Bay - Secrets (Your Fire)
- - Róisín Murphy - Murphy's Law - Edit
- - Solange - Stay Flo
- - Tinashe - Bouncin
- - Amber Mark - Mixer
- - Janelle Monáe - Make Me Feel
- - Dua Lipa - Future Nostalgia
- - Charli XCX - forever
- - Tei Shi - Go Slow
- - Frøkedal - First Friend
- - POLIÇA - Lime Habit
- - Kacy Hill - Dinner
- - Half Waif - Blinking Light
- - Kelly Lee Owens - On
- - KROY - Hull
- - Fatima Yamaha - What's a Girl to Do
- - Todd Terje; Bryan Ferry - Johnny and Mary
- - Bruce Springsteen - Streets of Philadelphia
+ 1. Jessie Ware - Spotlight
+ 1. Shura - religion (u can lay your hands on me)
+ 1. Magdalena Bay - Secrets (Your Fire)
+ 1. Róisín Murphy - Murphy's Law - Edit
+ 1. Solange - Stay Flo
+ 1. Tinashe - Bouncin
+ 1. Amber Mark - Mixer
+ 1. Janelle Monáe - Make Me Feel
+ 1. Dua Lipa - Future Nostalgia
+ 1. Charli XCX - forever
+ 1. Tei Shi - Go Slow
+ 1. Frøkedal - First Friend
+ 1. POLIÇA - Lime Habit
+ 1. Kacy Hill - Dinner
+ 1. Half Waif - Blinking Light
+ 1. Kelly Lee Owens - On
+ 1. KROY - Hull
+ 1. Fatima Yamaha - What's a Girl to Do
+ 1. Todd Terje; Bryan Ferry - Johnny and Mary
+ 1. Bruce Springsteen - Streets of Philadelphia
