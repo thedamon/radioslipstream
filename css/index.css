@@ -214,6 +214,10 @@ ul:last-child {
   margin-bottom: 0;
 }
 
+.longlist ol {
+  padding-inline-start: 50px;
+}
+
 ol li,
 ul li {
   margin: 0.5em 0;
