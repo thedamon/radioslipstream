@@ -1,0 +1,15 @@
+---
+permalink: /post-index.json
+---
+
+{% set posts = collections.posts | reverse %}
+[
+{% for post in posts %}
+	{
+		"title": "{{post.data.title | jsonify}}",
+		"date":"{{ page.date }}",
+		"url":"{{ post.url }}",
+		"content":"{{ post.templateContent | algExcerpt | jsonify }}"
+	}{% if not forloop.last %},{% endif %}
+{% endfor %}
+]

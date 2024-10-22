@@ -1,13 +1,14 @@
 ---
-id: whenweworesisps
+id: whenweworewisps
 title: When We Wore Wisps
 date: 2024-10-19T19:52:45-05:00
 author: damon
 layout: post
-guid: whenweworesisps
-image: whenweworesisps
+guid: whenweworewisps
+image: whenweworewisps
 number: 151
 spotify: 1VosNOHm7ZrB6nnjmiUkZ3
+# playlist exporter: https://exportify.app/
 # mixcloud: cut-adrift-and-coasting-inland
 # filename: https://storage.googleapis.com/radioslipstream/radio/slipstream-143.mp3
 categories:

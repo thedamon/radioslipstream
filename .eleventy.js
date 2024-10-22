@@ -25,6 +25,21 @@ module.exports = function (eleventyConfig) {
     return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat("yyyy-LL-dd");
   });
 
+  // Remove <code>.*</code>, remove HTML, then with plain text, limit to 5k chars
+  // https://www.raymondcamden.com/2020/06/24/adding-algolia-search-to-eleventy-and-netlify
+eleventyConfig.addFilter('algExcerpt', function (text) {
+	//first remove code
+	text = text.replace(/<code class="language-.*?">.*?<\/code>/sg, '');
+	//now remove html tags
+	text = text.replace(/<.*?>/g, '');
+	//now limit to 5k
+	return text.substring(0,5000);
+});
+
+eleventyConfig.addFilter('jsonify', function (variable) {
+  return JSON.stringify(variable);
+});
+
   // Get the first `n` elements of a collection.
   eleventyConfig.addFilter("head", (array, n) => {
     if (n < 0) {
