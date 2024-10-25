@@ -1,7 +1,7 @@
 ---
 id: whenweworewisps
 title: When We Wore Wisps
-date: 2024-10-19T19:52:45-05:00
+date: 2024-10-19T19:52:45
 author: damon
 layout: post
 guid: whenweworewisps

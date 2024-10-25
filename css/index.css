@@ -59,6 +59,7 @@ h2 {
 @media (min-width: 700px) {
   .iframe {
     padding: 1em;
+    max-width: 40rem;
   }
 }
 
