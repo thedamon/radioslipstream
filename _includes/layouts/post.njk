@@ -38,13 +38,13 @@ templateClass: tmpl-post
 <div class="post-footer">
   {% if prevPost.url %}
   <p class="pref">
-    <strong>← Previous</strong>:
+    <strong>← Older</strong>:
     <a class="previous" href="{{ prevPost.url }}">{{ prevPost.data.title }}</a>
   </p>
   {% endif %}
   {% if nextPost.url %}
   <p class="next">
-    <strong>Next</strong>:
+    <strong>Newer</strong>:
     <a class="next" href="{{ nextPost.url }}">{{ nextPost.data.title }} </a> <strong>→</strong>
   </p>
   {% endif %}
