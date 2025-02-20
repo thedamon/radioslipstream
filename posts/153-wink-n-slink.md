@@ -1,6 +1,6 @@
 ---
 id: breathofsun
-title: Breath of sun on steam
+title: A Wink and a Slink
 date: 2025-02-16T19:52:45
 author: damon
 layout: post
@@ -45,3 +45,9 @@ that slides into a pretty epic climax
 1. Danger Mouse, Black Thought — Aquamarine (feat. Michael Kiwanuka)
 1. Little Simz — Introvert
 1. Nujabes — Luv(sic.) pt3 (feat. Shing02)
+
+A billow of pillow wandered off the sill.
+It darted in, around, swerving up and down
+With a wink, and a slink.
+SOMEONE HAS POKED YOU
+A wink and a slink
