@@ -20,6 +20,8 @@ before slowing down and getting serious (more sexy);
 then some gentler stuff,
 and the sax solos are actually a shift into jazz rap  
 that slides into a pretty epic climax  
+(but not *that* kind of climax)  
+(but you do you)  
 
 1. Yaya Bey — keisha
 1. Mereba — Rider
@@ -45,9 +47,3 @@ that slides into a pretty epic climax
 1. Danger Mouse, Black Thought — Aquamarine (feat. Michael Kiwanuka)
 1. Little Simz — Introvert
 1. Nujabes — Luv(sic.) pt3 (feat. Shing02)
-
-A billow of pillow wandered off the sill.
-It darted in, around, swerving up and down
-With a wink, and a slink.
-SOMEONE HAS POKED YOU
-A wink and a slink
